@@ -1,0 +1,19 @@
+{
+  "levels": [
+    { "level": 1,  "name": "Seed",        "exp_required": 0 },
+    { "level": 2,  "name": "Infant",      "exp_required": 50 },
+    { "level": 3,  "name": "Baby",        "exp_required": 120 },
+    { "level": 4,  "name": "Child",       "exp_required": 250 },
+    { "level": 5,  "name": "Teen",        "exp_required": 500 },
+    { "level": 6,  "name": "Awakening",   "exp_required": 900 },
+    { "level": 7,  "name": "Learner",     "exp_required": 1500 },
+    { "level": 8,  "name": "Student",     "exp_required": 2400 },
+    { "level": 9,  "name": "Researcher",  "exp_required": 3800 },
+    { "level": 10, "name": "Architect",   "exp_required": 6000 },
+    { "level": 11, "name": "Professor",   "exp_required": 9500 },
+    { "level": 12, "name": "Expert",      "exp_required": 15000 },
+    { "level": 13, "name": "Genius",      "exp_required": 23000 },
+    { "level": 14, "name": "Oracle",      "exp_required": 35000 },
+    { "level": 15, "name": "God Complex", "exp_required": 50000 }
+  ]
+}

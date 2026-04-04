@@ -1,0 +1,126 @@
+import tkinter as tk
+import json
+import time
+import random
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'test_AI')))
+from aitest import TestareAI
+
+class App():
+    def __init__(self, title, width, height):
+        self.ai = TestareAI()
+        self.root = tk.Tk()
+        self.root.title(title)
+        self.root.geometry(f"{width}x{height}")
+        self.root.configure(bg="#1e1e1e")  # background dark gray
+        
+        with open('levels.json', 'r') as f:
+            self.jsonLevel = json.load(f)
+        
+        self.header_app()
+        self.chat_app()
+        self.footer_app()
+        self.root.mainloop()
+        
+    def header_app(self):
+        header = tk.Frame(self.root, bg="#2c3e50")
+        header.place(x=0, y=0, width=700, height=80)
+        
+        current_level = self.jsonLevel["levels"][0]
+        
+        tk.Label(
+            header,
+            fg="white",
+            bg="#2c3e50",
+            font=("Arial", 12, "bold"),
+            text=f"Level: {current_level['level']} - {current_level['name']} ({current_level['exp_required']} XP)"
+        ).place(x=20, y=20)
+        
+        tk.Label(
+            header,
+            text="Aceasta este Afira AI",
+            fg="white",
+            bg="#2c3e50",
+            font=("Arial", 14, "bold")
+        ).place(x=350, y=5)
+
+        tk.Label(
+            header,
+            text="Invata AI-ul cum doresti",
+            fg="white",
+            bg="#2c3e50"
+        ).place(x=400, y=40)
+        
+        # separator
+        canvas = tk.Canvas(self.root, width=700, height=3, highlightthickness=0, bg="#1e1e1e")
+        canvas.place(x=0, y=80)
+        canvas.create_line(0, 1, 700, 1, fill="#34495e")
+        
+    def chat_app(self):
+        self.chat_section = tk.Frame(self.root, bg="#1e1e1e")
+        self.chat_section.place(x=0, y=83, width=700, height=367)
+        
+        self.chat_canvas = tk.Canvas(self.chat_section, bg="#1e1e1e", highlightthickness=0)
+        self.chat_canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+        
+        self.scrollbar = tk.Scrollbar(self.chat_section, orient="vertical", command=self.chat_canvas.yview)
+        self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        
+        self.chat_canvas.configure(yscrollcommand=self.scrollbar.set)
+        
+        self.chat_frame_inner = tk.Frame(self.chat_canvas, bg="#1e1e1e")
+        self.chat_window = self.chat_canvas.create_window((0,0), window=self.chat_frame_inner, anchor="nw")
+        self.chat_frame_inner.bind("<Configure>", lambda e: self.chat_canvas.configure(scrollregion=self.chat_canvas.bbox("all")))
+        self.chat_canvas.bind("<Configure>", lambda e: self.chat_canvas.itemconfig(self.chat_window, width=e.width))
+        
+    def add_message(self, text, sender="user"):
+        bg_color = "#3498db" if sender == "user" else "#555"
+        fg_color = "white"
+        
+        container = tk.Frame(self.chat_frame_inner, bg="#1e1e1e")
+        container.pack(fill="x", padx=10, pady=5)
+        
+        label = tk.Label(
+            container, 
+            text=text, 
+            bg=bg_color, 
+            fg=fg_color, 
+            wraplength=300, 
+            justify="left", 
+            padx=10, 
+            pady=5,
+            font=("Arial", 10),
+            bd=0,
+            relief="solid"
+        )
+        label.configure(highlightbackground="#000", highlightthickness=1)
+        label.config(borderwidth=1, relief="ridge")
+        label.pack(side="right" if sender=="user" else "left", anchor="e" if sender=="user" else "w")
+        
+        # scroll down
+        self.chat_canvas.update_idletasks()
+        self.chat_canvas.yview_moveto(1)
+        
+    def footer_app(self):
+        footer = tk.Frame(self.root, bg="#2c3e50")
+        footer.place(x=0, y=450, width=700, height=50)
+        
+        user_input_text = tk.StringVar()
+        
+        def submit():
+            text = user_input_text.get()
+            if text.strip() != "":
+                self.add_message(f"{text}", sender="user")
+                user_input_text.set("")
+                self.root.after(random.randint(500, 1500), lambda: self.add_message(f"{self.ai.random_message()}", sender="ai"))
+            
+        input_entry = tk.Entry(footer, textvariable=user_input_text, width=60, font=("Arial", 10))
+        input_entry.place(x=10, y=12)
+        input_entry.focus_set()
+        
+        send_btn = tk.Button(footer, text="Send", command=submit, bg="#3498db", fg="white", font=("Arial", 10, "bold"))
+        send_btn.place(x=570, y=10)
+         
+app = App("Afira AI", 700, 500)
