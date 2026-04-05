@@ -5,16 +5,18 @@ import random
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'test_AI')))
-from aitest import TestareAI
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'ai_model')))
+from brain import AIModel
 
 class App():
     def __init__(self, title, width, height):
-        self.ai = TestareAI()
+        self.ai = AIModel()
         self.root = tk.Tk()
         self.root.title(title)
         self.root.geometry(f"{width}x{height}")
-        self.root.configure(bg="#1e1e1e")  # background dark gray
+        self.root.configure(bg="#1e1e1e")
+        
+        self.learned_facts = self.ai.facts_learned
         
         with open('levels.json', 'r') as f:
             self.jsonLevel = json.load(f)
@@ -22,41 +24,68 @@ class App():
         self.header_app()
         self.chat_app()
         self.footer_app()
+        
+        self.add_message("Sunt Afira! AI-ul pe care tu trebuie sa il inveti de la 0\nScrie 'invata: <text> ca sa inveti modelul cu ceva!", sender="ai")
+        
         self.root.mainloop()
-        
+             
     def header_app(self):
-        header = tk.Frame(self.root, bg="#2c3e50")
-        header.place(x=0, y=0, width=700, height=80)
-        
+        header = tk.Frame(self.root, bg="#2c3e50", height=80)
+        header.pack(fill="x")
+
         current_level = self.jsonLevel["levels"][0]
-        
+
+        left_frame = tk.Frame(header, bg="#2c3e50")
+        left_frame.pack(side="left", padx=15, pady=10)
+
         tk.Label(
-            header,
+            left_frame,
             fg="white",
             bg="#2c3e50",
             font=("Arial", 12, "bold"),
             text=f"Level: {current_level['level']} - {current_level['name']} ({current_level['exp_required']} XP)"
-        ).place(x=20, y=20)
-        
+        ).pack(anchor="w")
+
+        center_frame = tk.Frame(header, bg="#2c3e50")
+        center_frame.pack(side="left", expand=True)
+
         tk.Label(
-            header,
+            center_frame,
             text="Aceasta este Afira AI",
             fg="white",
             bg="#2c3e50",
             font=("Arial", 14, "bold")
-        ).place(x=350, y=5)
+        ).pack()
 
         tk.Label(
-            header,
+            center_frame,
             text="Invata AI-ul cum doresti",
             fg="white",
             bg="#2c3e50"
-        ).place(x=400, y=40)
-        
-        # separator
-        canvas = tk.Canvas(self.root, width=700, height=3, highlightthickness=0, bg="#1e1e1e")
-        canvas.place(x=0, y=80)
-        canvas.create_line(0, 1, 700, 1, fill="#34495e")
+        ).pack()
+
+        right_frame = tk.Frame(header, bg="#2c3e50")
+        right_frame.pack(side="right", padx=15, pady=10)
+
+        tk.Label(
+            right_frame,
+            text="Fapte invatate",
+            fg="#bdc3c7",
+            bg="#2c3e50",
+            font=("Arial", 9)
+        ).pack(anchor="e")
+
+        self.facts_label = tk.Label(
+            right_frame,
+            text=str(self.learned_facts),
+            fg="white",
+            bg="#2c3e50",
+            font=("Arial", 14, "bold")
+        )
+        self.facts_label.pack(anchor="e")
+
+        canvas = tk.Canvas(self.root, height=2, highlightthickness=0, bg="#1e1e1e")
+        canvas.pack(fill="x")
         
     def chat_app(self):
         self.chat_section = tk.Frame(self.root, bg="#1e1e1e")
@@ -99,7 +128,6 @@ class App():
         label.config(borderwidth=1, relief="ridge")
         label.pack(side="right" if sender=="user" else "left", anchor="e" if sender=="user" else "w")
         
-        # scroll down
         self.chat_canvas.update_idletasks()
         self.chat_canvas.yview_moveto(1)
         
@@ -110,14 +138,23 @@ class App():
         user_input_text = tk.StringVar()
         
         def submit():
-            text = user_input_text.get()
-            if text.strip() != "":
-                self.add_message(f"{text}", sender="user")
+            text = user_input_text.get().strip()
+            if text != "":
+                self.add_message(text, sender="user")
                 user_input_text.set("")
-                self.root.after(random.randint(500, 1500), lambda: self.add_message(f"{self.ai.random_message()}", sender="ai"))
+                
+                if text.lower().startswith("invata:"):
+                    fact_to_learn = text[len("invata:"):].strip()
+                    response = self.ai.teach_AI(fact_to_learn)
+                    self.learned_facts += 1
+                    self.facts_label.config(text=str(self.learned_facts))
+                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
+                else:
+                    self.root.after(500, lambda: self.add_message("Foloseste 'invata: <text>' pentru a ma invata ceva!", sender="ai"))
             
         input_entry = tk.Entry(footer, textvariable=user_input_text, width=60, font=("Arial", 10))
         input_entry.place(x=10, y=12)
+        input_entry.bind("<Return>", lambda event: submit())
         input_entry.focus_set()
         
         send_btn = tk.Button(footer, text="Send", command=submit, bg="#3498db", fg="white", font=("Arial", 10, "bold"))
