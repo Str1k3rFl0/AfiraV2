@@ -6,6 +6,9 @@ import hashlib
 from datetime import datetime
 import re
 
+import networkx as nx
+import matplotlib.pyplot as plt
+
 class AIModel():
     def __init__(self):
         model_name = "utter-project/EuroLLM-1.7B-Instruct"
@@ -66,6 +69,10 @@ class AIModel():
             return "I don't know that yet."
 
         context = results["documents"][0][0]
+        distance = results["distances"][0][0]
+
+        if distance > 0.55:
+            return f"I don't have information about this in my memory."
 
         prompt = (
             f"Context: {context}\n"
@@ -76,7 +83,7 @@ class AIModel():
         try:
             sequences = self.generator(
                 prompt,
-                max_new_tokens=10,      
+                max_new_tokens=25,
                 do_sample=False,
                 repetition_penalty=1.2,
                 pad_token_id=self.tokenizer.eos_token_id,
@@ -84,11 +91,12 @@ class AIModel():
             )
             
             raw_answer = sequences[0]["generated_text"].strip()
+            
             clean_answer = raw_answer.split("\n")[0]
             clean_answer = re.sub(r'[^a-zA-Z0-9\s!\?\.]', '', clean_answer).strip()
             
-            if len(clean_answer) < 2 or "I dont know" in clean_answer:
-                return f"Based on my memory: {context}"
+            if len(clean_answer) < 2:
+                return context
                 
             return clean_answer
 

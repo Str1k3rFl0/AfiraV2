@@ -30,13 +30,13 @@ class App():
     def header_app(self):
         header = tk.Frame(self.root, bg="#2c3e50", height=80)
         header.pack(fill="x")
-
-        current_level = self.jsonLevel["levels"][0]
         
         left_frame = tk.Frame(header, bg="#2c3e50")
         left_frame.pack(side="left", padx=15, pady=10)
-        tk.Label(left_frame, fg="white", bg="#2c3e50", font=("Arial", 10, "bold"),
-                 text=f"Level: {current_level['level']}\nExp: {current_level['exp_required']} XP").pack(anchor="w")
+        self.level_label = tk.Label(left_frame, fg="white", bg="#2c3e50", font=("Arial", 10, "bold"),
+                 text="Loading stats...")
+        self.level_label.pack(anchor="w")
+        self.level_up()
 
         center_frame = tk.Frame(header, bg="#2c3e50")
         center_frame.pack(side="left", expand=True)
@@ -88,6 +88,7 @@ class App():
                     if was_learned:
                         self.learned_facts = self.ai.facts_learned
                         self.facts_label.config(text=str(self.learned_facts))
+                        self.level_up()
                     self.root.after(500, lambda: self.add_message(response, sender="ai"))
             elif text.startswith("?:"):
                 question = text[2:].strip()
@@ -101,5 +102,19 @@ class App():
         input_entry.place(x=10, y=15)
         input_entry.bind("<Return>", lambda e: submit())
         tk.Button(footer, text="Send", command=submit, bg="#3498db", fg="white").place(x=600, y=10)
+        
+    # function for leveling up system
+    def level_up(self):
+        current_xp = self.learned_facts
+        new_level_data = self.jsonLevel["levels"][0]
+        
+        for lvl in self.jsonLevel["levels"]:
+            if current_xp >= lvl["exp_required"]:
+                new_level_data = lvl
+            else:
+                break
+            
+        self.level_label.config(text=f"Level: {new_level_data['level']} ({new_level_data['name']})\nExp: {current_xp} XP")
+        
 
 app = App("Afira AI - English", 700, 500)
