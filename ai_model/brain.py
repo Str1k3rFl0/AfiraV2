@@ -5,8 +5,11 @@ import chromadb
 import hashlib
 from datetime import datetime
 import re
+import json
+import os
 
 import networkx as nx
+import pickle
 import matplotlib.pyplot as plt
 
 class AIModel():
@@ -36,6 +39,128 @@ class AIModel():
             tokenizer=self.tokenizer
         )
         
+        self.graph_path = "afira_graph.pkl"
+        if os.path.exists(self.graph_path):
+            with open(self.graph_path, 'rb') as f:
+                self.graph = pickle.load(f)
+            print("Graph loaded from disk!")
+        else:
+            self.graph = nx.DiGraph()
+        
+    def extract_entities_and_relationships(self, user_text):
+        prompt = (
+            f"<|im_start|>system\n"
+            f"You are a knowledge graph extractor. Extract entities and relationships as JSON.\n"
+            f"RULES:\n"
+            f"1. 'entities' must be a list of names.\n"
+            f"2. 'relationships' must be a list of [entity1, relation, entity2].\n"
+            f"EXAMPLES:\n"
+            f"Text: 'The dog is an animal'\n"
+            f"Output: {{\"entities\": [\"dog\", \"animal\"], \"relationships\": [[\"dog\", \"is\", \"animal\"]]}}\n"
+            f"Text: 'Our dog name is Pablo'\n"
+            f"Output: {{\"entities\": [\"dog\", \"Pablo\"], \"relationships\": [[\"dog\", \"name is\", \"Pablo\"]]}}\n"
+            f"<|im_end|>\n"
+            f"<|im_start|>user\n"
+            f"Text: '{user_text}'\n"
+            f"Output:<|im_end|>\n"
+            f"<|im_start|>assistant\n{{"
+        )
+        
+        response = self.generator(
+            prompt,
+            max_new_tokens=100,
+            do_sample=False,
+            temperature=0.1, 
+            return_full_text=False
+        )
+        
+        return "{" + response[0]["generated_text"].strip()
+    
+    def build_graph(self, json_data):
+        try:
+            json_str = re.sub(r"```json|```", "", json_data).strip()
+            
+            start_idx = json_str.find("{")
+            end_idx = json_str.rfind("}")
+            
+            if start_idx == -1 or end_idx == -1:
+                print(f"Error: No JSON found in model output: {json_data}")
+                return False
+
+            json_str = json_str[start_idx:end_idx + 1]
+            data = json.loads(json_str)
+            
+            entities = data.get("entities", [])
+            relationships = data.get("relationships", [])
+            
+            forbidden_terms = {"item1", "item2", "item"}
+            if any(term in str(entities).lower() for term in forbidden_terms):
+                print("The model generated generic data (item1/2). We ignore it.")
+                return False
+            clean_entities = [e if isinstance(e, str) else str(e) for e in entities]
+            
+            self.graph.add_nodes_from(clean_entities)
+            for rel in relationships:
+                if len(rel) == 3:
+                    self.graph.add_edge(rel[0], rel[2], relation=rel[1])
+                        
+            with open(self.graph_path, 'wb') as f:
+                pickle.dump(self.graph, f)
+            return True
+        except Exception as e:
+            print(f"Graph update error: {e}")
+            return False
+        
+    def show_graph(self):
+        if self.graph.number_of_nodes() == 0:
+            return "Graph is empty. Teach me something first."
+        
+        plt.figure(figsize=(14, 10))
+        plt.clf()
+        
+        pos = nx.spring_layout(self.graph, k=3.0, iterations=100, seed=42)
+
+        nx.draw_networkx_nodes(
+            self.graph, pos,
+            node_color="#3498db",
+            node_size=2500,
+            alpha=0.95
+        )
+        
+        nx.draw_networkx_labels(
+            self.graph, pos,
+            font_color="white",
+            font_size=10,
+            font_weight="bold"
+        )
+        
+        nx.draw_networkx_edges(
+            self.graph, pos,
+            edge_color="#e74c3c",
+            arrows=True,
+            arrowsize=25,
+            arrowstyle="-|>",
+            width=2.0,
+            connectionstyle="arc3,rad=0.1",
+            min_source_margin=30,
+            min_target_margin=30
+        )
+        
+        edge_labels = nx.get_edge_attributes(self.graph, "relation")
+        nx.draw_networkx_edge_labels(
+            self.graph, pos,
+            edge_labels=edge_labels,
+            font_size=9,
+            font_color="#2c3e50",
+            bbox=dict(boxstyle="round,pad=0.3", fc="white", ec="gray", alpha=0.8)
+        )
+        
+        plt.title("Afira's Knowledge Graph", fontsize=14, fontweight="bold", pad=20)
+        plt.axis("off")
+        plt.tight_layout()
+        plt.show()
+        return "Opening graph window..."
+             
     def teach_AI(self, user_text):
         text = user_text.strip()
         if not text:
@@ -55,50 +180,56 @@ class AIModel():
             metadatas=[{"added_at": datetime.now().isoformat()}]
         )
         
+        json_output = self.extract_entities_and_relationships(text)
+        print(f"DEBUG -> MODEL OUTPUT: {json_output}")
+        if self.build_graph(json_output):
+            with open(self.graph_path, 'wb') as f:
+                pickle.dump(self.graph, f)
+            print("Graph saved to disk!")
+        
         self.facts_learned += 1
         return f"I learned something new!\nFact: | {text} |", True
     
     def ask_AI(self, user_question):
         if self.memory.count() == 0:
-            return "Memory is empty. Use 'learn: <text>'"
+            return "Memory is empty."
 
         question_emb = self.embed_model.encode(user_question).tolist()
-        results = self.memory.query(query_embeddings=[question_emb], n_results=1)
+        results = self.memory.query(query_embeddings=[question_emb], n_results=2)
+        
+        context_list = results["documents"][0] if results["documents"] else []
+        
+        words = re.findall(r'\w+', user_question.lower())
+        graph_facts = []
+        for node in self.graph.nodes():
+            if node.lower() in words:
+                for neighbor in self.graph.neighbors(node):
+                    rel = self.graph.get_edge_data(node, neighbor).get("relation", "related to")
+                    graph_facts.append(f"{node} {rel} {neighbor}")
 
-        if not results["documents"] or not results["documents"][0]:
-            return "I don't know that yet."
-
-        context = results["documents"][0][0]
-        distance = results["distances"][0][0]
-
-        if distance > 0.55:
-            return f"I don't have information about this in my memory."
+        combined_context = ". ".join(context_list + graph_facts)
 
         prompt = (
-            f"Context: {context}\n"
-            f"Question: {user_question}\n"
-            f"Short Answer:"
+            f"<|im_start|>system\n"
+            f"You are a helpful assistant. Answer the question ONLY using the provided facts. "
+            f"If the answer is not in the facts, say 'I don't know'. DO NOT invent stories.\n"
+            f"FACTS: {combined_context}<|im_end|>\n"
+            f"<|im_start|>user\n"
+            f"{user_question}<|im_end|>\n"
+            f"<|im_start|>assistant\n"
         )
 
         try:
             sequences = self.generator(
                 prompt,
-                max_new_tokens=25,
+                max_new_tokens=30,
                 do_sample=False,
-                repetition_penalty=1.2,
-                pad_token_id=self.tokenizer.eos_token_id,
+                temperature=0.1, 
+                repetition_penalty=1.5,
                 return_full_text=False
             )
+            answer = sequences[0]["generated_text"].strip()
             
-            raw_answer = sequences[0]["generated_text"].strip()
-            
-            clean_answer = raw_answer.split("\n")[0]
-            clean_answer = re.sub(r'[^a-zA-Z0-9\s!\?\.]', '', clean_answer).strip()
-            
-            if len(clean_answer) < 2:
-                return context
-                
-            return clean_answer
-
+            return answer.split("<|im_end|>")[0].split("\n")[0].strip()
         except Exception as e:
-            return f"Memory: {context}"
+            return f"I know this: {combined_context}"

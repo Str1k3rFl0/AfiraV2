@@ -81,6 +81,11 @@ class App():
             self.add_message(text, sender="user")
             user_input_text.set("")
             
+            if text.lower() == "show graph networkx":
+                reponse = self.ai.show_graph()
+                self.add_message(reponse, sender="ai")
+                return
+            
             if text.lower().startswith("learn:"):
                 fact = text[6:].strip()
                 if fact:
