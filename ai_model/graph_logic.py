@@ -9,12 +9,13 @@ def extract_entities_and_relationships(self, user_text):
     prompt = (
         f"<|im_start|>system\n"
         f"You are a knowledge graph extractor. Extract entities and relationships as JSON.\n"
-        f"RULES:\n"
-        f"1. 'entities' must be a list of names.\n"
-        f"2. 'relationships' must be a list of [entity1, relation, entity2].\n"
+        f"CRITICAL RULES:\n"
+        f"1. Every element used in 'relationships' MUST be present in the 'entities' list.\n"
+        f"2. Be specific. If 'A' is the creator of 'B', entities are ['A', 'B'] and relationship is [['A', 'creator of', 'B']].\n"
+        f"3. Return ONLY valid JSON.\n"
         f"EXAMPLES:\n"
-        f"Text: 'The dog is an animal'\n"
-        f"Output: {{\"entities\": [\"dog\", \"animal\"], \"relationships\": [[\"dog\", \"is\", \"animal\"]]}}\n"
+        f"Text: 'The creator of Afira is Flavius.'\n"
+        f"Output: {{\"entities\": [\"Afira\", \"Flavius\"], \"relationships\": [[\"Flavius\", \"is creator of\", \"Afira\"]]}}\n"
         f"Text: 'Our dog name is Pablo'\n"
         f"Output: {{\"entities\": [\"dog\", \"Pablo\"], \"relationships\": [[\"dog\", \"name is\", \"Pablo\"]]}}\n"
         f"<|im_end|>\n"
@@ -26,13 +27,18 @@ def extract_entities_and_relationships(self, user_text):
     
     response = self.generator(
         prompt,
-        max_new_tokens=100,
+        max_new_tokens=150,
         do_sample=False,
         temperature=0.1, 
         return_full_text=False
     )
     
-    return "{" + response[0]["generated_text"].strip()
+    generated = response[0]["generated_text"].strip()
+    if not generated.endswith("}"):
+        generated += "}"
+        
+    full_json = "{" + generated
+    return full_json
 
 
 def build_graph(self, json_data):

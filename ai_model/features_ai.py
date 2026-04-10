@@ -82,3 +82,22 @@ def ask_AI(self, user_question):
         return answer.split("<|im_end|>")[0].split("\n")[0].strip()
     except Exception as e:
         return f"I found these facts, but I'm having trouble phrasing it: {combined_context}"
+    
+def show_all_facts(self, threshold):
+    if self.memory.count() == 0:
+        return "Nothing to show here!"
+    
+    facts = self.memory.get()
+    if not facts["documents"] or not facts["documents"]:
+        return "Nothing to show here!"
+    
+    all_facts_text = "Here is everything I know for what you request:\n\n"   
+    if threshold == 0:
+        for i, doc in enumerate(facts["documents"], 1):
+            all_facts_text += f"{i}. {doc}\n"
+    else:
+        
+        for i, doc in enumerate(facts["documents"][:threshold], 1):
+            all_facts_text += f"{i}. {doc}\n"
+        
+    return all_facts_text

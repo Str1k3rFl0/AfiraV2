@@ -25,6 +25,9 @@ class App():
         
         self.add_message("I am Afira! An AI you must teach from scratch.\nCommands: 'learn: <text>' & '?: <text>'", sender="ai")
         
+        # threshold var. for learned facts range
+        self.threshold = 0
+        
         self.root.mainloop()
              
     def header_app(self):
@@ -84,6 +87,14 @@ class App():
             if text.lower() == "<show_graph_networkx>":
                 reponse = self.ai.show_graph()
                 self.add_message(reponse, sender="ai")
+                return
+            
+            if text.lower().startswith("<show_all_learned_facts_") and text.endswith(">"):
+                num_str = text.split("_")[-1].replace(">", "")
+                current_var = int(num_str)
+                
+                response = self.ai.show_all_facts(threshold=current_var)
+                self.root.after(500, lambda: self.add_message(response, sender="ai"))
                 return
             
             if text.lower().startswith("learn:"):
