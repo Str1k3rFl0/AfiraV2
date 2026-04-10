@@ -81,7 +81,7 @@ class App():
             self.add_message(text, sender="user")
             user_input_text.set("")
             
-            if text.lower() == "show graph networkx":
+            if text.lower() == "<show_graph_networkx>":
                 reponse = self.ai.show_graph()
                 self.add_message(reponse, sender="ai")
                 return
@@ -108,7 +108,6 @@ class App():
         input_entry.bind("<Return>", lambda e: submit())
         tk.Button(footer, text="Send", command=submit, bg="#3498db", fg="white").place(x=600, y=10)
         
-    # function for leveling up system
     def level_up(self):
         current_xp = self.learned_facts
         new_level_data = self.jsonLevel["levels"][0]

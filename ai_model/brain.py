@@ -191,14 +191,17 @@ class AIModel():
         return f"I learned something new!\nFact: | {text} |", True
     
     def ask_AI(self, user_question):
-        if self.memory.count() == 0:
-            return "Memory is empty."
+        if self.memory.count() == 0 and self.graph.number_of_nodes() == 0:
+            return "Memory is empty. I don't know anything yet."
 
         question_emb = self.embed_model.encode(user_question).tolist()
         results = self.memory.query(query_embeddings=[question_emb], n_results=2)
         
-        context_list = results["documents"][0] if results["documents"] else []
+        raw_docs = results["documents"][0] if results["documents"] else []
+        distances = results["distances"][0] if results["distances"] else []
         
+        filtered_context = [doc for doc, dist in zip(raw_docs, distances) if dist <= 0.55]
+
         words = re.findall(r'\w+', user_question.lower())
         graph_facts = []
         for node in self.graph.nodes():
@@ -207,12 +210,15 @@ class AIModel():
                     rel = self.graph.get_edge_data(node, neighbor).get("relation", "related to")
                     graph_facts.append(f"{node} {rel} {neighbor}")
 
-        combined_context = ". ".join(context_list + graph_facts)
+        if not filtered_context and not graph_facts:
+            return "I don't have information about this in my memory. Please teach me first."
+        
+        combined_context = ". ".join(filtered_context + graph_facts)
 
         prompt = (
             f"<|im_start|>system\n"
             f"You are a helpful assistant. Answer the question ONLY using the provided facts. "
-            f"If the answer is not in the facts, say 'I don't know'. DO NOT invent stories.\n"
+            f"Be concise. If the facts don't contain the answer, say 'I don't know'.\n"
             f"FACTS: {combined_context}<|im_end|>\n"
             f"<|im_start|>user\n"
             f"{user_question}<|im_end|>\n"
@@ -229,7 +235,6 @@ class AIModel():
                 return_full_text=False
             )
             answer = sequences[0]["generated_text"].strip()
-            
             return answer.split("<|im_end|>")[0].split("\n")[0].strip()
         except Exception as e:
-            return f"I know this: {combined_context}"
+            return f"I found these facts, but I'm having trouble phrasing it: {combined_context}"
