@@ -111,6 +111,15 @@ class App():
                 if question:
                     response = self.ai.ask_AI(question)
                     self.root.after(500, lambda: self.add_message(response, sender="ai"))
+            elif text.lower().startswith("forget:"):
+                fact = text[7:].strip()
+                if fact:
+                    response, was_forgotten = self.ai.forget_facts(fact)
+                    if was_forgotten:
+                        self.learned_facts = self.ai.facts_learned
+                        self.facts_label.config(text=str(self.learned_facts))
+                        self.level_up()
+                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
             else:
                 self.add_message("Please use 'learn: <text>' or '?: <question>'", sender="ai")
             

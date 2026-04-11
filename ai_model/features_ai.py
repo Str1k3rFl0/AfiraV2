@@ -2,7 +2,7 @@ import hashlib
 import pickle
 import re
 from datetime import datetime
-
+import json
 
 def teach_AI(self, user_text):
     text = user_text.strip()
@@ -82,6 +82,44 @@ def ask_AI(self, user_question):
         return answer.split("<|im_end|>")[0].split("\n")[0].strip()
     except Exception as e:
         return f"I found these facts, but I'm having trouble phrasing it: {combined_context}"
+    
+def forget_facts(self, user_text):
+    text = user_text.strip()
+    if not text:
+        return "You didn't tell me anything to forget."
+    
+    fact_id = hashlib.sha1(user_text.encode()).hexdigest()
+    existing_fact = self.memory.get(ids=[fact_id])
+    if not existing_fact["ids"]:
+        return "Nothing to forget."
+    
+    self.memory.delete(ids=[fact_id])
+    self.facts_learned = max(0, self.facts_learned - 1)
+    
+    try:
+        json_output = self.extract_entities_and_relationships(text)
+        data = json.loads(json_output)
+        
+        entities = data.get("entities", [])
+        relationships = data.get("relationships", [])
+        
+        for rel in relationships:
+            if len(rel) >= 3:
+                u, v = rel[0], rel[2]
+                if self.graph.has_edge(u, v):
+                    self.graph.remove_edge(u, v)
+                    
+        for entity in entities:
+            if self.graph.has_node(entity) and self.graph.degree(entity) == 0:
+                self.graph.remove_node(entity)
+                
+        with open(self.graph_path, 'wb') as f:
+            pickle.dump(self.graph, f)
+            
+    except Exception as e:
+        print(f"Graph cleanup error: {e}")
+        
+    return f"I have forgotten | {text} | and updated my knowledge graph.", True
     
 def show_all_facts(self, threshold):
     if self.memory.count() == 0:

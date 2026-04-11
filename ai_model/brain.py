@@ -7,7 +7,7 @@ import pickle
 import networkx as nx
 
 from graph_logic import extract_entities_and_relationships, build_graph, show_graph
-from features_ai import teach_AI, ask_AI, show_all_facts
+from features_ai import teach_AI, ask_AI, forget_facts, show_all_facts
 
 class AIModel():
     def __init__(self):
@@ -50,4 +50,5 @@ class AIModel():
 
     teach_AI = teach_AI
     ask_AI = ask_AI
+    forget_facts = forget_facts
     show_all_facts = show_all_facts
