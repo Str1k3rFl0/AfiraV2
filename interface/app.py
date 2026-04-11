@@ -120,6 +120,19 @@ class App():
                         self.facts_label.config(text=str(self.learned_facts))
                         self.level_up()
                     self.root.after(500, lambda: self.add_message(response, sender="ai"))
+            elif text.lower().startswith("edit:"):
+                content = text[5:].strip()
+                if "|" in content:
+                    parts = content.split("|")
+                    old_f = parts[0].strip()
+                    new_f = parts[1].strip()
+                    response, was_edited = self.ai.edit_facts(old_f, new_f)
+                    if was_edited:
+                        self.facts_label.config(text=str(self.ai.facts_learned))
+                        self.level_up()
+                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
+                else:
+                    self.add_message("Format: edit: Old Fact | New Fact", sender="ai")
             else:
                 self.add_message("Please use 'learn: <text>' or '?: <question>'", sender="ai")
             

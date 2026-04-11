@@ -120,6 +120,27 @@ def forget_facts(self, user_text):
         print(f"Graph cleanup error: {e}")
         
     return f"I have forgotten | {text} | and updated my knowledge graph.", True
+
+def edit_facts(self, old_text, new_text):
+    old_text = old_text.strip()
+    new_text = new_text.strip()
+    if not old_text or not new_text:
+        return "You didn't tell me anything to edit."
+    
+    old_id = hashlib.sha1(old_text.encode()).hexdigest()
+    existing_fact = self.memory.get(ids=[old_id])
+    
+    if not existing_fact["ids"]:
+        return f"I couldn't find the fact: | {old_text} |", False
+    
+    self.forget_facts(old_text)
+    response, success = self.teach_AI(new_text)
+    
+    if success:
+        return f"Done! I've updated my memory.\nFrom: {old_text}\nTo: {new_text}", True
+    else:
+        return "Something went wrong while learning the new fact.", False
+
     
 def show_all_facts(self, threshold):
     if self.memory.count() == 0:
