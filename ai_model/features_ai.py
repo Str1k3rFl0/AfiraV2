@@ -44,7 +44,7 @@ def ask_AI(self, user_question):
     raw_docs = results["documents"][0] if results["documents"] else []
     distances = results["distances"][0] if results["distances"] else []
     
-    filtered_context = [doc for doc, dist in zip(raw_docs, distances) if dist <= 0.55]
+    filtered_context = [doc for doc, dist in zip(raw_docs, distances) if dist <= 0.65]
 
     words = re.findall(r'\w+', user_question.lower())
     graph_facts = []
@@ -59,23 +59,34 @@ def ask_AI(self, user_question):
     
     combined_context = ". ".join(filtered_context + graph_facts)
 
+    few_shot_example = (
+        f"<|im_start|>user\n"
+        f"FACTS: The sky is pink. Grass is blue.\n"
+        f"QUESTION: What color is the sky?<|im_end|>\n"
+        f"<|im_start|>assistant\n"
+        f"The sky is pink.<|im_end|>\n"
+    )
+
     prompt = (
         f"<|im_start|>system\n"
-        f"You are a helpful assistant. Answer the question ONLY using the provided facts. "
-        f"Be concise. If the facts don't contain the answer, say 'I don't know'.\n"
-        f"FACTS: {combined_context}<|im_end|>\n"
+        f"You are a strict retrieval assistant. You MUST ignore your own knowledge and answer ONLY using the provided FACTS. "
+        f"If the answer is not in the FACTS, say 'I don't know'.\n<|im_end|>\n"
+        f"{few_shot_example}"
         f"<|im_start|>user\n"
-        f"{user_question}<|im_end|>\n"
+        f"FACTS: {combined_context}\n"
+        f"QUESTION: {user_question}<|im_end|>\n"
         f"<|im_start|>assistant\n"
     )
 
     try:
+        print(f"DEBUG -> CONTEXT: {combined_context}")
+        
         sequences = self.generator(
             prompt,
             max_new_tokens=30,
             do_sample=False,
-            temperature=0.1, 
-            repetition_penalty=1.5,
+            #temperature=0.1, 
+            repetition_penalty=1.0,
             return_full_text=False
         )
         answer = sequences[0]["generated_text"].strip()
@@ -142,7 +153,7 @@ def edit_facts(self, old_text, new_text):
         return "Something went wrong while learning the new fact.", False
 
     
-def show_all_facts(self, threshold):
+def show_all_facts(self, search_val):
     if self.memory.count() == 0:
         return "Nothing to show here!"
     
@@ -150,13 +161,28 @@ def show_all_facts(self, threshold):
     if not facts["documents"] or not facts["documents"]:
         return "Nothing to show here!"
     
-    all_facts_text = "Here is everything I know for what you request:\n\n"   
-    if threshold == 0:
-        for i, doc in enumerate(facts["documents"], 1):
-            all_facts_text += f"{i}. {doc}\n"
+    try:
+        threshold = int(search_val)
+        is_numeric = True
+    except ValueError:
+        is_numeric = False
+        
+    docs = facts["documents"]
+    
+    if is_numeric:
+        limit = len(docs) if threshold == 0 else threshold
+        docs_to_show = docs[:limit]
+        header = f"Showing first {len(docs_to_show)} facts:\n\n"
     else:
+        query = str(search_val).lower()
+        docs_to_show = [d for d in docs if query in d.lower()]
+        header = f"Search results for | {search_val} |:\n\n"
+        if not docs_to_show:
+            return f"I couldn't find any facts containing '{search_val}'."
         
-        for i, doc in enumerate(facts["documents"][:threshold], 1):
-            all_facts_text += f"{i}. {doc}\n"
+    final_text = header
+    for i, doc in enumerate(docs_to_show, 1):
+        final_text += f"{i}. {doc}\n"
         
-    return all_facts_text
+        
+    return final_text

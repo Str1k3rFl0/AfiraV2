@@ -90,10 +90,13 @@ class App():
                 return
             
             if text.lower().startswith("<show_all_learned_facts_") and text.endswith(">"):
-                num_str = text.split("_")[-1].replace(">", "")
-                current_var = int(num_str)
-                
-                response = self.ai.show_all_facts(threshold=current_var)
+                val = text.split("_")[-1].replace(">", "").strip()
+    
+                if not val:
+                    self.add_message("Please provide a number or a keyword.", sender="ai")
+                    return
+
+                response = self.ai.show_all_facts(search_val=val)
                 self.root.after(500, lambda: self.add_message(response, sender="ai"))
                 return
             
