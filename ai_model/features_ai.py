@@ -9,30 +9,54 @@ def teach_AI(self, user_text):
     if not text:
         return "You didn't tell me anything to learn.", False
     
-    fact_id = hashlib.sha1(text.encode()).hexdigest()
-    embedding = self.embed_model.encode(text).tolist()
+    sentences = [s.strip() for s in re.split(r'[.!?]+', text) if s.strip()]
+    learned_count = 0
+    already_known_count = 0
+    learned_sentences = []
     
-    existing_fact = self.memory.get(ids=[fact_id])
-    if existing_fact["ids"]:
-        return f"I already knew that: '{text}'", False
-    
-    self.memory.add(
-        documents=[text],
-        embeddings=[embedding],
-        ids=[fact_id],
-        metadatas=[{"added_at": datetime.now().isoformat()}]
-    )
-    
-    json_output = self.extract_entities_and_relationships(text)
-    print(f"DEBUG -> MODEL OUTPUT: {json_output}")
-    if self.build_graph(json_output):
+    for sentence in sentences:
+        fact_id = hashlib.sha1(sentence.encode()).hexdigest()
+        existing_fact = self.memory.get(ids=[fact_id])
+        
+        if existing_fact["ids"]:
+            already_known_count += 1
+            continue
+        
+        embedding = self.embed_model.encode(sentence).tolist()
+        self.memory.add(
+            documents=[sentence],
+            embeddings=[embedding],
+            ids=[fact_id],
+            metadatas=[{"timestamp": str(datetime.now())}]
+        )
+        
+        json_output = self.extract_entities_and_relationships(sentence)
+        print(f"DEBUG -> MODEL OUTPUT for '{sentence}': {json_output}")
+        self.build_graph(json_output)
+        
+        learned_count += 1
+        learned_sentences.append(sentence)
+        
+    if learned_count > 0:
         with open(self.graph_path, 'wb') as f:
             pickle.dump(self.graph, f)
         print("Graph saved to disk!")
+        
+        self.facts_learned += learned_count
+        
+        response = f"I leaned {learned_count} new facts!\n"
+        for s in learned_sentences:
+            response += f"- {s}\n"
+        
+        if already_known_count > 0:
+            response += f"\n(I skipped {already_known_count} facts that I already knew.)"
+            
+        return response.strip(), True
     
-    self.facts_learned += 1
-    return f"I learned something new!\nFact: | {text} |", True
-
+    else:
+        if already_known_count > 0:
+            return "I already knew all of that!", False
+        return "I couldn't extract any clear facts.", False
 
 def ask_AI(self, user_question):
     if self.memory.count() == 0 and self.graph.number_of_nodes() == 0:
