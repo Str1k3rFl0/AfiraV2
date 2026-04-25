@@ -109,6 +109,14 @@ class App():
                         self.facts_label.config(text=str(self.learned_facts))
                         self.level_up()
                     self.root.after(500, lambda: self.add_message(response, sender="ai"))
+            elif text.lower().startswith("learn_document:"):
+                content = text[15:].strip()
+                response, was_learned = self.ai.learn_document(content)
+                if was_learned:
+                    self.learned_facts = self.ai.facts_learned
+                    self.facts_label.config(text=str(self.ai.facts_learned))
+                    self.level_up()
+                self.root.after(500, lambda: self.add_message(response, sender="ai"))
             elif text.startswith("?:"):
                 question = text[2:].strip()
                 if question:

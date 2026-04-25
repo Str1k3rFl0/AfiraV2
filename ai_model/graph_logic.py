@@ -69,8 +69,8 @@ def build_graph(self, json_data):
             if len(rel) == 3:
                 self.graph.add_edge(rel[0], rel[2], relation=rel[1])
                     
-        with open(self.graph_path, 'wb') as f:
-            pickle.dump(self.graph, f)
+        # with open(self.graph_path, 'wb') as f:
+        #     pickle.dump(self.graph, f)
         return True
     except Exception as e:
         print(f"Graph update error: {e}")

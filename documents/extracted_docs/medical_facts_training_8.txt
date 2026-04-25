@@ -1,0 +1,129 @@
+A Complete Blood Count (CBC) measures red blood cells, white blood cells, and
+platelets.
+Normal adult hemoglobin range is typically 13.5-17.5 g/dL for men and 12.0-15.5
+g/dL for women.
+Low hemoglobin levels indicate Anemia.
+High hemoglobin levels can indicate Polycythemia or dehydration.
+The normal White Blood Cell (WBC) count is between 4,500 and 11,000 cells per
+microliter.
+Leukocytosis (high WBC count) often indicates an ongoing infection or
+inflammation.
+Leukopenia (low WBC count) can indicate bone marrow failure or autoimmune
+conditions.
+Neutrophils are the most common type of WBC and increase during bacterial
+infections.
+Lymphocytes increase during viral infections.
+Eosinophils often increase during allergic reactions or parasitic infections.
+Platelets (thrombocytes) help in blood clotting; normal range is 150,000 to
+450,000 per microliter.
+Thrombocytopenia (low platelets) increases the risk of spontaneous bleeding and
+bruising.
+Thrombocytosis (high platelets) can increase the risk of unwanted blood clots.
+Hematocrit measures the proportion of red blood cells in the blood.
+Blood glucose levels are normally between 70 and 99 mg/dL when fasting.
+Hyperglycemia (fasting glucose >126 mg/dL) is a primary indicator of Diabetes
+Mellitus.
+HbA1c measures average blood sugar over the past 2-3 months; a level of 6.5% or
+higher indicates diabetes.
+Creatinine is a waste product filtered by kidneys; high levels suggest impaired
+kidney function.
+BUN (Blood Urea Nitrogen) levels also increase when kidney function is reduced.
+The Glomerular Filtration Rate (GFR) is the best overall measure of kidney
+function.
+ALT (Alanine Aminotransferase) is an enzyme found mostly in the liver; high
+levels indicate liver damage.
+AST (Aspartate Aminotransferase) is found in the liver and heart; high levels can
+suggest liver or muscle injury.
+Bilirubin is a yellow pigment; high levels cause jaundice and suggest liver or
+gallbladder issues.
+Albumin is a protein made by the liver; low levels can indicate liver disease or
+malnutrition.
+Sodium (Na+) normal range is 135-145 mEq/L; it is crucial for fluid balance and
+nerve function.
+Hyponatremia (low sodium) can cause confusion, seizures, and brain swelling.
+Hypernatremia (high sodium) is usually caused by dehydration.
+Potassium (K+) normal range is 3.5-5.0 mEq/L; it is vital for heart rhythm.
+Hypokalemia (low potassium) can cause muscle weakness and dangerous heart
+arrhythmias.
+Hyperkalemia (high potassium) is a medical emergency that can lead to sudden
+cardiac arrest.
+Calcium (Ca2+) is essential for bones, nerves, and muscles; normal range is
+8.5-10.5 mg/dL.
+CRP (C-Reactive Protein) is a marker of systemic inflammation in the body.
+High CRP levels can indicate infection, autoimmune flare-ups, or heart disease
+risk.
+Troponin is a protein released into the blood during a heart attack; high levels
+are diagnostic for myocardial infarction.
+BNP (B-type Natriuretic Peptide) is a marker used to diagnose and monitor heart
+failure.
+Total cholesterol should generally be below 200 mg/dL.
+LDL cholesterol is often called 'bad' cholesterol; high levels increase heart
+disease risk.
+HDL cholesterol is 'good' cholesterol; higher levels help protect the heart.
+Triglycerides are a type of fat in the blood; high levels increase the risk of
+pancreatitis.
+TSH (Thyroid Stimulating Hormone) is the primary screen for thyroid function.
+High TSH typically indicates Hypothyroidism (the brain is trying to stimulate a
+slow thyroid).
+Low TSH typically indicates Hyperthyroidism (the brain stops stimulating an
+overactive thyroid).
+INR (International Normalized Ratio) measures how long it takes blood to clot,
+especially for patients on Warfarin.
+A normal INR for someone not on anticoagulants is around 1.0.
+D-dimer is a test used to rule out blood clots (like deep vein thrombosis or
+pulmonary embolism).
+Amylase and Lipase are enzymes measured to diagnose Pancreatitis.
+Urinalysis checks for the presence of protein, glucose, and ketones in the urine.
+Protein in the urine (proteinuria) can be an early sign of kidney disease.
+Ketones in the urine can indicate that the body is burning fat for fuel, often
+seen in diabetic ketoacidosis.
+Specific gravity of urine measures how concentrated the urine is; high values
+indicate dehydration.
+Arterial Blood Gas (ABG) tests measure oxygen, carbon dioxide, and pH levels in
+the blood.
+Normal blood pH is tightly regulated between 7.35 and 7.45.
+Acidosis occurs when blood pH falls below 7.35; Alkalosis occurs when it rises
+above 7.45.
+PCO2 (partial pressure of carbon dioxide) indicates how well the lungs are
+removing CO2.
+Lactate levels increase when tissues do not receive enough oxygen, often seen in
+sepsis.
+Serum iron and Ferritin tests are used to evaluate iron stores in the body.
+B12 and Folate levels are checked to investigate specific types of anemia.
+Prostate-Specific Antigen (PSA) is used as a screening tool for prostate issues.
+Magnesium is essential for many biochemical reactions; low levels can cause
+tremors and arrhythmias.
+Chloride (Cl-) levels usually follow sodium levels and help maintain fluid
+balance.
+Bicarbonate (HCO3-) acts as a buffer to maintain normal blood pH levels.
+Alkaline Phosphatase (ALP) is an enzyme related to the liver and bones.
+High ALP can indicate bone diseases or bile duct obstruction.
+Uric acid high levels are associated with Gout and kidney stones.
+ESR (Erythrocyte Sedimentation Rate) is another non-specific marker for
+inflammation.
+Procalcitonin is a marker specifically used to distinguish bacterial from non-
+bacterial infections.
+PTT (Partial Thromboplastin Time) is used to monitor Heparin therapy.
+A high anion gap in an electrolyte panel can indicate metabolic acidosis.
+T4 (Thyroxine) is the main hormone secreted by the thyroid gland.
+Microalbuminuria is a very small amount of albumin in the urine, indicating early
+diabetic kidney damage.
+A shift to the left in a CBC means there is an increase in immature neutrophils,
+indicating acute infection.
+Hemolysis is the destruction of red blood cells, which can artificially raise
+potassium levels in a lab sample.
+The occult blood test checks for hidden blood in the stool, a screen for colon
+cancer.
+Cultures (blood, urine, sputum) are used to identify the specific bacteria
+causing an infection.
+Sensitivity testing tells doctors which antibiotic will effectively kill the
+identified bacteria.
+Peak and Trough levels are measured for certain antibiotics (like Vancomycin) to
+ensure safety.
+Lactate Dehydrogenase (LDH) is a general marker of tissue damage.
+Ammonia levels are checked in patients with advanced liver disease to assess for
+brain involvement (encephalopathy).
+Creatine Kinase (CK) is an enzyme that rises when there is damage to muscles
+(including the heart).
+Reference ranges for lab tests can vary slightly depending on the laboratory and
+the equipment used.

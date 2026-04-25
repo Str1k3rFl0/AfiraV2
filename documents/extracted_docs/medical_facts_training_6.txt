@@ -1,0 +1,128 @@
+Analgesics are medications used specifically to relieve pain.
+NSAIDs (Non-Steroidal Anti-Inflammatory Drugs) reduce pain, fever, and inflammation.
+Acetaminophen (Paracetamol) is an analgesic and antipyretic but has weak anti-
+inflammatory effects.
+Opioids act on the central nervous system to relieve severe pain but carry a high
+risk of addiction.
+Antibiotics are used to treat bacterial infections and are ineffective against
+viruses.
+Penicillin was the first true antibiotic discovered and inhibits bacterial cell wall
+synthesis.
+Broad-spectrum antibiotics are effective against a wide range of both Gram-positive
+and Gram-negative bacteria.
+Antivirals inhibit the development of viral pathogens inside the host cell.
+Antifungals are used to treat fungal infections like candidiasis or athlete's foot.
+Statins are used to lower cholesterol by inhibiting the enzyme HMG-CoA reductase.
+Beta-blockers reduce blood pressure by blocking the effects of epinephrine
+(adrenaline).
+ACE inhibitors relax blood vessels by preventing the formation of Angiotensin II.
+Diuretics, often called water pills, help the body rid itself of excess salt and
+water.
+Anticoagulants, such as Warfarin or Heparin, prevent the formation of blood clots.
+Antiplatelet drugs, like Aspirin, prevent platelets from sticking together to form a
+clot.
+Insulin is used to manage blood glucose levels in patients with Diabetes Mellitus.
+Metformin is the first-line medication for the treatment of Type 2 Diabetes.
+Corticosteroids are powerful anti-inflammatory drugs used in conditions like asthma
+and arthritis.
+Bronchodilators open the airways to treat conditions such as asthma and COPD.
+Antihistamines block histamine receptors to treat allergic reactions.
+Proton Pump Inhibitors (PPIs) reduce the production of stomach acid to treat GERD.
+Antacids neutralize existing stomach acid to provide quick relief from heartburn.
+Benzodiazepines are used to treat anxiety and insomnia by enhancing the effect of
+GABA.
+Antidepressants, such as SSRIs, increase levels of serotonin in the brain.
+Antipsychotics are used primarily to manage psychosis, including schizophrenia.
+Anticonvulsants are medications used to prevent or reduce the severity of seizures.
+Local anesthetics block nerve conduction in a specific area to prevent pain during
+procedures.
+General anesthetics induce a reversible loss of consciousness for major surgery.
+Vaccines stimulate the immune system to produce antibodies without causing the
+disease.
+Epinephrine is the first-line treatment for severe allergic reactions known as
+anaphylaxis.
+Nitroglycerin is a vasodilator used to treat angina (chest pain).
+Digoxin is used to improve the strength and efficiency of the heart in heart failure.
+Laxatives are used to treat constipation by promoting bowel movements.
+Antiemetics are medications used to prevent or treat nausea and vomiting.
+Thyroxine is a synthetic hormone used to treat hypothyroidism.
+Chemotherapy drugs target and kill rapidly dividing cells, primarily to treat cancer.
+Immunosuppressants are used to prevent the body from rejecting a transplanted organ.
+Diuretics can often cause a loss of potassium, requiring monitoring of electrolyte
+levels.
+Overuse of antibiotics leads to antibiotic resistance, making infections harder to
+treat.
+Sublingual administration involves placing a drug under the tongue for rapid
+absorption.
+Intravenous (IV) administration delivers medication directly into the bloodstream for
+immediate effect.
+The half-life of a drug is the time it takes for its concentration in the body to
+reduce by half.
+Pharmacokinetics describes how the body affects a drug (absorption, distribution,
+metabolism, excretion).
+Pharmacodynamics describes how a drug affects the body (mechanism of action).
+Tolerance occurs when the body becomes less responsive to a drug after repeated use.
+Anaphylaxis is a severe, potentially life-threatening allergic reaction to a drug or
+substance.
+Toxicity refers to the degree to which a substance can damage an organism.
+A contraindication is a specific situation in which a drug should not be used because
+it may be harmful.
+The placebo effect is a beneficial effect produced by a drug that cannot be
+attributed to the drug itself.
+Synergy occurs when two drugs taken together produce a greater effect than the sum of
+their individual effects.
+Calcium channel blockers are used to treat high blood pressure and chest pain.
+Warfarin requires regular blood tests (INR) to ensure the dose is safe and effective.
+Morphine is a potent opioid analgesic used for severe acute or chronic pain.
+Naloxone is an emergency medication used to reverse opioid overdose.
+Albuterol is a short-acting bronchodilator used for quick relief of asthma symptoms.
+Amiodarone is an antiarrhythmic medication used for serious heart rhythm problems.
+Lidocaine can be used both as a local anesthetic and an antiarrhythmic.
+Atropine is used to treat a dangerously slow heart rate (bradycardia).
+Furosemide is a potent loop diuretic used for edema and heart failure.
+Spironolactone is a potassium-sparing diuretic.
+Omeprazole is a common PPI used for stomach ulcers and acid reflux.
+Ranitidine is an H2-receptor antagonist that reduces stomach acid.
+Azithromycin is a macrolide antibiotic often used for respiratory infections.
+Amoxicillin is a common penicillin-type antibiotic used for various bacterial
+infections.
+Ciprofloxacin is a fluoroquinolone antibiotic used for urinary tract infections.
+Doxycycline is a tetracycline antibiotic used for acne and Lyme disease.
+Acyclovir is an antiviral drug used specifically for herpes virus infections.
+Oseltamivir (Tamiflu) is an antiviral used to treat influenza.
+Fluoxetine (Prozac) is a common SSRI used for depression and OCD.
+Diazepam (Valium) is a benzodiazepine used for anxiety, muscle spasms, and seizures.
+Lithium is a mood stabilizer used primarily for bipolar disorder.
+Haloperidol is a traditional (typical) antipsychotic medication.
+Phenytoin is a long-standing anticonvulsant used for epilepsy.
+Prednisone is an oral corticosteroid used for severe inflammation.
+Hydrocortisone is a topical steroid used for skin rashes and inflammation.
+Lisinopril is an ACE inhibitor commonly used for hypertension.
+Losartan is an Angiotensin II Receptor Blocker (ARB) used for high blood pressure.
+Amlodipine is a long-acting calcium channel blocker.
+Simvastatin is a medication used to lower 'bad' cholesterol (LDL).
+Levothyroxine must usually be taken on an empty stomach for proper absorption.
+Glucagon is used to treat severe hypoglycemia in emergency situations.
+Methotrexate is used both for cancer and for autoimmune diseases like rheumatoid
+arthritis.
+Cyclosporine is an immunosuppressant used in organ transplants.
+Rifampin is a key antibiotic used in the treatment of tuberculosis.
+Vancomycin is a powerful antibiotic used for serious infections like MRSA.
+Heparin is an anticoagulant administered via injection.
+The liver is the primary site for drug metabolism in the body.
+The kidneys are the primary site for drug excretion.
+First-pass metabolism reduces the concentration of a drug before it reaches systemic
+circulation.
+Bioavailability is the fraction of an administered dose of drug that reaches the
+systemic circulation.
+Teratogenic drugs are those that can cause birth defects if taken during pregnancy.
+Drug-drug interactions occur when one drug changes the effect of another drug.
+A side effect is an unintended but predictable effect of a medication.
+An adverse drug reaction (ADR) is an unwanted and harmful response to a medication.
+The therapeutic index is the ratio between the toxic dose and the effective dose.
+Narrow therapeutic index drugs require precise dosing and blood monitoring (e.g.,
+Digoxin, Lithium).
+Vitamins are organic compounds required in small amounts for normal metabolism.
+Folic acid is essential for DNA synthesis and is vital during early pregnancy.
+Vitamin K is essential for blood clotting and is the antidote for Warfarin.
+Iron supplements are used to treat iron-deficiency anemia.

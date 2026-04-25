@@ -1,18 +1,27 @@
 import fitz
 
-extrated_doc_filename = "beginner_medicine_facts2.txt"
-doc_path = "./documents/docs/beginner_medicine_facts2.pdf"
+extrated_doc_filename = "medical_facts_training_9.txt"
+doc_path = "./documents/docs/reproductive_health_training.pdf"
 destination = f"./documents/extracted_docs/{extrated_doc_filename}"
 
 doc = fitz.open(doc_path)
-first_page = doc[0]
-text = first_page.get_text()
+i = 0
 
-document_title = text.split("\n")[0].strip().upper()
+#document_title = text.split("\n")[0].strip().upper()
 #print(document_title)
             
-with open(destination, "a", encoding="utf-8") as f:
-    f.write(document_title + "\n")
-    for line in text.split("\n")[1:]:
-        if line.strip():
-            f.write(line + "\n")
+# with open(destination, "a", encoding="utf-8") as f:
+#     for line in text.split("\n"):
+#         if line.strip():
+#             f.write(line + "\n")
+
+while i < len(doc):
+    page = doc[i]
+    text = page.get_text()
+    with open(destination, "a", encoding="utf-8") as f:
+        for line in text.split("\n"):
+            if line.strip():
+                f.write(line + "\n")
+    i += 1
+    
+doc.close()

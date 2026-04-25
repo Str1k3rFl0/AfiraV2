@@ -3,6 +3,7 @@ import pickle
 import re
 from datetime import datetime
 import json
+import os
 
 def teach_AI(self, user_text):
     text = user_text.strip()
@@ -57,6 +58,26 @@ def teach_AI(self, user_text):
         if already_known_count > 0:
             return "I already knew all of that!", False
         return "I couldn't extract any clear facts.", False
+    
+def learn_document(self, file_path):
+    filename = ""
+    file_path = "./documents/extracted_docs/" + file_path
+    
+    if not os.path.exists(file_path):
+        return f"File not found. | {file_path} |", False
+    
+    with open(file_path, "r", encoding="utf-8") as f:
+        document_text = f.read()
+    
+    if not document_text.strip():
+        return "The document is empty.", False
+    
+    response, success = self.teach_AI(document_text)
+    if success:
+        return f"Document processed successfully!\n{response}", True
+    else:
+        return response, False
+
 
 def ask_AI(self, user_question):
     if self.memory.count() == 0 and self.graph.number_of_nodes() == 0:
@@ -107,7 +128,7 @@ def ask_AI(self, user_question):
         
         sequences = self.generator(
             prompt,
-            max_new_tokens=30,
+            max_new_tokens=60,
             do_sample=False,
             #temperature=0.1, 
             repetition_penalty=1.0,
