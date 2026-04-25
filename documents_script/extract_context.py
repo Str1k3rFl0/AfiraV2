@@ -1,7 +1,7 @@
 import fitz
 
-extrated_doc_filename = "medical_facts_training_9.txt"
-doc_path = "./documents/docs/reproductive_health_training.pdf"
+extrated_doc_filename = "medical_facts_training_10.txt"
+doc_path = "./documents/docs/dermatology_training_50_facts.pdf"
 destination = f"./documents/extracted_docs/{extrated_doc_filename}"
 
 doc = fitz.open(doc_path)

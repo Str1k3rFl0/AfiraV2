@@ -5,40 +5,37 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
-def extract_entities_and_relationships(self, user_text):
+def extract_entities_and_relationships(self, sentences):
+    text_block = "\n".join([f"{i+1}. {s}" for i, s in enumerate(sentences)])
+    
     prompt = (
         f"<|im_start|>system\n"
-        f"You are a knowledge graph extractor. Extract entities and relationships as JSON.\n"
-        f"CRITICAL RULES:\n"
-        f"1. Every element used in 'relationships' MUST be present in the 'entities' list.\n"
-        f"2. Be specific. If 'A' is the creator of 'B', entities are ['A', 'B'] and relationship is [['A', 'creator of', 'B']].\n"
-        f"3. Return ONLY valid JSON.\n"
-        f"EXAMPLES:\n"
-        f"Text: 'The creator of Afira is Flavius.'\n"
-        f"Output: {{\"entities\": [\"Afira\", \"Flavius\"], \"relationships\": [[\"Flavius\", \"is creator of\", \"Afira\"]]}}\n"
-        f"Text: 'Our dog name is Pablo'\n"
-        f"Output: {{\"entities\": [\"dog\", \"Pablo\"], \"relationships\": [[\"dog\", \"name is\", \"Pablo\"]]}}\n"
+        f"You are a knowledge graph extractor. Extract ALL entities and relationships from the provided list of sentences.\n"
+        f"Return a SINGLE JSON object containing all findings.\n"
+        f"Format: {{\"entities\": [\"entity1\", \"entity2\"], \"relationships\": [[\"A\", \"rel\", \"B\"]]}}\n"
         f"<|im_end|>\n"
         f"<|im_start|>user\n"
-        f"Text: '{user_text}'\n"
+        f"Sentences to process:\n{text_block}\n"
         f"Output:<|im_end|>\n"
         f"<|im_start|>assistant\n{{"
     )
     
     response = self.generator(
         prompt,
-        max_new_tokens=150,
-        do_sample=False,
+        max_new_tokens=1024,
+        do_sample=True,
         temperature=0.1, 
+        repetition_penalty=1.1,
         return_full_text=False
     )
     
     generated = response[0]["generated_text"].strip()
+    if not generated.startswith("{"):
+        generated = "{" + generated
     if not generated.endswith("}"):
         generated += "}"
         
-    full_json = "{" + generated
-    return full_json
+    return generated
 
 
 def build_graph(self, json_data):

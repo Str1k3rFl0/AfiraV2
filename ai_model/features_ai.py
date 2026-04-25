@@ -10,54 +10,51 @@ def teach_AI(self, user_text):
     if not text:
         return "You didn't tell me anything to learn.", False
     
-    sentences = [s.strip() for s in re.split(r'[.!?]+', text) if s.strip()]
+    all_sentences = [s.strip() for s in re.split(r'[.!?\n]+', text) if s.strip()]
+    
     learned_count = 0
     already_known_count = 0
-    learned_sentences = []
     
-    for sentence in sentences:
-        fact_id = hashlib.sha1(sentence.encode()).hexdigest()
-        existing_fact = self.memory.get(ids=[fact_id])
+    batch_size = 5
+    
+    for i in range(0, len(all_sentences), batch_size):
+        batch = all_sentences[i : i + batch_size]
         
-        if existing_fact["ids"]:
-            already_known_count += 1
+        new_sentences = []
+        for s in batch:
+            fact_id = hashlib.sha1(s.encode()).hexdigest()
+            if not self.memory.get(ids=[fact_id])["ids"]:
+                new_sentences.append(s)
+            else:
+                already_known_count += 1
+        
+        if not new_sentences:
             continue
-        
-        embedding = self.embed_model.encode(sentence).tolist()
+
+        embeddings = self.embed_model.encode(new_sentences).tolist()
+        ids = [hashlib.sha1(s.encode()).hexdigest() for s in new_sentences]
         self.memory.add(
-            documents=[sentence],
-            embeddings=[embedding],
-            ids=[fact_id],
-            metadatas=[{"timestamp": str(datetime.now())}]
+            documents=new_sentences,
+            embeddings=embeddings,
+            ids=ids,
+            metadatas=[{"timestamp": str(datetime.now())} for _ in new_sentences]
         )
-        
-        json_output = self.extract_entities_and_relationships(sentence)
-        print(f"DEBUG -> MODEL OUTPUT for '{sentence}': {json_output}")
+
+        print(f"Processing batch {i//batch_size + 1} ({len(new_sentences)} facts)...")
+        json_output = self.extract_entities_and_relationships(new_sentences)
         self.build_graph(json_output)
         
-        learned_count += 1
-        learned_sentences.append(sentence)
-        
+        learned_count += len(new_sentences)
+
     if learned_count > 0:
         with open(self.graph_path, 'wb') as f:
             pickle.dump(self.graph, f)
-        print("Graph saved to disk!")
-        
         self.facts_learned += learned_count
-        
-        response = f"I leaned {learned_count} new facts!\n"
-        for s in learned_sentences:
-            response += f"- {s}\n"
-        
-        if already_known_count > 0:
-            response += f"\n(I skipped {already_known_count} facts that I already knew.)"
-            
-        return response.strip(), True
+        return f"Finished! Learned {learned_count} new facts in record time.", True
     
-    else:
-        if already_known_count > 0:
-            return "I already knew all of that!", False
-        return "I couldn't extract any clear facts.", False
+    print(f"Stats: {learned_count} learned, {already_known_count} skipped (already known).")
+    
+    return "I already knew all of that!", False
     
 def learn_document(self, file_path):
     filename = ""
@@ -90,11 +87,14 @@ def ask_AI(self, user_question):
     distances = results["distances"][0] if results["distances"] else []
     
     filtered_context = [doc for doc, dist in zip(raw_docs, distances) if dist <= 0.65]
-
-    words = re.findall(r'\w+', user_question.lower())
+    stopwords = {"what", "is", "a", "an", "the", "who", "where", "why", "how", "are", "do", "does", "did", "to", "in", "on", "of", "for", "and"}
+    
     graph_facts = []
+    user_q_lower = user_question.lower()
+    
     for node in self.graph.nodes():
-        if node.lower() in words:
+        node_lower = str(node).lower()
+        if len(node_lower) > 2 and node_lower not in stopwords and node_lower in user_q_lower:
             for neighbor in self.graph.neighbors(node):
                 rel = self.graph.get_edge_data(node, neighbor).get("relation", "related to")
                 graph_facts.append(f"{node} {rel} {neighbor}")
@@ -114,8 +114,9 @@ def ask_AI(self, user_question):
 
     prompt = (
         f"<|im_start|>system\n"
-        f"You are a strict retrieval assistant. You MUST ignore your own knowledge and answer ONLY using the provided FACTS. "
-        f"If the answer is not in the FACTS, say 'I don't know'.\n<|im_end|>\n"
+        f"You are Afira, a strict retrieval assistant. Answer ONLY based on the FACTS provided. "
+        f"If the answer to the QUESTION is not explicitly in the FACTS, you MUST reply exactly with: 'I don't know based on my memory.' "
+        f"Do not use your internal knowledge.\n<|im_end|>\n"
         f"{few_shot_example}"
         f"<|im_start|>user\n"
         f"FACTS: {combined_context}\n"
@@ -128,9 +129,8 @@ def ask_AI(self, user_question):
         
         sequences = self.generator(
             prompt,
-            max_new_tokens=60,
+            max_new_tokens=100,
             do_sample=False,
-            #temperature=0.1, 
             repetition_penalty=1.0,
             return_full_text=False
         )
