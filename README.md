@@ -8,3 +8,6 @@ Unlike standard AI models that rely only on their pre-training, Afira uses a loc
  - CPU -> I5 9400F
  - RAM -> 16GB RAM DDR4
  - GPU -> RTX 2060 6GB VRAM
+
+
+!!! This project was made just for fun !!!
