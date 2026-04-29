@@ -1,0 +1,97 @@
+Differential Medical Facts for AI Training
+Tachycardia is a fast heart rate (>100 bpm), whereas Bradycardia is a
+slow heart rate (<60 bpm).
+Hypertension refers to high blood pressure, while Hypotension refers to
+low blood pressure.
+Hyperglycemia is high blood sugar, whereas Hypoglycemia is dangerously
+low blood sugar.
+The Afferent neurons carry signals toward the brain, while Efferent
+neurons carry signals away from the brain.
+The Arteries carry oxygenated blood away from the heart, except for the
+pulmonary artery.
+The Veins carry deoxygenated blood toward the heart, except for the
+pulmonary vein.
+Ligaments connect bone to bone, while Tendons connect muscle to bone.
+Dysphagia is difficulty swallowing, whereas Dysphasia is a language
+disorder (speech).
+Apnea is the temporary cessation of breathing, while Dyspnea is
+difficult or labored breathing.
+Hematuria is blood in the urine, while Hemoptysis is coughing up blood
+from the lungs.
+Anemia is a lack of red blood cells, while Leukemia is a cancer of the
+white blood cells.
+The Axial skeleton is the central axis (skull, spine), while the
+Appendicular skeleton is the limbs and girdles.
+Abduction is moving a limb away from the midline, while Adduction is
+moving it toward the midline.
+The Sympathetic nervous system triggers 'fight or flight', while the
+Parasympathetic triggers 'rest and digest'.
+Systolic pressure is the pressure during heart contraction, while
+Diastolic is the pressure during heart relaxation.
+Endocrine glands secrete hormones into the blood, while Exocrine glands
+secrete through ducts (like sweat).
+A Thrombus is a blood clot that stays in place, while an Embolus is a
+clot that travels through the bloodstream.
+Prone position is lying face down, while Supine position is lying face
+up.
+Mastication is the act of chewing, while Deglutition is the act of
+swallowing.
+Osteoblasts are cells that build bone, while Osteoclasts are cells that
+break down bone tissue.
+Acute conditions start suddenly and are short-term, while Chronic
+conditions develop slowly and persist long-term.
+Antigens are foreign substances that trigger immune responses, while
+Antibodies are proteins produced to fight them.
+Hypoxia is low oxygen in tissues, while Hypoxemia is low oxygen
+specifically in the blood.
+Infection is the invasion of pathogens, while Inflammation is the
+body's response to injury or infection.
+Benign tumors do not spread, while Malignant tumors are cancerous and
+can invade other tissues.
+Proximal means closer to the trunk of the body, while Distal means
+further away from the trunk.
+Superior means toward the head, while Inferior means toward the feet.
+The Epidermis is the top layer of skin, while the Dermis is the thick
+layer underneath it.
+Type 1 Diabetes is an insulin deficiency, while Type 2 Diabetes is
+insulin resistance.
+Ureters carry urine from kidneys to the bladder, while the Urethra
+carries urine out of the body.
+The Cerebrum controls high-level functions, while the Cerebellum
+controls balance and coordination.
+White matter consists of myelinated axons, while Gray matter consists
+mainly of neuronal cell bodies.
+Ischemia is a restriction in blood supply, while Infarction is tissue
+death due to lack of blood supply.
+A Sign is an objective finding seen by a doctor, while a Symptom is a
+subjective feeling reported by a patient.
+Vasoconstriction is the narrowing of blood vessels, while Vasodilation
+is the widening of blood vessels.
+Atrophy is the wasting away of tissue, while Hypertrophy is the
+increase in volume of an organ or tissue.
+Stenosis is the abnormal narrowing of a body channel, while Dilation is
+the widening.
+The Right Lung has 3 lobes, while the Left Lung has 2 lobes to
+accommodate the heart.
+Visceral pleura covers the lungs, while Parietal pleura lines the chest
+cavity.
+Aerobic exercise requires oxygen, while Anaerobic exercise occurs
+without sufficient oxygen.
+Auscultation is listening to body sounds, while Palpation is feeling
+the body with hands.
+The Radius is on the thumb side of the forearm, while the Ulna is on
+the pinky side.
+The Tibia is the shin bone (inner), while the Fibula is the smaller
+outer leg bone.
+Etiology is the cause of a disease, while Pathogenesis is the manner of
+its development.
+Prognosis is the predicted outcome of a disease, while Diagnosis is the
+identification of the disease.
+Somatic nervous system is voluntary, while Autonomic nervous system is
+involuntary.
+Bile is produced by the Liver and stored in the Gallbladder.
+The Small Intestine absorbs nutrients, while the Large Intestine
+absorbs water and forms stool.
+Myopia is nearsightedness, while Hyperopia is farsightedness.
+Enzyme is a biological catalyst, while a Hormone is a chemical
+messenger.

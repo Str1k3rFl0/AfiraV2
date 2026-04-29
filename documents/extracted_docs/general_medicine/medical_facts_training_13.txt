@@ -1,0 +1,200 @@
+200 Advanced First Aid Facts for AI Training
+Check the scene for hazards like fire, downed power lines, or unstable structures before approaching.
+The primary survey should be completed in less than 60 seconds.
+If a victim is unresponsive and not breathing, call emergency services immediately.
+Hands-only CPR is recommended for untrained bystanders.
+The 'CAB' sequence stands for Compressions, Airway, Breathing.
+For chest compressions, use the heel of one hand with the other hand on top.
+Keep arms straight and shoulders directly over the hands during CPR.
+A full chest recoil allows the heart to refill with blood between compressions.
+Minimize interruptions in chest compressions to less than 10 seconds.
+If two rescuers are present, switch roles every 2 minutes to prevent fatigue.
+Rescue breaths should last about 1 second and cause visible chest rise.
+Avoid excessive ventilation during CPR as it can decrease cardiac output.
+An AED can be used on a victim submerged in water only after moving them to a dry area and wiping the chest.
+Remove medicinal patches from the chest before applying AED pads.
+Shave excessive chest hair if it prevents AED pads from sticking properly.
+AED pads for adults can be used on children, but pediatric pads should not be used on adults.
+In a pregnant victim, perform chest compressions slightly higher on the sternum.
+For an infant, the compression depth is about 1.5 inches (4 cm).
+Pulse checks are no longer recommended for lay rescuers.
+If a person is gasping but not breathing normally, treat it as cardiac arrest (agonal gasps).
+Opioid overdose can be identified by pinpoint pupils and respiratory depression.
+Naloxone can be administered intranasally or intramuscularly.
+Position an unconscious, breathing overdose victim in the recovery position.
+Choking is characterized by an inability to speak, cough, or breathe.
+Encourage a person to keep coughing if they have a partial airway obstruction.
+Perform back blows between the shoulder blades with the heel of your hand.
+For a choking pregnant woman, use chest thrusts instead of abdominal thrusts.
+If a choking victim is too large for you to reach around, use chest thrusts.
+In an infant, deliver 5 back blows followed by 5 chest thrusts.
+Check the mouth for the obstructing object before every set of rescue breaths during CPR for a choking victim.
+Venous bleeding is dark red and flows steadily.
+Arterial bleeding is bright red and spurts in time with the heartbeat.
+Capillary bleeding is a slow ooze from small vessels.
+Elevation of a bleeding limb is no longer a primary recommendation; use direct pressure.
+If a bandage is soaked through, add a second layer; do not remove the first.
+Pressure dressings should be tight but not cut off circulation completely.
+A tourniquet is used when direct pressure fails to control life-threatening limb bleeding.
+Place a tourniquet 'high and tight' in mass casualty or dark situations.
+Hemostatic dressings contain agents that speed up blood clotting.
+Pack deep wounds with gauze before applying direct pressure.
+Internal bleeding may present with 'guarding' (tensing the abdominal muscles).
+A hematoma is a localized collection of blood under the skin.
+Signs of a skull fracture include 'raccoon eyes' (bruising around eyes).
+Battle’s sign is bruising behind the ear indicating a possible skull base fracture.
+Clear fluid leaking from the ears or nose after head trauma may be cerebrospinal fluid.
+Maintain manual stabilization of the head and neck in any suspected spinal injury.
+A jaw-thrust maneuver is used to open the airway without moving the neck.
+Penetrating eye injuries should be covered with a rigid shield (e.g., a paper cup).
+Do not apply pressure to the eyeball in case of a penetrating injury.
+Flush an eye for at least 15 minutes if exposed to chemicals.
+Keep an amputated part cool but do not place it directly on ice.
+Wrap an amputated limb in sterile gauze and place it in a waterproof bag.
+First-degree burns affect only the epidermis (e.g., sunburn).
+Second-degree burns involve blisters and damage to the dermis.
+Third-degree burns involve all layers of the skin and may look white, brown, or black.
+Never pop blisters on a burn as it increases the risk of infection.
+For large burns, avoid using cold water for long periods to prevent hypothermia.
+Electrical burns often have an entry and an exit wound.
+Internal damage from an electrical shock can be much worse than it appears on the skin.
+Chemical burns from powders (like lime) should be brushed off before flushing with water.
+Radiation burns require the victim to be moved away from the source immediately.
+Inhalation burns may be indicated by singed nose hairs or soot in the mouth.
+An open chest wound requires an airtight seal on three sides to allow air to escape.
+A flail chest occurs when multiple ribs are broken in two or more places.
+Support a flail chest segment with a bulky dressing or pillow.
+Evisceration occurs when organs protrude through an abdominal wound.
+Cover protruding organs with a moist, sterile dressing; do not push them back in.
+In shock, the body prioritizes blood flow to the brain, heart, and lungs.
+Compensated shock presents with a fast heart rate and normal blood pressure.
+Decompensated shock involves a significant drop in blood pressure.
+Keep a shock victim warm to prevent the 'lethal triad' of trauma: acidosis, coagulopathy, hypothermia.
+Anaphylaxis can cause rapid swelling of the airway within minutes.
+Epinephrine works by constricting blood vessels and relaxing airway muscles.
+Check for a second dose of epinephrine if help is delayed and symptoms persist.
+Hyperglycemia (high blood sugar) can cause a fruity or 'acetone' smell on the breath.
+Hypoglycemia (low blood sugar) often presents with cold, clammy skin and confusion.
+If a diabetic patient is conscious but the cause is unknown, give sugar.
+A transient ischemic attack (TIA) is a 'mini-stroke' with symptoms that resolve within 24 hours.
+Do not give aspirin to a person having a suspected stroke unless directed by a doctor.
+Status epilepticus is a seizure lasting more than 5 minutes and is a medical emergency.
+Postictal phase is the period of confusion following a seizure.
+Inverted 'T' waves on an ECG can be a sign of myocardial ischemia.
+Angina is chest pain that typically resolves with rest or medication (Nitroglycerin).
+Aspirin for a heart attack should be chewed to increase the speed of absorption.
+Inverted breathing or 'gurgling' indicates a compromised airway.
+Asthma inhalers should be used with a spacer if available for better delivery.
+Heat cramps are painful muscle spasms due to salt and water loss.
+Heat exhaustion features heavy sweating; heatstroke features a lack of sweating.
+Immersive cooling in ice water is the most effective treatment for heatstroke.
+Moderate hypothermia presents with violent shivering and loss of coordination.
+Severe hypothermia may cause the person to stop shivering and lose consciousness.
+Rewarm the core of a hypothermia victim before the extremities (to avoid afterdrop).
+Paradoxical undressing is a sign of severe hypothermia where the victim feels hot.
+Frostbite causes skin to become hard, cold, and white or yellowish.
+Do not rewarm frostbite if there is a chance the area will freeze again.
+Blisters from frostbite should not be ruptured.
+Bee stings should be scraped off with a credit card, not squeezed with tweezers.
+Tick removal should involve pulling the tick straight up with fine-tipped tweezers.
+Spider bites (Black Widow) can cause severe muscle cramping and abdominal pain.
+Brown Recluse bites often cause a 'bullseye' pattern followed by skin necrosis.
+For snake bites, remove rings or tight clothing before swelling begins.
+Do not apply ice or a tourniquet to a North American pit viper bite.
+Jellyfish stings should be rinsed with vinegar to neutralize the venom.
+Do not use fresh water on jellyfish stings as it can trigger more venom release.
+Poison ivy rash is caused by an oil called urushiol.
+Wash skin with soap and cool water immediately after contact with poison ivy.
+Activated charcoal is used in some poisoning cases to bind toxins in the stomach.
+Call Poison Control (1-800-222-1222 in the US) for specific ingestion advice.
+Do not induce vomiting unless specifically instructed by medical professionals.
+Corrosive substances (like bleach) can cause more damage if vomited back up.
+A sprain is a tearing or stretching of ligaments.
+A strain is a tearing or stretching of muscles or tendons.
+Fractures can be closed (skin intact) or open (skin broken).
+Crepitus is the grating sound made by bone ends rubbing together.
+Splint a limb in the position it was found; do not try to straighten it.
+Check for circulation (pulse, color, temperature) before and after splinting.
+A triangular bandage can be used as a sling to support the upper arm.
+Pelvic fractures carry a high risk of massive internal bleeding.
+Stabilize a fractured pelvis with a pelvic binder or a tightly wrapped bedsheet.
+The 'Rule of Threes' in survival: 3 minutes without air, 3 days without water, 3 weeks without food.
+In wilderness first aid, a 'cleared' spine requires the patient to be fully alert.
+High Altitude Cerebral Edema (HACE) presents with ataxia and confusion.
+High Altitude Pulmonary Edema (HAPE) presents with shortness of breath at rest.
+The only definitive treatment for altitude sickness is descent.
+Snow blindness is essentially a sunburn of the cornea.
+Use duct tape as a temporary treatment for blisters in a wilderness setting.
+Triage: Red tags are for immediate life-threats.
+Triage: Yellow tags are for delayed but serious injuries.
+Triage: Green tags are for 'walking wounded'.
+Triage: Black tags are for deceased or those with unsalvageable injuries.
+The START method of triage stands for Simple Triage and Rapid Treatment.
+In a mass casualty, prioritize your own safety first.
+CISM (Critical Incident Stress Management) helps rescuers deal with trauma.
+Consent must be obtained before helping a conscious adult.
+Implied consent applies to unconscious victims or minors without a guardian.
+Good Samaritan laws protect rescuers from liability if they act reasonably.
+Abandonment occurs when a rescuer stops care without handing over to an equal or higher authority.
+Negligence occurs when a rescuer fails to act according to their level of training.
+Maintain patient confidentiality (HIPAA) unless sharing with medical professionals.
+A secondary survey includes a 'SAMPLE' history: Signs, Allergies, Medications, Past history, Last oral intake, Events.
+Assess skin temperature using the back of your hand.
+Cyanosis (blue skin) indicates a lack of oxygen in the blood.
+A 'thready' pulse is weak and difficult to feel.
+Agonal breathing is not effective breathing; start CPR.
+Stridor is a high-pitched noise during inhalation indicating an upper airway blockage.
+Wheezing is a whistling sound during exhalation indicating narrowed lower airways.
+Rales are clicking or rattling sounds in the lungs indicating fluid.
+Orthostatic vitals check for a drop in BP when moving from sitting to standing.
+Assess pupil reaction with a penlight: pupils should be PERRL (Equal, Round, Reactive to Light).
+Fixed and dilated pupils can be a sign of severe brain injury.
+A 'blown pupil' (one dilated, one constricted) suggests intracranial pressure.
+Nystagmus is involuntary eye movement that can indicate inner ear or brain issues.
+Tympany (a drum-like sound) during abdominal percussion suggests gas.
+Rebound tenderness is pain when pressure is released, suggesting peritonitis.
+A 'step-off' in the spine is a palpable misalignment of vertebrae.
+Assess distal sensory function by asking the patient which toe or finger you are touching.
+Assess distal motor function by asking the patient to wiggle their toes or fingers.
+Burn percentage: The palm of the patient's hand is roughly 1% of their body surface area.
+A tourniquet should be placed at least 2 inches above the wound.
+Do not place a tourniquet directly over a joint.
+Tighten a tourniquet until the distal pulse is no longer felt.
+Mark a 'T' and the time on the patient's forehead after applying a tourniquet.
+If one tourniquet fails to stop the bleeding, apply a second one above the first.
+A chest seal should be checked for signs of a tension pneumothorax.
+A tension pneumothorax causes a shift in the trachea away from the injured side.
+Needle decompression is a professional medical intervention for tension pneumothorax.
+Sucking chest wounds are also called open pneumothoraxes.
+Gastric distension (air in stomach) can occur if rescue breaths are too forceful.
+Gastric distension increases the risk of vomiting and aspiration.
+The diaphragm is the primary muscle of respiration.
+The intercostal muscles between the ribs assist with breathing.
+Accessory muscle use (neck/shoulders) indicates significant respiratory distress.
+A silent chest in an asthma patient is a sign of impending respiratory failure.
+Hyperventilation can cause tingling in the hands and feet (carpopedal spasm).
+Pulse oximetry measures the percentage of hemoglobin saturated with oxygen.
+A pulse ox reading below 94% generally indicates the need for oxygen therapy.
+Nail polish or cold fingers can cause inaccurate pulse oximetry readings.
+Carbon monoxide poisoning can cause a false high reading on a standard pulse oximeter.
+Signs of CO poisoning include 'cherry red' skin and a throbbing headache.
+Move CO poisoning victims to fresh air immediately.
+Decompression sickness (the bends) is caused by nitrogen bubbles in the blood.
+Divers with the bends should be kept on 100% oxygen and transported to a hyperbaric chamber.
+Nitrogen narcosis feels like alcohol intoxication during a deep dive.
+Drowning is the process of experiencing respiratory impairment from submersion in liquid.
+Secondary drowning (pulmonary edema) can occur hours after a person is rescued from water.
+A near-drowning victim must always be evaluated by a hospital.
+Hypothermia can have a protective effect on the brain during drowning in cold water.
+Do not stop CPR on a cold-water drowning victim until they are 'warm and dead'.
+Emergency moves include the blanket drag, clothes drag, and firefighter's carry.
+Log rolling is used to move a spinal-injury patient onto a backboard.
+Maintain C-spine stabilization during the entire log roll process.
+A quick way to check responsiveness is the AVPU scale: Alert, Verbal, Pain, Unresponsive.
+GCS (Glasgow Coma Scale) is used to quantify the level of consciousness.
+The lowest possible GCS score is 3, and the highest is 15.
+A GCS score of 8 or less typically indicates a severe brain injury.
+An impaled object in the eye should have both eyes covered to prevent sympathetic movement.
+A pneumothorax is the presence of air in the pleural space between the lung and chest wall.
+A hemothorax is the presence of blood in the pleural space.
+First aid is about stabilizing the patient and preventing further injury until definitive care arrives.

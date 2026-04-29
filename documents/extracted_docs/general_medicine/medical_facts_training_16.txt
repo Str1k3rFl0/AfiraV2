@@ -1,0 +1,151 @@
+A radiopaque substance on an X-ray appears white because it absorbs more radiation.
+A radiolucent substance appears black on an X-ray because radiation passes through it easily.
+In a chest X-ray, air-filled lungs appear black, while the heart and bones appear white.
+Pneumonia typically presents as a localized white opacity (consolidation) on a chest X-ray.
+Pleural effusion is identified on an X-ray by the blunting of the costophrenic angles.
+A tension pneumothorax is a medical emergency visible on X-ray as a collapsed lung with a tracheal shift.
+Computed Tomography (CT) uses X-rays to create cross-sectional 'slices' of the body.
+CT scans are superior for detecting acute intracranial hemorrhage (bleeding in the brain).
+On a head CT, acute blood appears bright white, while older blood (chronic) appears darker.
+Magnetic Resonance Imaging (MRI) uses strong magnetic fields and radio waves, not ionizing radiation.
+MRI is the gold standard for visualizing soft tissues, spinal cord injuries, and brain tumors.
+T1-weighted MRI sequences show fat as bright and water (CSF) as dark.
+T2-weighted MRI sequences show water (CSF) as bright, making them useful for detecting edema.
+Contrast agents like Gadolinium are used in MRI to highlight areas of inflammation or vascularity.
+Iodinated contrast used in CT scans can be nephrotoxic and requires checking kidney function (Creatinine) first.
+Ultrasonography uses high-frequency sound waves and is safe for use during pregnancy.
+Hyperechoic structures on ultrasound appear bright (e.g., gallstones or bone).
+Anechoic structures on ultrasound appear black (e.g., fluid-filled cysts or the bladder).
+Doppler ultrasound measures the direction and velocity of blood flow through vessels.
+Positron Emission Tomography (PET) scans use radioactive tracers to detect metabolic activity, often for cancer staging.
+Hyperplasia is an increase in the number of cells in a tissue or organ.
+Hypertrophy is an increase in the size of individual cells, leading to organ enlargement.
+Atrophy is the shrinkage of cell size due to loss of cell substance or disuse.
+Metaplasia is a reversible change where one adult cell type is replaced by another (e.g., in smoker's lungs).
+Apoptosis is programmed cell death, a clean process that does not trigger inflammation.
+Necrosis is accidental cell death caused by external injury, leading to an inflammatory response.
+Ischemia is a restriction in blood supply to tissues, causing a shortage of oxygen and glucose.
+Infarction is tissue death (necrosis) caused by a local lack of oxygen due to an obstruction of blood supply.
+Edema is the accumulation of excess fluid in the interstitial spaces of tissues.
+Anasarca is severe, generalized edema involving the entire body.
+The four cardinal signs of acute inflammation are rubor (redness), calor (heat), tumor (swelling), and dolor (pain).
+A fifth sign of inflammation often cited is functio laesa (loss of function).
+Angiogenesis is the physiological process through which new blood vessels form from pre-existing vessels.
+A thrombus is a blood clot that forms inside a blood vessel and remains there.
+An embolus is a thrombus or foreign body that breaks loose and travels through the bloodstream.
+Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection.
+Septic shock is sepsis combined with persistent hypotension despite fluid resuscitation.
+An endoscopy allows direct visualization of the upper gastrointestinal tract (esophagus, stomach, duodenum).
+A colonoscopy is used to visualize the large intestine and distal part of the small intestine.
+A lumbar puncture (spinal tap) collects cerebrospinal fluid (CSF) from the subarachnoid space.
+Normal CSF is clear and colorless; cloudiness may indicate bacterial meningitis.
+A biopsy involves the removal of a small piece of tissue for microscopic pathological examination.
+Cytology is the study of individual cells, often obtained via fine-needle aspiration (FNA).
+Histology is the study of the microscopic structure of tissues.
+Pathognomonic is a term for a sign or symptom that is specifically characteristic of a particular disease.
+The incubation period is the time between exposure to a pathogen and the onset of symptoms.
+A latent infection is an asymptomatic infection that can reactivate later (e.g., Tuberculosis or Herpes).
+Auscultation is the act of listening to internal body sounds, usually with a stethoscope.
+Percussion is tapping on the body surface to determine the density of underlying tissues.
+Palpation is feeling the body with hands to assess size, consistency, and tenderness of organs.
+Kyphosis is an exaggerated outward curvature of the thoracic spine (hunchback).
+Lordosis is an exaggerated inward curvature of the lumbar spine (swayback).
+Auscultating 'crackles' (rales) in the lungs often suggests fluid in the alveoli (e.g., heart failure).
+Auscultating 'wheezes' suggests airway narrowing (e.g., asthma or COPD).
+A cardiac murmur is an extra or unusual sound heard during a heartbeat, caused by turbulent blood flow.
+Stenosis is the abnormal narrowing of a body channel or valve.
+Regurgitation in heart valves occurs when a valve does not close tightly, allowing blood to leak backward.
+An aneurysm is a localized, balloon-like bulge in the wall of a blood vessel.
+A dissecting aneurysm occurs when blood enters the wall of an artery, stripping the layers apart.
+Atherosclerosis is the buildup of fats, cholesterol, and other substances in and on the artery walls.
+Stable angina is predictable chest pain that occurs with exertion and is relieved by rest.
+Unstable angina is chest pain that occurs at rest and is considered a precursor to a heart attack.
+Orthopnea is shortness of breath that occurs when lying flat, a classic sign of heart failure.
+Paroxysmal Nocturnal Dyspnea (PND) is sudden shortness of breath that wakes a person from sleep.
+Hematemesis is the vomiting of blood.
+Hemoptysis is the coughing up of blood from the respiratory tract.
+Melena is dark, tarry stools containing digested blood, usually from an upper GI source.
+Hematochezia is the passage of fresh, bright red blood from the rectum.
+Ascites is the accumulation of fluid in the peritoneal cavity, often due to liver cirrhosis.
+Splenomegaly is the abnormal enlargement of the spleen.
+Hepatomegaly is the abnormal enlargement of the liver.
+Jaundice (icterus) is the yellowing of skin and eyes due to high bilirubin levels.
+Pruritus is the medical term for itching.
+Urticaria (hives) are red, itchy welts resulting from a skin reaction.
+A papule is a small, solid, raised bump on the skin.
+A vesicle is a small, fluid-filled blister on the skin.
+A pustule is a small blister or pimple on the skin containing pus.
+Cyanosis is a bluish discoloration of the skin resulting from poor circulation or inadequate oxygenation.
+Clubbing of the fingers is a sign of chronic hypoxia, often seen in lung or heart disease.
+Peripheral neuropathy is damage to the nerves of the peripheral nervous system, often causing numbness or tingling.
+Areflexia is the absence of neurological reflexes.
+Hyperreflexia is an overactive or overresponsive neurological reflex.
+Ataxia is the loss of full control of bodily movements, leading to an unsteady gait.
+Dysphasia is deficiency in the generation or comprehension of speech.
+Syncope is a temporary loss of consciousness caused by a fall in blood pressure.
+Vertigo is a sensation of whirling and loss of balance, often associated with inner ear issues.
+Tinnitus is a ringing or buzzing noise in the ears.
+Nystagmus is rapid, involuntary movement of the eyes.
+Anisocoria is a condition characterized by unequal pupil size.
+Hemiparesis is weakness on one side of the body.
+Hemiplegia is total paralysis on one side of the body.
+The Glasgow Coma Scale (GCS) measures eye, verbal, and motor responses.
+Osteomyelitis is an infection in a bone.
+Septic arthritis is a painful infection in a joint.
+Gout is a form of inflammatory arthritis characterized by recurrent attacks of a red, tender, hot, and swollen joint.
+Pseudogout is a form of arthritis caused by the deposition of calcium pyrophosphate crystals.
+Systemic Lupus Erythematosus (SLE) is an autoimmune disease where the immune system attacks its own tissues.
+Rheumatoid arthritis is a chronic inflammatory disorder affecting many joints, including those in the hands and feet.
+Osteoarthritis is the most common form of arthritis, caused by protective cartilage wearing down over time.
+Ankylosing spondylitis is an inflammatory arthritis affecting the spine and large joints.
+Psoriatic arthritis is a form of arthritis that affects some people who have psoriasis.
+Scleroderma is a group of rare diseases that involve the hardening and tightening of the skin.
+Sjögren's syndrome is an immune system disorder characterized by dry eyes and a dry mouth.
+Vasculitis is an inflammation of the blood vessels that causes changes in the blood vessel walls.
+Glomerulonephritis is inflammation of the tiny filters in the kidneys (glomeruli).
+Pyelonephritis is a type of urinary tract infection that affects one or both kidneys.
+Nephrotic syndrome is a kidney disorder that causes the body to excrete too much protein in the urine.
+Nephritic syndrome is characterized by inflammation of the glomeruli, hematuria, and hypertension.
+Benign tumors are non-cancerous and do not spread to other parts of the body.
+Malignant tumors are cancerous and can invade nearby tissues and spread to other parts of the body.
+Metastasis is the spread of cancer cells from the place where they first formed to another part of the body.
+Carcinoma is a type of cancer that starts in cells that make up the skin or the tissue lining organs.
+Sarcoma is a type of cancer that begins in bone or in the soft tissues of the body.
+Leukemia is cancer of the body's blood-forming tissues, including the bone marrow and the lymphatic system.
+Lymphoma is a cancer of the lymphatic system, which is part of the body's germ-fighting network.
+Myeloma is a cancer that forms in a type of white blood cell called a plasma cell.
+Adjuvant therapy is additional cancer treatment given after the primary treatment to lower the risk of recurrence.
+Neoadjuvant therapy is treatment given as a first step to shrink a tumor before the main treatment.
+Palliative care is specialized medical care for people living with a serious illness, focused on symptom relief.
+Remission is a decrease in or disappearance of signs and symptoms of cancer.
+Relapse is the return of a disease or the signs and symptoms of a disease after a period of improvement.
+Comorbidity is the presence of one or more additional conditions co-occurring with a primary condition.
+Prognosis is the likely course of a disease or the chance of recovery or recurrence.
+Diagnosis is the identification of the nature of an illness or other problem by examination of the symptoms.
+Etiology is the cause, set of causes, or manner of causation of a disease or condition.
+Epidemiology is the study of how often diseases occur in different groups of people and why.
+Prevalence is the proportion of a population found to have a condition.
+Incidence is the number of new cases of a condition in a population during a specific period.
+Morbidity is the condition of being diseased or the rate of disease in a population.
+Mortality is the state of being subject to death or the death rate in a population.
+Prophylaxis is action taken to prevent disease, especially by specified means or against a specified disease.
+Therapeutics is the branch of medicine concerned with the treatment of disease and the action of remedial agents.
+Pharmacokinetics is the branch of pharmacology concerned with the movement of drugs within the body.
+Pharmacodynamics is the branch of pharmacology concerned with the effects of drugs and the mechanism of their action.
+Absorption is the process by which a drug enters the bloodstream.
+Distribution is the process by which a drug is carried to its site of action.
+Metabolism is the process by which the body breaks down a drug.
+Excretion is the process by which a drug is removed from the body.
+The half-life of a drug is the time it takes for the concentration of the drug in the blood to be reduced by half.
+A dose-response relationship describes the change in effect on an organism caused by differing levels of exposure to a stressor.
+The therapeutic window is the range of drug dosages which can treat disease effectively without having toxic effects.
+Bioavailability is the proportion of a drug or other substance which enters the circulation when introduced into the body.
+First-pass effect is a phenomenon of drug metabolism whereby the concentration of a drug is greatly reduced before it reaches the systemic circulation.
+Steady state is reached when the rate of drug elimination is equal to the rate of drug administration.
+A loading dose is an initial higher dose of a drug that may be given at the beginning of a course of treatment.
+A maintenance dose is the dose of a drug that is given to maintain a steady state of the drug in the body.
+Drug interaction is a situation in which a substance affects the activity of a drug when both are administered together.
+Adverse drug reaction is an unwanted or harmful reaction experienced after the administration of a drug.
+Tolerance is a person's diminished response to a drug, which occurs when the drug is used repeatedly.
+Dependence is an adaptive state that develops from repeated drug administration and results in withdrawal upon cessation.
+Withdrawal is the group of symptoms that occur upon the abrupt discontinuation or decrease in intake of medications or recreational drugs.

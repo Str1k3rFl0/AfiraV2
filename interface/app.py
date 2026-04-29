@@ -2,6 +2,7 @@ import tkinter as tk
 import json
 import os
 import sys
+import threading
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'ai_model')))
 from brain import AIModel
@@ -74,6 +75,7 @@ class App():
         self.chat_canvas.yview_moveto(1)
 
     def footer_app(self):
+
         footer = tk.Frame(self.root, bg="#2c3e50")
         footer.place(x=0, y=450, width=700, height=50)
         user_input_text = tk.StringVar()
@@ -84,68 +86,74 @@ class App():
             self.add_message(text, sender="user")
             user_input_text.set("")
             
-            if text.lower() == "<show_graph_networkx>":
-                reponse = self.ai.show_graph()
-                self.add_message(reponse, sender="ai")
-                return
-            
-            if text.lower().startswith("<show_all_learned_facts_") and text.endswith(">"):
-                val = text.split("_")[-1].replace(">", "").strip()
-    
-                if not val:
-                    self.add_message("Please provide a number or a keyword.", sender="ai")
+            def process_in_background():
+                if text.lower() == "<show_graph_networkx>":
+                    response = self.ai.show_graph()
+                    self.root.after(0, lambda: self.add_message(response, sender="ai"))
                     return
-
-                response = self.ai.show_all_facts(search_val=val)
-                self.root.after(500, lambda: self.add_message(response, sender="ai"))
-                return
-            
-            if text.lower().startswith("learn:"):
-                fact = text[6:].strip()
-                if fact:
-                    response, was_learned = self.ai.teach_AI(fact)
+                
+                if text.lower().startswith("<show_all_learned_facts_") and text.endswith(">"):
+                    val = text.split("_")[-1].replace(">", "").strip()
+                    if not val:
+                        self.root.after(0, lambda: self.add_message("Please provide a number or a keyword.", sender="ai"))
+                        return
+                    response = self.ai.show_all_facts(search_val=val)
+                    self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                    return
+                
+                if text.lower().startswith("learn:"):
+                    fact = text[6:].strip()
+                    if fact:
+                        response, was_learned = self.ai.teach_AI(fact)
+                        if was_learned:
+                            self.learned_facts = self.ai.facts_learned
+                            self.root.after(0, lambda: self.facts_label.config(text=str(self.learned_facts)))
+                            self.root.after(0, self.level_up)
+                        self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                        
+                elif text.lower().startswith("learn_document:"):
+                    content = text[15:].strip()
+                    self.root.after(0, lambda: self.add_message(f"Started reading '{content}'. This might take a while. I will let you know when I'm done!", sender="ai"))
+                    response, was_learned = self.ai.learn_document(content)
                     if was_learned:
                         self.learned_facts = self.ai.facts_learned
-                        self.facts_label.config(text=str(self.learned_facts))
-                        self.level_up()
-                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
-            elif text.lower().startswith("learn_document:"):
-                content = text[15:].strip()
-                response, was_learned = self.ai.learn_document(content)
-                if was_learned:
-                    self.learned_facts = self.ai.facts_learned
-                    self.facts_label.config(text=str(self.ai.facts_learned))
-                    self.level_up()
-                self.root.after(500, lambda: self.add_message(response, sender="ai"))
-            elif text.startswith("?:"):
-                question = text[2:].strip()
-                if question:
-                    response = self.ai.ask_AI(question)
-                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
-            elif text.lower().startswith("forget:"):
-                fact = text[7:].strip()
-                if fact:
-                    response, was_forgotten = self.ai.forget_facts(fact)
-                    if was_forgotten:
-                        self.learned_facts = self.ai.facts_learned
-                        self.facts_label.config(text=str(self.learned_facts))
-                        self.level_up()
-                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
-            elif text.lower().startswith("edit:"):
-                content = text[5:].strip()
-                if "|" in content:
-                    parts = content.split("|")
-                    old_f = parts[0].strip()
-                    new_f = parts[1].strip()
-                    response, was_edited = self.ai.edit_facts(old_f, new_f)
-                    if was_edited:
-                        self.facts_label.config(text=str(self.ai.facts_learned))
-                        self.level_up()
-                    self.root.after(500, lambda: self.add_message(response, sender="ai"))
+                        self.root.after(0, lambda: self.facts_label.config(text=str(self.learned_facts)))
+                        self.root.after(0, self.level_up)
+                    self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                    
+                elif text.startswith("?:"):
+                    question = text[2:].strip()
+                    if question:
+                        response = self.ai.ask_AI(question)
+                        self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                        
+                elif text.lower().startswith("forget:"):
+                    fact = text[7:].strip()
+                    if fact:
+                        response, was_forgotten = self.ai.forget_facts(fact)
+                        if was_forgotten:
+                            self.learned_facts = self.ai.facts_learned
+                            self.root.after(0, lambda: self.facts_label.config(text=str(self.learned_facts)))
+                            self.root.after(0, self.level_up)
+                        self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                        
+                elif text.lower().startswith("edit:"):
+                    content = text[5:].strip()
+                    if "|" in content:
+                        parts = content.split("|")
+                        old_f = parts[0].strip()
+                        new_f = parts[1].strip()
+                        response, was_edited = self.ai.edit_facts(old_f, new_f)
+                        if was_edited:
+                            self.root.after(0, lambda: self.facts_label.config(text=str(self.ai.facts_learned)))
+                            self.root.after(0, self.level_up)
+                        self.root.after(0, lambda: self.add_message(response, sender="ai"))
+                    else:
+                        self.root.after(0, lambda: self.add_message("Format: edit: Old Fact | New Fact", sender="ai"))
                 else:
-                    self.add_message("Format: edit: Old Fact | New Fact", sender="ai")
-            else:
-                self.add_message("Please use 'learn: <text>' or '?: <question>'", sender="ai")
+                    self.root.after(0, lambda: self.add_message("Please use 'learn: <text>' or '?: <question>'", sender="ai"))
+
+            threading.Thread(target=process_in_background, daemon=True).start()
             
         input_entry = tk.Entry(footer, textvariable=user_input_text, width=60)
         input_entry.place(x=10, y=15)

@@ -1,0 +1,153 @@
+X-rays were discovered by Wilhelm Conrad Röntgen in 1895.
+The basic principle of X-ray imaging is differential absorption of radiation by different tissues.
+Air is the least dense and appears black on X-ray (radiolucent).
+Metal and bone are the most dense and appear white on X-ray (radiopaque).
+Standard chest X-rays are typically taken in PA (Postero-Anterior) and Lateral views.
+In an AP (Antero-Posterior) chest X-ray, the heart often appears falsely enlarged.
+Magnification occurs when the object being imaged is further from the detector.
+Mammography uses low-energy X-rays to detect early signs of breast cancer.
+Fluoroscopy provides real-time moving X-ray images of internal structures.
+Barium sulfate is commonly used as a contrast agent for gastrointestinal fluoroscopy studies.
+Computed Tomography (CT) uses a rotating X-ray tube to create cross-sectional images.
+Hounsfield Units (HU) are used to measure radiodensity in CT scans.
+Water is defined as 0 HU on the Hounsfield scale.
+Air is defined as -1000 HU on the Hounsfield scale.
+Cortical bone typically measures above +400 HU.
+Acute blood in the brain typically measures between +60 to +80 HU.
+Windowing in CT allows the radiologist to focus on specific tissue types (e.g., Lung window, Bone window).
+Dual-energy CT can help differentiate between different types of kidney stones.
+CT angiography (CTA) is used to visualize blood vessels after injecting iodine-based contrast.
+Artifacts in CT can be caused by patient movement or metallic implants (beam hardening).
+Iterative reconstruction algorithms in CT help reduce radiation dose while maintaining image quality.
+Magnetic Resonance Imaging (MRI) relies on the behavior of hydrogen protons in a strong magnetic field.
+The primary magnetic field in MRI is measured in Tesla (T).
+Common clinical MRI strengths are 1.5T and 3.0T.
+Radiofrequency (RF) pulses are used to displace protons from their alignment in the magnetic field.
+T1 relaxation time refers to the recovery of longitudinal magnetization.
+T2 relaxation time refers to the decay of transverse magnetization.
+Fluid (like CSF) appears dark on T1-weighted images and bright on T2-weighted images.
+Fat typically appears bright on both T1 and T2 weighted standard images.
+FLAIR (Fluid Attenuated Inversion Recovery) sequences suppress the signal from free fluid to highlight brain lesions.
+Diffusion-Weighted Imaging (DWI) is highly sensitive for detecting acute ischemic stroke within minutes.
+Apparent Diffusion Coefficient (ADC) maps help differentiate between true restriction and T2 shine-through.
+Magnetic Resonance Cholangiopancreatography (MRCP) is a non-invasive way to image the bile ducts.
+MRI is contraindicated in patients with non-compatible pacemakers or metallic fragments in the eye.
+Gadolinium-based contrast agents shorten T1 relaxation times, making enhanced areas appear bright.
+Nephrogenic Systemic Fibrosis (NSF) is a rare but serious risk of gadolinium in patients with severe renal failure.
+Functional MRI (fMRI) measures brain activity by detecting changes in blood flow (BOLD signal).
+Ultrasound uses high-frequency sound waves (2-18 MHz) and has no ionizing radiation.
+The piezoelectric effect is the basis for how ultrasound transducers generate and receive sound waves.
+Acoustic impedance is the resistance of a tissue to the passage of sound waves.
+Anechoic structures (like simple cysts) do not reflect sound and appear black.
+Hyperechoic structures (like gallstones) reflect most sound and appear bright.
+Acoustic shadowing occurs behind highly reflective or absorptive objects like stones or bone.
+Posterior acoustic enhancement occurs behind fluid-filled structures like the gallbladder.
+Time-Gain Compensation (TGC) allows the operator to adjust brightness at different depths.
+Color Doppler shows the direction of blood flow; usually red towards and blue away from the probe.
+Power Doppler is more sensitive to slow flow but does not provide directional information.
+Endovaginal ultrasound provides higher resolution images of the pelvic organs compared to transabdominal.
+FAST exam (Focused Assessment with Sonography for Trauma) checks for free fluid in the abdomen/pericardium.
+Nuclear Medicine involves the administration of radiopharmaceuticals to evaluate organ function.
+Technetium-99m is the most commonly used radioisotope in nuclear medicine due to its 6-hour half-life.
+Gamma cameras detect photons emitted from the patient's body.
+Single Photon Emission Computed Tomography (SPECT) provides 3D nuclear medicine images.
+Positron Emission Tomography (PET) uses tracers like FDG (fluorodeoxyglucose) to map glucose metabolism.
+PET scans are frequently combined with CT (PET/CT) for precise anatomical localization of metabolic 'hot spots'.
+Bone scans (scintigraphy) are highly sensitive for detecting bone metastases and stress fractures.
+Ventilation-Perfusion (V/Q) scans are used to diagnose pulmonary embolism when CT is contraindicated.
+Thyroid uptake scans use Iodine-123 to evaluate thyroid function and nodules.
+The 'ALARA' principle stands for 'As Low As Reasonably Achievable' regarding radiation dose.
+Lead aprons and thyroid shields are essential for protecting staff during fluoroscopy.
+Stochastic effects of radiation (like cancer) have no threshold; the risk increases with dose.
+Deterministic effects (like skin burns or cataracts) occur only after reaching a specific dose threshold.
+Barium swallow studies evaluate the esophagus for structural or functional abnormalities.
+A 'Double Contrast' study uses both barium and air to better visualize the mucosal surface.
+The 'Steeple Sign' on a neck X-ray is characteristic of Croup (subglottic narrowing).
+The 'Thumbprint Sign' on a lateral neck X-ray suggests Epiglottitis.
+Sail Sign on a pediatric chest X-ray represents the normal thymus gland.
+Kerley B lines on a chest X-ray are short horizontal lines indicating pulmonary edema.
+Pneumoperitoneum (free air under the diaphragm) is best seen on an upright chest or abdominal X-ray.
+The 'String Sign' in the terminal ileum can be seen in Crohn's disease during a small bowel series.
+Intussusception often shows a 'Target Sign' or 'Crescent Sign' on ultrasound or CT.
+Cholecystitis is often diagnosed via ultrasound by seeing gallbladder wall thickening and a positive sonographic Murphy sign.
+Urolithiasis (kidney stones) are best detected using a non-contrast CT of the abdomen and pelvis (KUB protocol).
+Pancreatitis on CT is characterized by fat stranding and diffuse enlargement of the pancreas.
+Aortic dissection is classically diagnosed using IV contrast-enhanced CT showing an intimal flap.
+Pulmonary Embolism (PE) is diagnosed on CTPA by identifying filling defects in the pulmonary arteries.
+Subarachnoid hemorrhage appears as hyperdense (white) fluid in the cisterns and sulci on a non-contrast CT.
+Epidural hematoma is typically biconvex (lens-shaped) and does not cross cranial sutures.
+Subdural hematoma is typically crescent-shaped and can cross cranial sutures.
+Hydrocephalus is identified by the enlargement of the ventricular system out of proportion to sulcal widening.
+Cerebral edema is seen as a loss of grey-white matter differentiation on CT.
+Multiple Sclerosis (MS) lesions are best visualized on MRI T2/FLAIR as periventricular white matter 'Dawson's fingers'.
+Magnetic Resonance Angiography (MRA) can be done with or without contrast (using Time-of-Flight techniques).
+Elastography is an imaging modality that maps the elastic properties and stiffness of soft tissue.
+Virtual Colonoscopy (CT Colonography) is a less invasive alternative to traditional colonoscopy for screening.
+Bone Age is typically determined by an X-ray of the left hand and wrist.
+Hysterosalpingography (HSG) is an X-ray study used to evaluate the uterus and fallopian tubes for infertility.
+Cystography involves filling the bladder with contrast to evaluate for reflux or rupture.
+Voiding Cystourethrography (VCUG) is commonly used in children to diagnose vesicoureteral reflux.
+The 'Golden Hour' in trauma often relies heavily on 'Pan-scan' CT imaging for rapid diagnosis.
+Interventional Radiology (IR) uses imaging guidance to perform minimally invasive procedures like biopsies or stenting.
+Digital Subtraction Angiography (DSA) removes background bone/tissue to isolate blood vessels.
+Radiofrequency Ablation (RFA) uses heat generated by medium-frequency alternating current to treat tumors.
+Uterine Artery Embolization (UAE) is an IR procedure used to treat symptomatic fibroids.
+Percutaneous Nephrostomy is used to drain an obstructed kidney using ultrasound or fluoroscopic guidance.
+Image-guided biopsies increase accuracy and decrease complications compared to 'blind' biopsies.
+Infarction on MRI DWI shows 'restricted diffusion' as bright signal.
+The 'Apple Core' lesion on a barium enema is a classic sign of colon cancer.
+Spondylolisthesis is the displacement of one vertebra over another, seen on lateral spinal X-rays.
+Pneumothorax is identified by the absence of lung markings at the periphery and a visible visceral pleural line.
+Air bronchograms occur when air-filled bronchi are visible against fluid-filled (consolidated) lung tissue.
+Atelectasis is the collapse of lung tissue, seen as increased density and volume loss on X-ray.
+Golden S-sign on chest X-ray suggests right upper lobe collapse due to a central mass.
+Mediastinal widening on X-ray can be a sign of aortic rupture or lymphadenopathy.
+Calcification of the gallbladder wall is known as 'Porcelain Gallbladder' and is a risk for cancer.
+The 'Coffee Bean' sign on an abdominal X-ray is characteristic of sigmoid volvulus.
+Rigler's sign is seen when air is present on both sides of the bowel wall in pneumoperitoneum.
+A 'Lead Pipe' appearance of the colon on barium studies suggests chronic ulcerative colitis.
+Osteoblastic metastases (white) are common in prostate cancer; osteolytic (dark) are common in multiple myeloma.
+DEXA scans (Dual-Energy X-ray Absorptiometry) are the gold standard for measuring bone mineral density.
+T-scores in DEXA compare a patient's bone density to a healthy 30-year-old.
+Z-scores in DEXA compare a patient's bone density to others of the same age and gender.
+Myelography involves injecting contrast into the subarachnoid space to image the spinal cord.
+Arthrography is imaging of a joint after the injection of a contrast medium.
+Contrast-Induced Nephropathy (CIN) is a decline in renal function following contrast administration.
+Pre-hydration with saline is one of the most effective ways to prevent contrast-induced nephropathy.
+Metformin should be held for 48 hours after IV contrast in patients with impaired renal function.
+A 'Cold Nodule' on a thyroid scan has a higher risk of malignancy than a 'Hot Nodule'.
+Sentinel lymph node mapping uses radioactive dye to identify the first node where cancer may spread.
+Scintigraphy for Meckel's diverticulum uses Pertechnetate to find ectopic gastric mucosa.
+The 'Panda Sign' in Gallium-67 imaging can be seen in Sarcoidosis.
+HIDA scan evaluates the function of the gallbladder and patency of the cystic duct.
+Bone scans are more sensitive than X-rays for early detection of osteomyelitis.
+DMSA scan is used in pediatrics to evaluate for renal scarring.
+MRI sequences like SWI (Susceptibility Weighted Imaging) are excellent for detecting microhemorrhages.
+MR spectroscopy (MRS) measures metabolite levels in tissues, helping differentiate tumors from abscesses.
+A 'Bucket Handle' tear is a specific type of meniscus tear visible on knee MRI.
+The 'Dreaded Black Line' on a tibial X-ray indicates a high-risk stress fracture.
+Terry Thomas sign is a gap between the scaphoid and lunate bones, indicating ligament injury.
+The 'Scotty Dog' with a collar sign on oblique lumbar X-rays indicates spondylolysis.
+A 'Sailor's Cap' or 'Doughnut' sign in the brain can refer to specific abscess or tumor appearances.
+Imaging of the 'Internal Auditory Canals' (IAC) is best done with high-resolution MRI.
+Breast MRI is used for screening high-risk patients and evaluating implant rupture.
+The 'Water-Lily' sign on X-ray or CT is classic for a hydatid cyst in the liver or lung.
+CT Urography is a specialized CT used to evaluate the entire urinary tract for hematuria.
+The 'Sentinel Loop' on an abdominal X-ray is a localized segment of dilated bowel near an inflamed organ.
+Osteoid osteoma shows a classic 'nidus' (small radiolucent center) on CT or X-ray.
+CT Perfusion is used in acute stroke to map salvageable brain tissue (the penumbra).
+Maximum Intensity Projection (MIP) is a 3D rendering technique used in CTA and MRA.
+The 'Sunburst' periosteal reaction on X-ray is highly suggestive of Osteosarcoma.
+The 'Onion Skin' periosteal reaction is characteristic of Ewing Sarcoma.
+Codman's Triangle is a sign of aggressive bone lesions where the periosteum is lifted.
+Phleboliths are small, rounded calcifications in pelvic veins, often confused with ureteral stones.
+The 'Fat Pad Sign' (Sail sign) on an elbow X-ray indicates an occult fracture and joint effusion.
+Shoulder MR Arthrography is the preferred method for evaluating labral tears.
+Cardiac MRI is the gold standard for quantifying ventricular volumes and ejection fraction.
+Late Gadolinium Enhancement (LGE) on cardiac MRI identifies myocardial scarring or fibrosis.
+Radiology reports should ideally use standardized lexicons like BI-RADS or LI-RADS.
+The 'Vacuum Phenomenon' in a joint or spinal disc indicates the presence of gas, usually nitrogen.
+Imaging is just one piece of the clinical puzzle and must always be correlated with the physical exam.
+Artificial Intelligence (AI) in radiology is increasingly used for rapid screening of triage cases like ICH or PE.
+Teleradiology allows for the remote interpretation of medical images across the globe.
+The final diagnosis often requires a multidisciplinary approach involving radiologists, pathologists, and clinicians.

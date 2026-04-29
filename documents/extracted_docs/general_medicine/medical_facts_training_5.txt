@@ -1,0 +1,62 @@
+Patient presents with sharp pain in the lower right abdomen and rebound
+tenderness. Potential condition: Appendicitis.
+Individual reports excessive thirst, frequent urination, and
+unexplained weight loss. Potential condition: Diabetes Mellitus.
+Patient experiences sudden chest pressure radiating to the left arm and
+jaw. Potential condition: Myocardial Infarction.
+Subject shows yellowing of the sclera and skin with dark urine.
+Anatomical focus: Liver. Potential condition: Jaundice or Hepatitis.
+Patient complains of severe headache, stiff neck, and sensitivity to
+light. Potential condition: Meningitis.
+Individual has a persistent cough with blood-stained sputum and night
+sweats. Potential condition: Tuberculosis.
+Patient presents with sudden weakness on one side of the body and
+facial drooping. Potential condition: Stroke (Cerebrovascular
+Accident).
+Subject reports wheezing, chest tightness, and difficulty breathing
+during exercise. Potential condition: Asthma.
+Patient shows swelling in the lower legs and shortness of breath when
+lying flat. Potential condition: Congestive Heart Failure.
+Individual has high fever, chills, and productive cough with green
+phlegm. Potential condition: Pneumonia.
+Patient feels a burning sensation in the chest after eating, especially
+when lying down. Potential condition: GERD (Acid Reflux).
+Subject presents with sudden onset of flank pain radiating to the groin
+and hematuria. Potential condition: Nephrolithiasis (Kidney Stones).
+Patient reports chronic joint pain and stiffness that is worse in the
+morning. Potential condition: Rheumatoid Arthritis.
+Individual shows bulging eyes, rapid heartbeat, and unexplained weight
+loss. Anatomical focus: Thyroid gland. Potential condition:
+Hyperthyroidism.
+Patient has cold intolerance, fatigue, and dry skin. Anatomical focus:
+Thyroid gland. Potential condition: Hypothyroidism.
+Subject presents with a 'butterfly' rash across the cheeks and nose.
+Potential condition: Systemic Lupus Erythematosus.
+Patient reports sudden, severe pain and swelling in the big toe.
+Potential condition: Gout.
+Individual has persistent diarrhea, abdominal cramps, and blood in
+stool. Potential condition: Inflammatory Bowel Disease.
+Patient shows tremors at rest, slow movement, and a shuffling gait.
+Potential condition: Parkinson's Disease.
+Subject experiences sudden, temporary loss of consciousness and muscle
+tone. Potential term: Syncope.
+Patient presents with blurred vision and increased intraocular
+pressure. Potential condition: Glaucoma.
+Individual has widespread muscle pain, fatigue, and sleep issues.
+Potential condition: Fibromyalgia.
+Patient reports frequent episodes of intense fear and palpitations
+without a trigger. Potential condition: Panic Disorder.
+Subject shows memory loss, confusion, and disorientation to time and
+place. Potential condition: Alzheimer's Disease.
+Patient presents with a red, circular 'bullseye' rash after a forest
+hike. Potential condition: Lyme Disease.
+Individual has itchy, scaly patches on the elbows and knees. Potential
+condition: Psoriasis.
+Patient feels extreme fatigue and has pale conjunctiva. Potential
+condition: Anemia.
+Subject presents with sudden, sharp pleuritic chest pain and blue-
+tinted lips. Potential condition: Pulmonary Embolism.
+Patient has painful blisters following a nerve path on one side of the
+torso. Potential condition: Shingles (Herpes Zoster).
+Individual reports difficulty swallowing solids and liquids. Potential
+term: Dysphagia.

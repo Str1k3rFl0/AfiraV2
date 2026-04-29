@@ -1,0 +1,361 @@
+Long-term potentiation (LTP) is a persistent strengthening of synapses based on recent patterns of activity.
+Long-term depression (LTD) is an activity-dependent reduction in the efficacy of neuronal synapses.
+The NMDA receptor is a glutamate receptor that is critical for synaptic plasticity and memory function.
+AMPA receptors mediate fast synaptic transmission in the central nervous system.
+Retrograde signaling involves messengers (like nitric oxide) traveling from the postsynaptic to the presynaptic neuron.
+Neurogenesis, the birth of new neurons, continues into adulthood in specific brain regions like the hippocampus.
+Glial cells, including astrocytes and microglia, play active roles in modulating synaptic transmission.
+The glymphatic system is a waste clearance system in the central nervous system, most active during sleep.
+Saltatory conduction occurs because myelin prevents ion leakage, allowing the action potential to 'jump' between nodes.
+Temporal summation occurs when a single presynaptic neuron fires many times in succession.
+Spatial summation occurs when multiple presynaptic neurons fire simultaneously at different locations.
+The enteric nervous system is often called the 'second brain' due to its complexity in managing digestion.
+The blood-brain barrier is formed by tight junctions between endothelial cells and astrocyte end-feet.
+Circadian rhythms are controlled by the suprachiasmatic nucleus (SCN) in the hypothalamus.
+Melatonin synthesis is inhibited by light exposure to the retina.
+The endocrine system uses chemical messengers (hormones) for long-distance communication.
+Peptide hormones are water-soluble and act via second messenger systems.
+Steroid hormones are lipid-soluble and act as transcription factors in the nucleus.
+The second messenger cAMP is produced from ATP by the enzyme adenylyl cyclase.
+Phospholipase C breaks down membrane lipids into IP3 and DAG.
+IP3 triggers the release of calcium ions from the endoplasmic reticulum.
+Receptor tyrosine kinases (RTKs) are membrane receptors that attach phosphates to tyrosines.
+Insulin signaling primarily utilizes the receptor tyrosine kinase pathway.
+The thyroid-stimulating hormone (TSH) stimulates the thyroid to produce T3 and T4.
+Negative feedback in the HPA axis (Hypothalamus-Pituitary-Adrenal) regulates cortisol levels.
+Gigantism and acromegaly result from overproduction of growth hormone.
+Type 1 diabetes is characterized by autoimmune destruction of pancreatic beta cells.
+Type 2 diabetes involves insulin resistance and relative insulin deficiency.
+The kidney produces erythropoietin (EPO) to stimulate red blood cell production in response to hypoxia.
+Renin is an enzyme secreted by the kidney that initiates the RAAS pathway to increase blood pressure.
+Angiotensin II is a potent vasoconstrictor that also stimulates aldosterone secretion.
+Atrial natriuretic peptide (ANP) reduces blood volume and pressure by promoting sodium excretion.
+Osmoreceptors in the hypothalamus monitor blood osmolarity and trigger thirst.
+Aquaporins are channel proteins that specifically facilitate the passage of water across membranes.
+The loop of Henle acts as a countercurrent multiplier to create an osmotic gradient in the medulla.
+Vasa recta act as countercurrent exchangers to maintain the medullary osmotic gradient.
+Innate immunity is the first line of defense and lacks immunological memory.
+Toll-like receptors (TLRs) recognize molecular patterns common to many pathogens.
+Opsonization is the process where pathogens are coated with antibodies or complement proteins for phagocytosis.
+The membrane attack complex (MAC) forms pores in the membranes of pathogens, leading to lysis.
+Interferons are cytokines that induce an antiviral state in neighboring cells.
+MHC Class I presents endogenous antigens to CD8+ Cytotoxic T cells.
+MHC Class II presents exogenous antigens to CD4+ Helper T cells.
+B cell receptors (BCRs) are membrane-bound antibodies.
+T cell receptors (TCRs) only recognize antigens presented on MHC molecules.
+Somatic hypermutation allows B cells to produce antibodies with higher affinity over time.
+Class switching allows B cells to produce different types of antibodies (IgM to IgG, IgA, etc.).
+IgA is the primary antibody found in secretions like breast milk and saliva.
+IgE is involved in allergic reactions and defense against parasitic worms.
+IgG is the most abundant antibody in the blood and can cross the placenta.
+Monoclonal antibodies are identical antibodies produced from a single clone of cells.
+The hygiene hypothesis suggests that reduced exposure to microbes may lead to increased allergies.
+Biological membranes are selectively permeable, allowing small nonpolar molecules to pass easily.
+Channel proteins provide hydrophilic corridors for specific ions or molecules.
+Carrier proteins undergo shape changes to move solutes across the membrane.
+The membrane potential is the voltage across a membrane, typically negative inside.
+The electrochemical gradient is the combined influence of concentration and electrical gradients on ion movement.
+Electrogenic pumps contribute to the membrane potential.
+Pinocytosis is a non-specific uptake of extracellular fluid.
+Signal molecules that bind to receptors are called ligands.
+Intracellular receptors are found in either the cytoplasm or the nucleus of target cells.
+Protein phosphorylation and dephosphorylation act as a molecular switch in cell signaling.
+Scaffolding proteins can increase signaling efficiency by grouping different proteins of the same pathway.
+Apoptosis is a programmed cell death that prevents enzymes from leaking out and damaging neighbors.
+Caspases are the main proteases that carry out apoptosis.
+The extrinsic pathway of apoptosis is triggered by death receptors on the cell surface.
+The intrinsic pathway of apoptosis is triggered by mitochondrial outer membrane permeabilization.
+Chromosomes are only visible during the M phase of the cell cycle.
+The mitotic spindle consists of microtubules and associated proteins.
+Kinetochores are the specific locations on chromosomes where spindle microtubules attach.
+Cytokinesis in plants involves the formation of a cell plate.
+Cytokinesis in animals involves a cleavage furrow made of actin and myosin.
+MPF (Maturation-Promoting Factor) is a cyclin-CDK complex that triggers a cell's passage into the M phase.
+Protein kinases that regulate the cell cycle are only active when bound to a cyclin.
+Growth factors are signals that tell cells to divide.
+The G0 phase is a non-dividing state for cells that have left the cycle.
+Cancer cells do not exhibit density-dependent inhibition or anchorage dependence.
+Mutations in the p53 gene are found in more than 50% of all human cancers.
+The Ras gene encodes a G protein that relays signals from growth factor receptors.
+Homologous chromosomes have the same length, centromere position, and gene loci.
+Alleles are different versions of the same gene at the same locus.
+Meiosis produces four haploid daughter cells.
+The synaptonemal complex holds homologous chromosomes together during synapsis.
+Independent assortment occurs because each pair of homologs orients independently during Metaphase I.
+The number of possible combinations from independent assortment in humans is 2^23.
+Random fertilization further increases the genetic variation produced by meiosis.
+A zygote has a unique genetic identity.
+A monohybrid cross follows a single character; a dihybrid cross follows two characters.
+The 9:3:3:1 ratio is typical for a dihybrid cross between two heterozygotes.
+The multiplication rule calculates the probability of two independent events occurring together.
+The addition rule calculates the probability of any one of two or more mutually exclusive events.
+Complete dominance is when the phenotypes of the heterozygote and dominant homozygote are identical.
+The Tay-Sachs allele is recessive at the organismal level but codominant at the molecular level.
+Quantitative variation usually indicates polygenic inheritance.
+The environment can influence the phenotype (multifactorial characters).
+A pedigree is a family tree that describes the interrelationships of parents and children across generations.
+Cystic fibrosis is the most common lethal genetic disease in the United States among people of European descent.
+Sickle-cell disease is caused by the substitution of a single amino acid in hemoglobin.
+Huntington's disease is a dominant lethal allele that has no obvious phenotypic effect until the individual is 35-45.
+Morgan's experiments with fruit flies provided the first solid evidence that genes are on chromosomes.
+The SRY gene on the Y chromosome is responsible for the development of the testes in an embryo.
+A gene that is located on either sex chromosome is called a sex-linked gene.
+In mammalian females, one of the two X chromosomes is randomly inactivated during early development.
+Crossing over between homologous chromosomes breaks the linkage between genes on the same chromosome.
+Genetic maps provide the relative sequence of genes along a chromosome.
+Polyploidy is common in the plant kingdom and is an important factor in plant evolution.
+Genomic imprinting is when the phenotype depends on which parent passed on the alleles.
+Extra-nuclear genes (mitochondria/chloroplasts) are inherited maternally.
+DNA replication is exceptionally accurate, with an error rate of about one in 10 billion nucleotides.
+Okazaki fragments are about 100-200 nucleotides long in eukaryotes.
+DNA polymerases can only add nucleotides to the 3' end of a pre-existing polynucleotide.
+Telomeres do not contain genes; they consist of short, repetitive nucleotide sequences.
+Nucleosomes are the 'beads on a string' level of DNA packing.
+During interphase, most of the chromatin is in the less condensed state (euchromatin).
+Codons are read in the 5' to 3' direction along the mRNA.
+The reading frame is the correct grouping of nucleotides for translation.
+RNA polymerase doesn't need a primer to start a strand.
+Transcription factors are required for eukaryotic RNA polymerase to bind to the promoter.
+Spliceosomes are composed of proteins and small RNAs (snRNAs).
+Alternative RNA splicing allows a single gene to encode multiple polypeptides.
+A tRNA molecule consists of a single RNA strand about 80 nucleotides long.
+The large and small subunits of a ribosome only come together when they attach to an mRNA.
+Mutations are the ultimate source of new genes.
+Insertions and deletions are more likely to have a disastrous effect on the resulting protein than substitutions.
+Prions are infectious proteins that cause misfolding of normal brain proteins.
+A virus consists of a nucleic acid surrounded by a protein coat (capsid).
+A vaccine is a harmless derivative of a pathogen that stimulates the immune system.
+Restriction enzymes protect bacteria from phages by cutting up foreign DNA.
+A cloning vector is a DNA molecule that can carry foreign DNA into a host cell.
+The polymerase chain reaction (PCR) can produce many copies of a specific target segment of DNA.
+Expression vectors are cloning vectors that contain a highly active bacterial promoter.
+The CRISPR-Cas9 system can be used to 'knock out' or repair specific genes.
+Stem cells can be embryonic (pluripotent) or adult (multipotent).
+Genetically modified (GM) organisms are used to produce medicines, like human insulin.
+Metabolic pathways are regulated by enzyme activity and gene expression.
+Negative feedback is the most common form of regulation in metabolic pathways.
+Thermoregulation is the process of maintaining an internal temperature within a tolerable range.
+Vitamins are organic molecules; minerals are inorganic elements.
+Interferons provide non-specific defense against viral infections.
+Lymph nodes are organs where immune cells multiply and filter lymph.
+Humoral immunity involves B cells and the production of antibodies.
+Cell-mediated immunity involves T cells and the direct killing of infected cells.
+Active immunity is long-lasting; passive immunity is temporary.
+Allergies are hypersensitive responses to allergens.
+The human genome contains about 3 billion base pairs.
+Non-coding DNA makes up about 98.5% of the human genome.
+Transposable elements are DNA sequences that can move from one location to another in the genome.
+Multigene families are collections of identical or very similar genes.
+Evolution explains both the unity and diversity of life.
+Adaptations are inherited characteristics that enhance survival and reproduction.
+The fossil record provides chronological evidence of evolution.
+Homology is similarity resulting from common ancestry.
+Convergent evolution is the independent evolution of similar features in different lineages.
+The Hardy-Weinberg principle describes a population that is not evolving.
+Natural selection is the only mechanism that consistently causes adaptive evolution.
+Genetic drift can lead to a loss of genetic variation within populations.
+Gene flow tends to reduce differences between populations over time.
+Sexual selection can result in sexual dimorphism.
+Speciation can occur rapidly or slowly and can result from changes in few or many genes.
+Biological species concept defines species based on reproductive isolation.
+Phylogeny is the evolutionary history of a species or group of related species.
+Cladistics groups organisms by common descent.
+Molecular clocks help track evolutionary time.
+Horizontal gene transfer is the exchange of genes between genomes of different species.
+Microorganisms are the most diverse and numerous organisms on Earth.
+Prokaryotes play crucial roles in the biosphere through recycling chemical elements.
+Protists are mostly unicellular but exhibit structural and functional complexity.
+Fungi are essential decomposers in many ecosystems.
+Plants evolved from green algae and adapted to life on land.
+Animals are multicellular, heterotrophic eukaryotes with tissues that develop from embryonic layers.
+The diversity of animal body plans evolved during the Cambrian explosion.
+Ecology is the study of the interactions between organisms and their environment.
+Climate is a major determinant of the distribution of organisms.
+Population ecology explores how biotic and abiotic factors influence density, distribution, and size.
+Community ecology examines how species interactions affect community structure.
+Ecosystem ecology emphasizes energy flow and chemical cycling.
+Conservation biology seeks to preserve life's diversity.
+Human activities are the main cause of the current biodiversity crisis.
+Sustainable development aims to protect the environment while meeting human needs.
+A mutation in a single gene can have large-scale phenotypic effects.
+Biology continues to evolve as new technologies and discoveries emerge.
+Cells are small because they need a high surface-area-to-volume ratio.
+Prokaryotes reproduce asexually by binary fission.
+Eukaryotic DNA is associated with histones; prokaryotic DNA is not.
+Transcription and translation are coupled in prokaryotes.
+The TATA box is a DNA sequence that indicates where a genetic sequence can be read and decoded.
+Microtubules are the thickest fibers of the cytoskeleton.
+Microfilaments are the thinnest fibers of the cytoskeleton.
+Intermediate filaments are mid-sized and provide permanent framework.
+Flagella and cilia are made of microtubules in a 9+2 arrangement.
+The extracellular matrix (ECM) of animal cells consists of glycoproteins like collagen.
+Integrins are cell-surface receptor proteins that bind to the ECM.
+The primary cell wall of a plant is thin and flexible.
+The secondary cell wall is added between the plasma membrane and primary wall.
+The middle lamella is a thin layer rich in sticky pectins between plant cells.
+Selectively permeable membranes allow some substances to cross more easily than others.
+Amphipathic molecules have both hydrophobic and hydrophilic regions.
+The freeze-fracture method of preparing cells for electron microscopy demonstrates the mosaic nature of membranes.
+Membrane proteins determine most of the membrane's specific functions.
+Aquaporins allow up to 3 billion water molecules to pass per second.
+Diffusion is a spontaneous process that increases entropy.
+Hypertonic solutions have a higher solute concentration.
+Hypotonic solutions have a lower solute concentration.
+Isotonic solutions have the same solute concentration.
+Turgid means a plant cell is very firm due to water uptake.
+Flaccid means a plant cell is limp.
+Plasmolysis is when the plant cell membrane pulls away from the wall.
+Ion channels that open or close in response to a stimulus are called gated channels.
+Membrane potential is usually -50 to -200 mV.
+The main electrogenic pump in plants, fungi, and bacteria is the proton pump.
+The main electrogenic pump in animals is the sodium-potassium pump.
+Ligands for cell-surface receptors include many hormones and neurotransmitters.
+G-protein coupled receptors (GPCRs) are involved in many human diseases.
+Ligand-gated ion channels open or close when a specific ligand binds.
+Intracellular receptors are often transcription factors.
+Transcription factors control which genes are turned on in a cell.
+Phosphorylation cascades amplify a signal's response.
+Second messengers are small, nonprotein, water-soluble molecules or ions.
+cAMP and calcium ions are the most widely used second messengers.
+Calcium concentration is much lower in the cytosol than in the ER or outside the cell.
+Signaling pathways can lead to changes in gene expression or cytoplasmic activity.
+Signal amplification occurs because each step in the cascade produces many products.
+The specificity of cell signaling allows different cells to respond differently to the same signal.
+Apoptosis is essential for the development of the nervous system and immune system.
+Internal signals for apoptosis can come from the nucleus or ER.
+Genome size and complexity do not necessarily correlate with organismal complexity.
+Chromosomes consist of one very long DNA molecule and many proteins.
+Every eukaryotic species has a characteristic number of chromosomes in each cell nucleus.
+Human somatic cells have 46 chromosomes.
+The two sister chromatids contain identical DNA molecules.
+Interphase accounts for about 90% of the cell cycle.
+The S phase is when chromosomes are duplicated.
+The centrosome is a subcellular region that organizes microtubules.
+The asters are radial arrays of short microtubules that extend from centrosomes.
+The mitotic spindle includes the centrosomes, spindle microtubules, and asters.
+Anaphase is the shortest phase of mitosis.
+Cleavage is the process of cytokinesis in animal cells.
+Bacterial chromosomes are usually circular.
+Cell cycle control system is a cyclically operating set of molecules in the cell.
+Checkpoints are control points where stop and go-ahead signals regulate the cycle.
+Protein kinases that regulate the cell cycle are active only when attached to a cyclin.
+The G1 checkpoint is the most important for many cells.
+Cancer cells exhibit neither density-dependent inhibition nor anchorage dependence.
+A normal cell becomes a cancer cell through transformation.
+Metastasis is the spread of cancer cells to other parts of the body.
+Inheritance of genes is the basis of similarity between parents and offspring.
+Genes are programmed into our DNA.
+Gametes are the vehicles that transmit genes from one generation to the next.
+Fertilization and meiosis alternate in sexual life cycles.
+The human life cycle involves diploid adults and haploid gametes.
+Three life cycle types exist: animal, plant (alternation of generations), and fungi/protist.
+Meiosis I and Meiosis II result in four daughter cells.
+Synapsis and crossing over occur during Prophase I.
+Homologous pairs align at the metaphase plate in Metaphase I.
+The law of independent assortment applies to genes on different chromosomes.
+Incomplete dominance is when the F1 hybrid has a phenotype between the parents.
+Codominance is when both alleles are expressed in the heterozygote.
+Pleiotropy means one gene affects several phenotypic characters.
+Epistasis is when the phenotypic expression of one gene affects another.
+Polygenic inheritance is when two or more genes affect one character.
+A phenotype can depend on the environment (norm of reaction).
+Carriers of recessive disorders are phenotypically normal.
+Most human genetic disorders are recessive.
+Consanguineous (inbreeding) matings increase the chance of recessive disorders.
+Cystic fibrosis is caused by defective chloride transport channels.
+Sickle-cell trait can provide resistance to malaria.
+Dominant lethal alleles are much rarer than recessive ones.
+Sex-linked genes follow specific patterns of inheritance.
+Hemophilia is a sex-linked recessive disorder characterized by a lack of clotting protein.
+X-inactivation results in a mosaic of cell types in heterozygous females.
+Linked genes tend to be inherited together.
+Crossing over produces recombinant chromosomes.
+Nondisjunction is the failure of homologs or sister chromatids to separate.
+Aneuploidy results from fertilization of a gamete in which nondisjunction occurred.
+Monosomy is when a zygote has only one copy of a particular chromosome.
+Trisomy is when a zygote has three copies of a particular chromosome.
+Polyploidy is more common in plants than animals.
+Down syndrome is usually caused by trisomy 21.
+Aneuploidy of sex chromosomes is generally better tolerated than autosomal aneuploidy.
+Genomic imprinting involves silencing one allele during gamete production.
+Mitochondria are inherited only from the mother.
+DNA is a polymer of nucleotides.
+The double helix structure was suggested by Watson and Crick.
+Adenine pairs with thymine; guanine pairs with cytosine.
+DNA strands are antiparallel.
+Replication starts at origins of replication.
+Helicases untwist the double helix.
+Single-strand binding proteins keep DNA strands apart.
+Topoisomerase relieves strain ahead of replication forks.
+DNA polymerases catalyze the synthesis of new DNA.
+A primer is required to start DNA synthesis.
+The leading strand is synthesized continuously.
+The lagging strand is synthesized in Okazaki fragments.
+Proofreading by DNA polymerase catches many errors.
+Nucleotide excision repair replaces damaged segments of DNA.
+Telomeres protect the ends of eukaryotic chromosomes.
+Telomerase is an enzyme that lengthens telomeres.
+Chromatin is the DNA-protein complex in eukaryotes.
+Nucleosomes are the fundamental unit of DNA packing.
+Histones are the main proteins associated with DNA packing.
+Transcription is the synthesis of RNA under the direction of DNA.
+Translation is the synthesis of a polypeptide under the direction of mRNA.
+Ribosomes are the site of translation.
+The genetic code is a triplet code.
+Codons specify which amino acid will be added.
+The genetic code is nearly universal.
+RNA polymerase attaches to a promoter.
+Transcription proceeds through initiation, elongation, and termination.
+Eukaryotic mRNA is processed before leaving the nucleus.
+Introns are noncoding segments; exons are coding segments.
+RNA splicing removes introns and joins exons.
+tRNA carries amino acids to the ribosome.
+tRNA has an anticodon that matches the mRNA codon.
+Ribosomes have three binding sites for tRNA: A, P, and E.
+Translation proceeds through initiation, elongation, and termination.
+Polyribosomes are many ribosomes translating one mRNA.
+Point mutations change a single nucleotide pair.
+Base-pair substitutions can be silent, missense, or nonsense.
+Insertions and deletions can cause frameshift mutations.
+Mutagens are physical or chemical agents that cause mutations.
+A gene is a region of DNA whose final product is a polypeptide or RNA molecule.
+Gene expression is regulated at many steps.
+Operons allow bacteria to regulate several genes together.
+Repressors turn operons off; inducers turn them on.
+Eukaryotic gene expression is more complex than prokaryotic.
+Chromatin structure affects gene expression.
+Acetylation of histones loosens chromatin structure.
+Methylation of DNA can silence genes.
+Epigenetic inheritance is the inheritance of traits not involving the DNA sequence.
+Transcription factors are essential for gene regulation in eukaryotes.
+Enhancers are distal control elements.
+Post-transcriptional regulation includes RNA processing and degradation.
+Non-coding RNAs play many roles in regulating gene expression.
+Differentiation is the process by which cells become specialized.
+Morphogenesis is the physical processes that give an organism its shape.
+Cytoplasmic determinants in the egg help drive early development.
+Induction by nearby cells helps drive differentiation.
+Cancer is caused by mutations in genes that regulate the cell cycle.
+Oncogenes are cancer-causing genes.
+Proto-oncogenes are normal genes that promote cell growth.
+Tumor-suppressor genes normally inhibit cell division.
+A virus is an infectious particle consisting of genes in a protein box.
+The host range of a virus is the specific species it can infect.
+Phages have lytic and lysogenic cycles.
+Retroviruses use reverse transcriptase to copy RNA into DNA.
+HIV is a retrovirus.
+Prions are misfolded infectious proteins.
+Genetic engineering allows us to manipulate DNA for various goals.
+DNA cloning produces many copies of a gene.
+PCR amplifies specific DNA segments.
+CRISPR-Cas9 is a powerful tool for gene editing.
+Stem cells can differentiate into many cell types.
+Genomics is the study of whole sets of genes.
+The human genome contains about 20,000-25,000 genes.
+Much of the genome consists of transposable elements.
+Evolution is the process of change over time.
+Natural selection is the mechanism of adaptive evolution.
+Homology is evidence of common ancestry.
+Speciation is the origin of new species.
+Ecology is the study of how organisms interact with their environment.
+Biosphere is the global ecosystem.

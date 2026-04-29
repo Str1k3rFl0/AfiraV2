@@ -1,0 +1,295 @@
+The first law of thermodynamics in biology: energy cannot be created or destroyed, only transformed.
+The second law of thermodynamics: every energy transfer increases the entropy (disorder) of the universe.
+Free energy (Gibbs free energy) is the portion of a system's energy that can perform work.
+Exergonic reactions release free energy and occur spontaneously.
+Endergonic reactions absorb free energy and require an input of energy to proceed.
+Energy coupling is the use of an exergonic process to drive an endergonic one.
+ATP powers cellular work by coupling exergonic hydrolysis to endergonic reactions.
+Phosphorylation is the transfer of a phosphate group from ATP to another molecule.
+Regeneration of ATP comes from the phosphorylation of ADP using energy from catabolism.
+Activation energy is the initial investment of energy for starting a reaction.
+Enzymes do not change the free energy change (delta G) of a reaction.
+The Vmax of an enzyme is the maximum rate of reaction when the enzyme is saturated with substrate.
+The Km (Michaelis constant) is the substrate concentration at which the reaction rate is half of Vmax.
+A low Km indicates high affinity of the enzyme for its substrate.
+Allosteric regulation involves a protein's function at one site being affected by the binding of a regulatory molecule at a separate site.
+Feedback inhibition is a metabolic control in which the end product of a metabolic pathway inhibits an enzyme within that pathway.
+Redox reactions involve the transfer of electrons between reactants.
+Oxidation is the loss of electrons; reduction is the gain of electrons (OIL RIG).
+NAD+ is a coenzyme that functions as an electron carrier during cellular respiration.
+The electron transport chain is located in the inner mitochondrial membrane (cristae).
+Cytochromes are proteins in the electron transport chain that contain iron atoms (heme groups).
+The proton-motive force is the gradient of H+ ions across a membrane that drives ATP synthesis.
+Chemiosmosis is the use of energy in a H+ gradient to drive cellular work.
+Substrate-level phosphorylation produces a small amount of ATP during glycolysis and the citric acid cycle.
+Oxidative phosphorylation produces the bulk of ATP in aerobic organisms.
+Beta-oxidation breaks down fatty acids into acetyl-CoA for entry into the citric acid cycle.
+Deamination is the removal of an amino group from an amino acid before it is used for energy.
+Gluconeogenesis is the synthesis of glucose from non-carbohydrate precursors like pyruvate or lactic acid.
+The glyoxylate cycle in plants and bacteria allows for the conversion of fats to carbohydrates.
+Cyclic electron flow in photosynthesis uses only photosystem I and produces ATP but not NADPH.
+Photorespiration occurs when rubisco binds O2 instead of CO2, wasting energy and carbon.
+In C4 plants, the bundle-sheath cells are where the Calvin cycle takes place.
+Mesophyll cells in C4 plants incorporate CO2 into organic acids.
+Crassulacean Acid Metabolism (CAM) is an adaptation to arid conditions.
+A signal peptide is a sequence of amino acids that targets a protein to the endoplasmic reticulum.
+Proteasomes are protein complexes that degrade unneeded or damaged proteins tagged with ubiquitin.
+The endomembrane system includes the nuclear envelope, ER, Golgi, lysosomes, and vacuoles.
+Autophagy is the process by which a cell recycles its own organic material.
+Tight junctions prevent leakage of extracellular fluid across a layer of epithelial cells.
+Desmosomes (anchoring junctions) fasten cells together into strong sheets.
+Gap junctions (communicating junctions) provide cytoplasmic channels between adjacent cells.
+Plasmodesmata are channels that perforate plant cell walls, connecting the cytoplasm of adjacent cells.
+The fluid mosaic model describes the membrane as a mosaic of protein molecules in a fluid bilayer.
+Cholesterol acts as a 'temperature buffer' for the plasma membrane, maintaining fluidity.
+Integral proteins penetrate the hydrophobic interior of the lipid bilayer.
+Peripheral proteins are loosely bound to the surface of the membrane.
+Membrane carbohydrates function primarily in cell-cell recognition.
+Electrogenic pumps, like the sodium-potassium pump, generate voltage across a membrane.
+Cotransport occurs when active transport of a solute indirectly drives transport of other substances.
+Phagocytosis is 'cell eating'; pinocytosis is 'cell drinking'.
+Receptor-mediated endocytosis allows a cell to acquire bulk quantities of specific substances.
+A genome is the total genetic information in a cell or organism.
+Chromatin is the complex of DNA and proteins that makes up eukaryotic chromosomes.
+Somatic cells are non-reproductive cells with two sets of chromosomes (diploid).
+Gametes are reproductive cells (sperm and eggs) with one set of chromosomes (haploid).
+Sister chromatids are joined copies of the original chromosome.
+The centromere is the region where sister chromatids are most closely attached.
+Kinetochores are protein structures on the centromere where spindle fibers attach.
+Binary fission is the method of cell division in prokaryotes.
+Growth factors are proteins released by certain cells that stimulate other cells to divide.
+Density-dependent inhibition is a phenomenon where crowded cells stop dividing.
+Anchorage dependence requires cells to be attached to a substratum to divide.
+Transformation is the process that converts a normal cell to a cancer cell.
+A benign tumor remains at its original site; a malignant tumor invades surrounding tissues.
+Metastasis is the spread of cancer cells to locations distant from their original site.
+Genes are the units of heredity and are made up of segments of DNA.
+A locus is a gene's specific location along the length of a chromosome.
+Asexual reproduction produces clones.
+The life cycle is the generation-to-generation sequence of stages in the reproductive history of an organism.
+Karyotype is an ordered display of the pairs of chromosomes from a cell.
+Homologous chromosomes (homologs) carry genes controlling the same inherited characters.
+Autosomes are the chromosomes that do not determine sex.
+The X and Y chromosomes are the sex chromosomes.
+Fertilization is the union of gametes, resulting in a diploid zygote.
+Meiosis I is the reductional division; meiosis II is the equational division.
+Synapsis is the pairing of homologous chromosomes during prophase I.
+Crossing over involves the exchange of DNA between non-sister chromatids.
+Chiasmata are the X-shaped regions where crossing over has occurred.
+Cohesins hold sister chromatids together along their entire length.
+Three mechanisms contribute to genetic variation: independent assortment, crossing over, and random fertilization.
+Characters are heritable features (e.g., flower color); traits are variations of a character (e.g., purple).
+True-breeding organisms produce offspring with the same trait over many generations.
+The P generation is the parent generation; F1 is the first filial generation.
+The Law of Segregation: the two alleles for a heritable character separate during gamete formation.
+A Punnett square is a diagram used to predict the allele composition of offspring.
+Phenotype can include physiological traits as well as physical appearance.
+Pleiotropy is the property of a gene having multiple phenotypic effects (e.g., cystic fibrosis).
+Epistasis is when one gene alters the phenotypic expression of a second gene.
+Quantitative characters vary along a continuum in a population.
+Norm of reaction is the phenotypic range for a genotype depending on the environment.
+Pedigree analysis is used to track the inheritance of traits through human generations.
+Carriers are heterozygous individuals who carry a recessive allele but are phenotypically normal.
+The chromosomal theory of inheritance states that genes have specific loci on chromosomes.
+Wild type is the phenotype most commonly observed in natural populations.
+Sex-linked genes are located on either sex chromosome.
+X-linked genes follow specific patterns of inheritance; fathers pass them to daughters only.
+Duchenne muscular dystrophy and hemophilia are well-known X-linked recessive disorders.
+Barr bodies are inactive X chromosomes in female mammalian cells.
+Genetic recombination is the production of offspring with combinations of traits differing from either parent.
+Parental types are offspring that match the parental phenotypes.
+Recombinant types (recombinants) are offspring with new combinations of phenotypes.
+A linkage map is based on the assumption that the further apart genes are, the higher the recombination frequency.
+Cytogenetic maps locate genes with respect to chromosomal features like stained bands.
+Deletion removes a chromosomal segment.
+Duplication repeats a segment.
+Inversion reverses the orientation of a segment within a chromosome.
+Translocation moves a segment from one chromosome to a non-homologous one.
+Genomic imprinting involves the silencing of certain genes depending on which parent passes them on.
+Extranuclear genes are found in organelles like mitochondria and chloroplasts.
+Mitochondrial myopathy is a disease caused by defects in mitochondrial DNA.
+Griffith's experiment showed that heat-killed pathogenic bacteria could transform live non-pathogenic ones.
+Avery, McCarty, and MacLeod identified DNA as the transforming substance.
+Hershey and Chase used radioactive phosphorus and sulfur to prove that DNA is the genetic material in viruses.
+Chargaff's rules: A=T and G=C, and the composition of DNA varies between species.
+Rosalind Franklin's X-ray crystallography images were crucial in determining DNA's structure.
+Watson and Crick built the first accurate model of the DNA double helix.
+Antiparallel means the two sugar-phosphate backbones of DNA run in opposite directions.
+Origins of replication are specific sites where the DNA strands start to separate.
+Replication bubbles expand in both directions from the origin.
+DNA polymerases require a primer and a DNA template strand.
+Mismatch repair uses enzymes to fix errors in DNA base pairing.
+Nucleotide excision repair replaces damaged DNA segments (e.g., thymine dimers from UV).
+Histones contain a high proportion of positively charged amino acids to bind to negatively charged DNA.
+Nucleosomes are 'beads on a string', the basic unit of DNA packing.
+Heterochromatin is highly condensed interphase DNA that is generally not transcribed.
+Euchromatin is less compacted DNA that is available for transcription.
+Gene expression is the process by which DNA directs protein synthesis.
+In prokaryotes, translation can begin while transcription is still in progress.
+In eukaryotes, the nuclear envelope separates transcription from translation.
+The promoter includes the start point and the TATA box (in eukaryotes).
+The terminator is the sequence that signals the end of transcription in bacteria.
+RNA splicing is carried out by spliceosomes (complexes of proteins and small RNAs).
+Ribozymes are RNA molecules that function as enzymes.
+tRNA molecules have an anticodon that base-pairs with a specific mRNA codon.
+Aminoacyl-tRNA synthetase is the enzyme that matches a tRNA with its correct amino acid.
+Wobble is the flexible pairing at the third base of a codon.
+Signal-recognition particles (SRP) escort ribosomes to the ER membrane.
+Silent mutations have no effect on the amino acid sequence.
+Missense mutations change one amino acid to another.
+Nonsense mutations change an amino acid codon into a stop codon.
+Mutagens are physical or chemical agents that can cause mutations.
+Gene regulation allows cells to differentiate and respond to their environment.
+Corepressors cooperate with repressor proteins to switch operons off.
+Inducers inactivate repressors to switch operons on.
+CAP (catabolite activator protein) is a positive regulator of the lac operon.
+Control elements are segments of non-coding DNA that serve as binding sites for transcription factors.
+Enhancers are distal control elements that can be thousands of nucleotides away from a gene.
+Ubiquitin-proteasome pathway is a major mechanism for regulated protein degradation.
+RNA interference (RNAi) uses small interfering RNAs (siRNAs) to block gene expression.
+Piwi-interacting RNAs (piRNAs) induce formation of heterochromatin, blocking expression of transposons.
+LncRNAs (long non-coding RNAs) play various roles in gene regulation and chromatin remodeling.
+Cytoplasmic determinants are maternal substances in the egg that influence early development.
+Induction is the process by which signals from neighboring cells cause changes in target cells.
+Determination commits a cell to its final fate.
+Differentiation is the marked change in structure and function as a cell becomes specialized.
+Pattern formation is the development of a spatial organization of tissues and organs.
+Positional information consists of molecular cues that control pattern formation.
+Maternal effect genes (egg-polarity genes) control the orientation of the egg.
+Bicoid gene is essential for setting up the anterior end of the Drosophila embryo.
+Proto-oncogenes are normal cellular genes that code for proteins that stimulate normal cell growth.
+Oncogenes can arise from amplification, point mutations, or translocation of proto-oncogenes.
+Ras protein is a G protein that, when mutated, can lead to uncontrolled cell division.
+p53 is often called the 'guardian angel of the genome'.
+The multi-step model of cancer suggests that multiple mutations are needed for full malignancy.
+Viruses are not cells; they are 'a kind of borrowed life'.
+Capsid is the protein shell enclosing the viral genome.
+Viral envelopes are derived from the host cell's membrane and contain viral proteins.
+Host range is the limited number of species a virus can infect.
+Retroviruses use reverse transcriptase to copy their RNA genome into DNA.
+HIV (human immunodeficiency virus) is the retrovirus that causes AIDS.
+A provirus is a viral genome that is permanently integrated into the host genome.
+Prions are slow-acting, virtually indestructible infectious proteins (e.g., Mad Cow disease).
+Genetic engineering is the direct manipulation of genes for practical purposes.
+DNA cloning produces multiple copies of a specific DNA segment.
+Restriction sites are the specific DNA sequences recognized by restriction enzymes.
+Gel electrophoresis separates DNA molecules based on their length and charge.
+Polymerase Chain Reaction (PCR) uses a three-step cycle: heating, cooling, and replication.
+DNA sequencing uses fluorescently labeled nucleotides to 'read' a DNA sequence.
+Stem cells can reproduce themselves indefinitely and differentiate into specialized cells.
+Totipotent cells can give rise to all specialized cell types in an organism.
+Induced pluripotent stem cells (iPS) are adult cells 'reprogrammed' to act like ES cells.
+Gene therapy is the introduction of genes into an afflicted individual for therapeutic purposes.
+Transgenic animals are made by introducing genes from one species into the genome of another.
+Short tandem repeats (STRs) are used in DNA profiling for forensic identification.
+Genetically modified (GM) organisms are used in agriculture to improve crop yield and resistance.
+Bioethics considers the moral and social implications of biological research and technology.
+Systems biology studies the interactions among the parts of a biological system.
+Metabolic pathways are organized into interconnected networks.
+Homeostasis requires the coordination of various organ systems.
+Negative feedback is the primary mechanism of homeostatic control.
+Regulators use internal mechanisms to control internal change in the face of external fluctuation.
+Conformers allow their internal condition to change with external variables.
+Endothermy is more energetically expensive than ectothermy.
+Metabolic rate can be measured by monitoring heat loss or oxygen consumption.
+Energy budgets account for an animal's use of chemical energy for various functions.
+Essential vitamins: B vitamins (coenzymes), Vitamin C (collagen), A (vision), D (calcium), E (antioxidant), K (clotting).
+The pancreas is both an endocrine and exocrine gland.
+The hepatic portal vein carries nutrient-rich blood from the digestive tract to the liver.
+Gastrin, secretin, and CCK are hormones that regulate digestion.
+Leptin is a hormone produced by fat tissue that suppresses appetite.
+Countercurrent exchange in fish gills maintains a diffusion gradient for oxygen.
+Partial pressure is the pressure exerted by a particular gas in a mixture.
+Air is inhaled into the lungs through the branching system of bronchi and bronchioles.
+Tidal volume is about 500 mL in an average resting human adult.
+Residual volume is the air that remains in the lungs after a maximal exhalation.
+Myoglobin is an oxygen-storing protein found in muscle cells.
+The inflammatory response involves vasodilation and increased permeability of capillaries.
+MHC class I molecules are found on almost all nucleated cells.
+MHC class II molecules are found only on specialized antigen-presenting cells.
+Cytotoxic T cells use perforins and granzymes to induce apoptosis in target cells.
+Helper T cells secrete cytokines that activate both B and T cell responses.
+Autoimmune disorders: Rheumatoid arthritis, Type 1 diabetes, Multiple Sclerosis.
+Excretion in planaria is performed by protonephridia (flame cells).
+Excretion in insects is performed by Malpighian tubules.
+The nephron includes the glomerulus, proximal tubule, loop of Henle, and distal tubule.
+The juxtaglomerular apparatus (JGA) helps regulate blood pressure and filtrate volume.
+Aldosterone increases sodium and water reabsorption in the distal tubules.
+Atrial natriuretic peptide (ANP) opposes the effects of aldosterone to lower blood pressure.
+The pineal gland secretes melatonin, which regulates circadian rhythms.
+The parathyroid glands regulate blood calcium levels via PTH.
+The adrenal cortex produces glucocorticoids (cortisol) and mineralocorticoids (aldosterone).
+Islets of Langerhans in the pancreas contain alpha cells (glucagon) and beta cells (insulin).
+Eugenics is the discredited movement for improving the genetic quality of the human population.
+Oogenesis involves long resting periods, whereas spermatogenesis is continuous.
+The corpus luteum secretes progesterone to maintain the uterine lining.
+HCG (human chorionic gonadotropin) prevents the degeneration of the corpus luteum during early pregnancy.
+Menopause is the cessation of the menstrual cycle in females, typically in their late 40s or early 50s.
+The resting potential is maintained by the sodium-potassium pump and leak channels.
+Threshold potential is the minimum level of depolarization needed to trigger an action potential.
+Voltage-gated sodium channels open rapidly during the depolarization phase.
+The absolute refractory period prevents the backward travel of an action potential.
+Acetylcholine is a common neurotransmitter at the neuromuscular junction.
+GABA is the major inhibitory neurotransmitter in the brain.
+Glutamate is the major excitatory neurotransmitter in the brain.
+The amygdala is involved in processing fear and emotional memories.
+Lateralization refers to the specialization of the two hemispheres of the cerebral cortex.
+Wernicke's area is involved in understanding language; Broca's area is for speech production.
+Sensory adaptation is a decrease in responsiveness to continued stimulation.
+The fovea is the center of the visual field, with a high density of cones.
+The vestibular system in the inner ear is responsible for balance and spatial orientation.
+The sarcoplasmic reticulum stores calcium ions in muscle fibers.
+Fast-twitch fibers are adapted for rapid, powerful contractions but fatigue quickly.
+Slow-twitch fibers are adapted for sustained contractions and have high myoglobin content.
+Hydrostatic skeletons use fluid under pressure (found in cnidarians and annelids).
+Exoskeletons are hard encasements on the surface of an animal (arthropods).
+Endoskeletons are hard supporting elements buried within soft tissues (chordates).
+Foraging behavior includes not only eating but also searching for and recognizing food.
+Optimal foraging model suggests that animals maximize energy gain relative to cost.
+Promiscuous mating involves no strong pair-bonds.
+Monogamous mating involves one male and one female for a duration.
+Polygamous mating involves an individual of one sex mating with several of the other.
+Inclusive fitness accounts for both an individual's offspring and the offspring of relatives.
+Ethology is the scientific study of animal behavior.
+Fixed action patterns are highly stereotyped behaviors.
+Learning is the modification of behavior based on specific experiences.
+Cognition is the process of knowing that involves awareness, reasoning, and judgment.
+Microevolution is a change in allele frequencies in a population over generations.
+Genetic variation is the prerequisite for evolution by natural selection.
+The main sources of genetic variation are mutation, chromosomal changes, and sexual reproduction.
+A population is a group of individuals that can interbreed and produce fertile offspring.
+A gene pool consists of all the alleles for all loci in a population.
+The Hardy-Weinberg equation: p^2 + 2pq + q^2 = 1.
+Natural selection, genetic drift, and gene flow are the three main causes of evolutionary change.
+Adaptive evolution results in a better match between organisms and their environment.
+Directional selection favors individuals at one end of the phenotypic range.
+Disruptive selection favors individuals at both extremes of the range.
+Stabilizing selection favors intermediate variants and acts against extremes.
+Intraspecific competition occurs between members of the same species.
+Biological species concept: a species is a group of populations that interbreed and produce fertile offspring.
+Reproductive isolation prevents different species from producing fertile hybrids.
+Prezygotic barriers block fertilization from occurring.
+Postzygotic barriers prevent a hybrid zygote from developing into a fertile adult.
+Allopatric speciation occurs when a population is divided by a geographic barrier.
+Sympatric speciation occurs in populations that live in the same geographic area.
+Hybrid zones are regions where members of different species meet and mate.
+Polyploidy, sexual selection, and habitat differentiation can lead to sympatric speciation.
+Earth formed about 4.6 billion years ago.
+The first life forms (prokaryotes) appeared about 3.5 billion years ago.
+The oxygen revolution occurred about 2.7 to 2.4 billion years ago.
+The first eukaryotes appeared about 1.8 billion years ago.
+The Cambrian explosion (535-525 million years ago) saw a sudden appearance of many animal phyla.
+Mass extinctions can alter the course of evolution and lead to adaptive radiations.
+Systematics is the discipline focused on classifying organisms and determining their relationships.
+Taxonomy levels: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species.
+Clades are groups of species that include an ancestral species and all its descendants.
+Monophyletic groups consist of an ancestor and all its descendants.
+Paraphyletic groups consist of an ancestor and some, but not all, descendants.
+Polyphyletic groups include distantly related species but not their most recent common ancestor.
+Shared ancestral characters originated in an ancestor of the taxon.
+Shared derived characters are unique to a particular clade.
+Maximum parsimony assumes the tree that requires the fewest evolutionary events is most likely.
+Orthologous genes are homologous genes that are found in different species due to speciation.
+Paralogous genes result from gene duplication within a species.
+Horizontal gene transfer complicates the reconstruction of the 'tree of life'.
+Biology is a dynamic science that continuously incorporates new discoveries and technologies.

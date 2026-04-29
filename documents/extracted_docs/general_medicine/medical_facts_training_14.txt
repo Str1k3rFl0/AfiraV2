@@ -1,0 +1,792 @@
+In cardiac arrest, high-quality CPR with a compression rate of 100-120 per minute and depth of at least 5
+cm is the most critical intervention before defibrillation.
+Epinephrine 1 mg IV/IO is administered every 3-5 minutes during cardiac arrest for both shockable and
+non-shockable rhythms.
+Ventricular fibrillation is treated with immediate defibrillation at 200 J biphasic, followed by CPR resumption
+for 2 minutes before rhythm reassessment.
+Amiodarone 300 mg IV is the first-line antiarrhythmic in refractory ventricular fibrillation after the third
+shock.
+In pulseless electrical activity, reversible causes are identified using the 4 H's and 4 T's: hypoxia,
+hypovolemia, hypothermia, hydrogen ion, tension pneumothorax, tamponade, toxins, and thrombosis.
+Airway management in the emergency setting follows the sequence: jaw thrust, oropharyngeal airway,
+bag-valve-mask ventilation, supraglottic airway, and endotracheal intubation.
+Rapid sequence intubation uses a sedative agent followed immediately by a neuromuscular blocking
+agent to facilitate endotracheal intubation with minimal risk of aspiration.
+Ketamine 1-2 mg/kg IV is preferred for RSI induction in hypotensive patients due to its sympathomimetic
+properties that help maintain blood pressure.
+Succinylcholine 1.5 mg/kg IV is the preferred paralytic for RSI when a short duration of action is desired or
+a difficult airway is anticipated.
+Rocuronium 1.2 mg/kg IV is used as an alternative to succinylcholine, especially when succinylcholine is
+contraindicated such as in hyperkalemia or penetrating eye injuries.
+Cricothyrotomy is the definitive rescue airway when intubation and ventilation fail in a cannot-intubate,
+cannot-oxygenate scenario.
+In anaphylaxis, epinephrine 0.3-0.5 mg IM into the lateral thigh is the first and most critical treatment.
+Antihistamines and corticosteroids are adjuncts in anaphylaxis but must never replace or delay
+epinephrine administration.
+Anaphylactic patients should be observed for at least 4-6 hours after epinephrine administration due to the
+risk of biphasic anaphylaxis.
+In status asthmaticus, salbutamol via nebulizer or MDI with spacer is the first-line bronchodilator, with
+ipratropium bromide added in moderate-to-severe cases.
+Intravenous magnesium sulfate 2 g over 20 minutes is given in severe acute asthma exacerbation not
+responding to initial bronchodilator therapy.
+Systemic corticosteroids should be administered early in acute asthma exacerbation to reduce airway
+inflammation and decrease hospitalization rates.
+Heliox, a helium-oxygen mixture, can reduce airway resistance and improve ventilation in severe asthma
+not responding to standard therapy.
+In COPD exacerbation, controlled oxygen therapy targeting SpO2 88-92% prevents hypercapnic
+respiratory failure from suppression of hypoxic drive.
+Non-invasive positive pressure ventilation is the preferred respiratory support in COPD exacerbation with
+hypercapnic respiratory failure to avoid intubation.
+Tension pneumothorax presents with respiratory distress, absent breath sounds, hypotension, tracheal
+deviation, and distended neck veins, requiring immediate needle decompression.
+Needle decompression for tension pneumothorax is performed at the second intercostal space,
+midclavicular line, using a 14-16 gauge needle.
+Definitive treatment of pneumothorax is chest tube insertion in the fourth or fifth intercostal space, anterior
+axillary line.
+Massive hemothorax is defined as more than 1500 mL of blood in the pleural cavity and requires chest
+tube drainage and surgical consultation.
+Cardiac tamponade presents with Beck's triad: hypotension, distended neck veins, and muffled heart
+sounds.
+Pericardiocentesis is performed under ultrasound guidance with needle insertion at the subxiphoid angle
+directed toward the left shoulder.
+In acute ST-elevation myocardial infarction, primary percutaneous coronary intervention is the preferred
+reperfusion strategy with a door-to-balloon time target of less than 90 minutes.
+Fibrinolytic therapy is administered in STEMI when PCI is not available within 120 minutes and there are
+no contraindications.
+Aspirin 300 mg chewed immediately followed by a P2Y12 inhibitor such as ticagrelor or clopidogrel is
+standard antiplatelet therapy in ACS.
+Unfractionated heparin or low molecular weight heparin is given as anticoagulation in ACS to prevent
+further thrombus formation.
+Nitroglycerin is contraindicated in ACS if systolic blood pressure is below 90 mmHg, the patient has taken
+a PDE5 inhibitor within 24-48 hours, or right ventricular infarction is suspected.
+Right ventricular infarction is identified by ST elevation in V4R and is treated with IV fluids to maintain
+preload, avoiding nitroglycerin and diuretics.
+In acute decompensated heart failure with pulmonary edema, furosemide 40-80 mg IV, nitroglycerin
+infusion, and non-invasive ventilation are the mainstay treatments.
+Morphine is no longer routinely recommended in acute pulmonary edema due to evidence suggesting
+increased mortality.
+Aortic dissection is classified by the Stanford system: Type A involves the ascending aorta and requires
+emergency surgery, Type B involves only the descending aorta and is managed medically.
+In suspected aortic dissection, blood pressure should be controlled to a systolic of 100-120 mmHg using IV
+labetalol or esmolol to reduce aortic wall stress.
+CT angiography of the chest, abdomen, and pelvis is the gold standard imaging for aortic dissection.
+The D-dimer test has high sensitivity for excluding pulmonary embolism in low-to-intermediate pretest
+probability patients using the Wells score.
+Systemic thrombolysis with alteplase is indicated in massive PE with hemodynamic compromise, using a
+dose of 100 mg over 2 hours.
+Anticoagulation with unfractionated heparin is initiated in confirmed PE, with LMWH or DOAC used for
+subacute management.
+In ischemic stroke, IV alteplase 0.9 mg/kg (max 90 mg) is given within 4.5 hours of symptom onset in
+eligible patients.
+Mechanical thrombectomy is indicated in large vessel occlusion ischemic stroke within 6-24 hours of
+symptom onset in appropriately selected patients.
+Blood pressure is not treated aggressively in ischemic stroke unless it exceeds 220/120 mmHg or the
+patient is a thrombolysis candidate.
+Hemorrhagic stroke requires neurosurgical consultation, blood pressure control targeting less than 140
+mmHg systolic, and reversal of any anticoagulation.
+In subarachnoid hemorrhage, nimodipine 60 mg orally every 4 hours is started to prevent cerebral
+vasospasm.
+CT of the head without contrast is the first imaging study in suspected subarachnoid hemorrhage; lumbar
+puncture is performed if CT is negative but clinical suspicion remains high.
+Xanthochromia or elevated red blood cell count in CSF confirms subarachnoid hemorrhage when CT is
+negative.
+Status epilepticus is defined as continuous seizure activity for more than 5 minutes or two seizures without
+recovery of consciousness.
+Benzodiazepines are the first-line treatment for status epilepticus: lorazepam 4 mg IV, diazepam 10 mg IV,
+or midazolam 10 mg IM.
+If seizures persist after benzodiazepines, second-line agents include levetiracetam, valproate, or
+phenytoin/fosphenytoin IV.
+Refractory status epilepticus requires intubation and continuous infusion of midazolam, propofol, or
+barbiturates.
+Hypoglycemia is the most easily reversible cause of altered consciousness and should be checked
+immediately in any patient with confusion or coma.
+Dextrose 50% 50 mL IV is given for confirmed hypoglycemia; thiamine 100 mg IV should precede glucose
+in malnourished or alcoholic patients to prevent Wernicke's encephalopathy.
+Hyperglycemic hyperosmolar state is characterized by blood glucose above 600 mg/dL, osmolality above
+320 mOsm/kg, and minimal ketosis.
+Diabetic ketoacidosis is treated with IV fluid resuscitation, insulin infusion starting at 0.1 units/kg/hour, and
+electrolyte replacement especially potassium.
+Insulin should not be started in DKA until potassium is confirmed to be above 3.5 mEq/L to avoid
+precipitating fatal hypokalemia.
+Bicarbonate administration in DKA is controversial and generally not recommended unless pH is below
+6.9.
+In sepsis, the Surviving Sepsis Campaign recommends administering 30 mL/kg IV crystalloid within 3
+hours and broad-spectrum antibiotics within 1 hour.
+Blood cultures should be drawn before antibiotic administration in sepsis, but antibiotics must not be
+delayed by more than 45 minutes to obtain cultures.
+Vasopressors are initiated in septic shock when MAP remains below 65 mmHg despite adequate fluid
+resuscitation; norepinephrine is the first-choice vasopressor.
+Vasopressin 0.03 units/min can be added to norepinephrine in refractory septic shock to reduce
+norepinephrine requirements.
+Hydrocortisone 200 mg/day continuous infusion or 50 mg every 6 hours is considered in septic shock not
+responding to fluid and vasopressor therapy.
+Lactate level above 2 mmol/L indicates tissue hypoperfusion in sepsis even without overt hypotension
+(cryptic shock).
+The Quick SOFA score identifies sepsis risk in non-ICU settings using respiratory rate above 22, altered
+mentation, and systolic BP below 100 mmHg.
+Meningitis is treated empirically with ceftriaxone 2 g IV every 12 hours plus dexamethasone 0.15 mg/kg IV
+every 6 hours to reduce inflammation.
+In suspected bacterial meningitis, antibiotics and dexamethasone should be given before CT scan if LP is
+anticipated to be delayed.
+CSF findings in bacterial meningitis include elevated WBC (predominantly neutrophils), elevated protein,
+and decreased glucose.
+Lumbar puncture is contraindicated if there is evidence of raised intracranial pressure, papilledema, focal
+neurological deficits, or coagulopathy.
+Herpes simplex encephalitis is treated empirically with acyclovir 10 mg/kg IV every 8 hours while awaiting
+PCR confirmation.
+Necrotizing fasciitis requires immediate surgical debridement as the cornerstone of treatment; antibiotics
+alone are insufficient.
+Empiric antibiotics for necrotizing fasciitis include piperacillin-tazobactam plus clindamycin and
+vancomycin for MRSA coverage.
+In cellulitis without systemic features, oral antibiotics targeting streptococci are adequate; IV antibiotics are
+reserved for systemic illness, immunocompromise, or failed oral therapy.
+Fournier's gangrene is a necrotizing fasciitis of the perineum and genitalia requiring aggressive surgical
+debridement and broad-spectrum antibiotics.
+In acute appendicitis, the Alvarado score stratifies patients into low, intermediate, and high risk to guide
+imaging and surgical referral.
+CT abdomen with IV contrast is the preferred imaging for acute appendicitis in adults; ultrasound is
+preferred in children and pregnant women.
+Perforated appendicitis requires IV antibiotics and surgical consultation for appendectomy; uncomplicated
+appendicitis may be managed with antibiotics alone in selected patients.
+Acute cholangitis is characterized by Charcot's triad: fever, jaundice, and right upper quadrant pain;
+Reynold's pentad adds confusion and hypotension in severe cases.
+Urgent ERCP is the treatment of choice for acute cholangitis to relieve biliary obstruction combined with IV
+antibiotics.
+Acute pancreatitis is managed with IV fluid resuscitation, analgesia, and bowel rest; enteral nutrition is
+preferred over parenteral when tolerated.
+Ranson's criteria and the APACHE II score assess pancreatitis severity; CT with contrast (CECT) identifies
+necrotizing pancreatitis.
+Paralytic ileus and bowel obstruction are differentiated clinically and radiologically; small bowel obstruction
+may require nasogastric decompression and surgical evaluation.
+In upper GI bleeding, resuscitation with IV fluids and blood products is initiated simultaneously with
+endoscopy preparation.
+Proton pump inhibitor infusion (omeprazole or pantoprazole) is started empirically in suspected peptic
+ulcer bleeding to reduce rebleeding risk before endoscopy.
+Variceal bleeding is treated with terlipressin or octreotide to reduce portal pressure, combined with urgent
+endoscopic band ligation.
+Sengstaken-Blakemore tube is a rescue measure for uncontrolled variceal bleeding as a bridge to
+definitive treatment.
+Antibiotic prophylaxis with norfloxacin or ceftriaxone is given in variceal bleeding to prevent spontaneous
+bacterial peritonitis.
+Ectopic pregnancy presents with amenorrhea, vaginal bleeding, and unilateral pelvic pain; it is a
+life-threatening emergency requiring urgent evaluation.
+Serum beta-hCG and transvaginal ultrasound are the key diagnostic tools in suspected ectopic pregnancy.
+Ruptured ectopic pregnancy causes hemoperitoneum and hemodynamic instability requiring emergency
+surgical intervention.
+Methotrexate is used for medical management of unruptured ectopic pregnancy with beta-hCG below
+5000 IU/L and no cardiac activity on ultrasound.
+In placenta previa, transvaginal ultrasound is contraindicated and digital examination must be avoided;
+stabilize and arrange caesarean delivery.
+Eclampsia is managed with IV magnesium sulfate 4-6 g loading dose followed by 1-2 g/hour infusion to
+prevent recurrent seizures.
+Severe hypertension in pregnancy (BP above 160/110 mmHg) is treated with labetalol, hydralazine, or
+nifedipine to prevent stroke.
+In placental abruption with fetal distress and maternal hemodynamic instability, emergency caesarean
+delivery is indicated.
+Ovarian torsion presents with sudden-onset severe unilateral pelvic pain and requires urgent surgical
+detorsion to preserve ovarian function.
+Testicular torsion is a urological emergency presenting with sudden scrotal pain; detorsion must occur
+within 6 hours for best testicular salvage rates.
+Manual detorsion of the testis can be attempted in the emergency department while arranging urgent
+surgical exploration.
+Urinary tract infection with systemic signs (pyelonephritis or urosepsis) requires IV antibiotics and hospital
+admission; fluoroquinolones or aminoglycosides are commonly used.
+Uncomplicated lower UTI in women is treated with trimethoprim-sulfamethoxazole, nitrofurantoin, or
+fosfomycin as first-line oral agents.
+Renal colic is managed with NSAIDs as first-line analgesia; opioids are added if pain is inadequately
+controlled.
+Alpha-blockers such as tamsulosin facilitate spontaneous passage of ureteral stones smaller than 10 mm.
+Urinary retention is relieved by urethral catheterization; suprapubic catheterization is used when urethral
+catheterization fails.
+In acute kidney injury, nephrotoxic agents are discontinued, fluid status is optimized, and obstructive
+causes are excluded by renal ultrasound.
+Indications for emergency hemodialysis include refractory hyperkalemia, severe acidosis, pulmonary
+edema unresponsive to diuretics, and uremic pericarditis.
+Hyperkalemia with ECG changes requires immediate calcium gluconate 10 mL of 10% IV to stabilize the
+cardiac membrane.
+Sodium bicarbonate, insulin with dextrose, salbutamol nebulization, and sodium polystyrene sulfonate are
+used to lower potassium levels in hyperkalemia.
+Hyponatremia with neurological symptoms requires hypertonic saline 3% administered cautiously to raise
+sodium by no more than 1-2 mEq/L per hour.
+Overly rapid correction of hyponatremia risks osmotic demyelination syndrome; correction rate should not
+exceed 10-12 mEq/L in 24 hours.
+Hypercalcemia above 3.5 mmol/L is treated with IV saline hydration followed by bisphosphonates;
+calcitonin provides a rapid but transient effect.
+Addisonian crisis presents with hypotension, hyponatremia, hyperkalemia, and hypoglycemia in a patient
+with adrenal insufficiency; hydrocortisone 100 mg IV is life-saving.
+Thyroid storm is treated with propylthiouracil or methimazole to block synthesis, then iodine to block
+release, plus propranolol and corticosteroids.
+Myxedema coma is treated with IV levothyroxine, corticosteroids, passive rewarming, and supportive care.
+Hypothermia below 30°C is associated with cardiac arrhythmias; patients are warmed by active external
+and internal methods.
+In severe hypothermia with cardiac arrest, ECMO rewarming is the preferred method when available.
+Frostbite is rewarmed in water at 37-40°C after ensuring no risk of refreezing; avoid rubbing the affected
+area.
+Heat stroke is a life-threatening emergency characterized by core temperature above 40°C and
+neurological dysfunction; immediate rapid cooling is essential.
+Evaporative cooling and cold water immersion are the most effective methods for rapidly reducing core
+temperature in heat stroke.
+Drowning victims require airway management, ventilatory support, CPR if indicated, and evaluation for
+hypothermia and aspiration pneumonia.
+In near-drowning, chest X-ray may underestimate pulmonary injury; all patients require observation for at
+least 6-8 hours.
+High-altitude cerebral edema is treated with immediate descent, supplemental oxygen, dexamethasone 8
+mg IM, and portable hyperbaric therapy.
+Decompression sickness is treated with 100% oxygen and urgent transfer to a hyperbaric oxygen facility.
+Carbon monoxide poisoning is treated with 100% high-flow oxygen via non-rebreather mask; hyperbaric
+oxygen is indicated in severe cases.
+COHb levels do not reliably correlate with clinical severity in carbon monoxide poisoning; symptoms guide
+management.
+Cyanide poisoning is treated with hydroxocobalamin 5 g IV as the first-line antidote; sodium thiosulfate is
+an alternative.
+Organophosphate poisoning causes a cholinergic toxidrome; atropine in large doses and pralidoxime are
+the specific antidotes.
+The mnemonic SLUDGE describes cholinergic toxidrome: salivation, lacrimation, urination, defecation, GI
+upset, and emesis.
+Benzodiazepine overdose is reversed with flumazenil, but it must be used cautiously as it can precipitate
+seizures in dependent patients.
+Opioid overdose presents with the toxidrome of miosis, respiratory depression, and altered consciousness;
+naloxone 0.4-2 mg IV/IM is the antidote.
+In paracetamol overdose, N-acetylcysteine is started within 8 hours of ingestion based on the
+Rumack-Matthew nomogram for optimal hepatoprotection.
+Activated charcoal 1 g/kg is given within 1-2 hours of toxic ingestion if the airway is protected and the
+substance is charcoal-adsorbable.
+Gastric lavage is rarely indicated and only considered within 1 hour of a life-threatening ingestion when
+activated charcoal is not appropriate.
+Tricyclic antidepressant overdose causes QRS widening and hemodynamic instability; sodium bicarbonate
+1-2 mEq/kg IV is the treatment.
+Salicylate poisoning causes a mixed metabolic acidosis and respiratory alkalosis; urinary alkalinization
+with sodium bicarbonate enhances elimination.
+In beta-blocker overdose, high-dose insulin euglycemia therapy (HIET) with insulin at 1 unit/kg/hour is an
+effective treatment in severe cases.
+Calcium channel blocker toxicity is managed with IV calcium, high-dose insulin, vasopressors, and lipid
+emulsion therapy in severe cases.
+Intravenous lipid emulsion (Intralipid 20%) is used as rescue therapy in local anesthetic systemic toxicity
+causing cardiovascular collapse.
+Digoxin toxicity is treated with digoxin-specific antibody fragments (Digibind or DigiFab) in life-threatening
+arrhythmias or severe hyperkalemia.
+Methanol and ethylene glycol poisoning are treated with fomepizole (preferred) or ethanol to inhibit alcohol
+dehydrogenase, plus hemodialysis.
+Isoniazid overdose causes seizures refractory to benzodiazepines; pyridoxine (vitamin B6) gram-for-gram
+equivalent to INH ingested is the antidote.
+In acute angle-closure glaucoma presenting with eye pain, nausea, and blurred vision, topical
+beta-blockers, pilocarpine, and acetazolamide are used emergently.
+Corneal foreign bodies are removed under slit-lamp magnification after topical anesthesia; rust rings
+require ophthalmology follow-up.
+Chemical eye injuries require immediate and copious irrigation with normal saline for at least 30 minutes
+and ophthalmology consultation.
+Central retinal artery occlusion is an ocular emergency presenting with sudden painless monocular vision
+loss; treatment includes immediate lowering of intraocular pressure.
+Retinal detachment presents with floaters, flashing lights, and a curtain across the visual field; urgent
+ophthalmology referral is required.
+Epistaxis is controlled initially by applying direct pressure for 10-15 minutes with the patient leaning
+forward; anterior epistaxis may require nasal packing.
+Ludwig's angina is a bilateral submandibular space infection causing potential airway compromise; early
+airway management and IV antibiotics are critical.
+Peritonsillar abscess is drained by needle aspiration or incision and drainage; IV penicillin plus
+metronidazole covers the polymicrobial flora.
+Epiglottitis presents with drooling, dysphagia, and high fever; the patient should be kept calm, and airway
+management prepared before any examination.
+In suspected epiglottitis, a lateral neck X-ray showing the thumb sign confirms the diagnosis, but imaging
+should not delay airway management.
+Croup is treated with humidified air or oxygen, a single dose of oral or IM dexamethasone, and nebulized
+adrenaline for moderate-to-severe cases.
+Bronchiolitis in infants is managed supportively with oxygen supplementation, nasal suctioning, and
+hydration; no role for bronchodilators or steroids.
+Febrile seizures are generally benign and self-limiting; antipyretics are given for comfort but do not prevent
+recurrence.
+In pediatric sepsis, the Pediatric Sequential Organ Failure Assessment (pSOFA) score and SIRS criteria
+guide diagnosis and management.
+Fluid boluses in pediatric septic shock are 10-20 mL/kg of isotonic crystalloid; aggressive fluid
+resuscitation is titrated to hemodynamic response.
+Intussusception in children presents with colicky abdominal pain, red-currant jelly stool, and a palpable
+sausage-shaped mass; pneumatic reduction is first-line.
+Pyloric stenosis presents in neonates at 3-6 weeks with projectile non-bilious vomiting; ultrasound shows
+an elongated thickened pyloric channel.
+Mesenteric ischemia presents with severe abdominal pain out of proportion to physical examination
+findings; CT angiography is the diagnostic study of choice.
+Volvulus of the sigmoid colon presents with abdominal distension and constipation; X-ray shows a
+coffee-bean sign; flexible endoscopy is first-line treatment.
+Acute limb ischemia presents with the 6 Ps: pain, pallor, pulselessness, paresthesias, paralysis, and
+poikilothermia.
+In acute arterial occlusion, IV heparin is started immediately, and emergent embolectomy or thrombolysis
+is arranged.
+Compartment syndrome is diagnosed clinically by pain with passive stretch and firmness of the
+compartment; fasciotomy is required when compartment pressure exceeds 30 mmHg.
+Crush syndrome causes rhabdomyolysis and myoglobinuria; treatment includes aggressive IV fluid
+resuscitation with normal saline to achieve urine output of 200-300 mL/hour.
+Sodium bicarbonate may be added to IV fluids in rhabdomyolysis to alkalinize urine and prevent myoglobin
+precipitation in renal tubules.
+In traumatic hemorrhage, damage control resuscitation uses a 1:1:1 ratio of packed red blood cells to fresh
+frozen plasma to platelets.
+Massive transfusion protocol is activated when more than 10 units of packed red blood cells are expected
+within 24 hours.
+Tranexamic acid 1 g IV over 10 minutes is given as early as possible (within 3 hours) of traumatic
+hemorrhage to reduce mortality.
+In tension pneumothorax with hemodynamic compromise, needle thoracostomy is performed immediately
+without waiting for imaging.
+The Glasgow Coma Scale assesses eye opening, verbal response, and motor response, with a score of 8
+or below indicating need for airway protection.
+FAST ultrasound examination (Focused Assessment with Sonography in Trauma) evaluates for free fluid
+in Morrison's pouch, splenorenal space, pelvis, and pericardium.
+Extended FAST (eFAST) includes bilateral thoracic windows to detect pneumothorax and hemothorax.
+In penetrating abdominal trauma with hemodynamic instability, immediate operative exploration is
+indicated without delay for imaging.
+Blunt splenic injury is graded I-V on CT; grades I-III in stable patients may be managed non-operatively
+with serial imaging.
+Liver lacerations causing ongoing hemorrhage are managed with angioembolization or operative packing
+and repair.
+Pelvic fractures with hemodynamic instability may benefit from pelvic binder placement, pre-peritoneal
+packing, or angioembolization.
+Traumatic brain injury management focuses on preventing secondary injury by maintaining MAP above 80
+mmHg, SpO2 above 95%, and normocapnia.
+Hyperosmolar therapy with mannitol 0.25-1 g/kg IV or hypertonic saline 3% is used for raised ICP causing
+herniation.
+In spinal cord injury, methylprednisolone is no longer routinely recommended due to insufficient evidence
+of benefit and significant side effects.
+Immobilization of the cervical spine is maintained until injury is excluded clinically using the NEXUS criteria
+or Canadian C-Spine Rule.
+Burns are classified by depth: superficial (first degree), partial thickness (second degree), and full
+thickness (third degree).
+The rule of nines estimates burn surface area: head and neck 9%, each arm 9%, each leg 18%, anterior
+trunk 18%, posterior trunk 18%, and perineum 1%.
+Fluid resuscitation in burns uses the Parkland formula: 4 mL/kg per percentage TBSA burned of lactated
+Ringer's solution over 24 hours, with half given in the first 8 hours.
+Early escharotomy is required for circumferential full-thickness burns of the chest or extremities causing
+respiratory compromise or compartment syndrome.
+Inhalation injury is suspected with burns in an enclosed space, singed nasal hair, carbonaceous sputum,
+and stridor; early intubation is life-saving.
+Electrical burns may cause cardiac arrhythmias, rhabdomyolysis, and internal injuries disproportionate to
+surface burns; cardiac monitoring and aggressive fluid resuscitation are essential.
+In drowning resuscitation, CPR is performed for at least 30 minutes and should not be abandoned early
+due to the potential for neurological recovery in hypothermic victims.
+Traumatic cardiac arrest has reversible causes that must be addressed simultaneously: hemorrhage
+control, tension pneumothorax decompression, and pericardiocentesis for tamponade.
+Resuscitative thoracotomy is indicated in penetrating trauma with witnessed cardiac arrest or loss of vital
+signs within 15 minutes of arrival.
+In snake envenomation, antivenom is the definitive treatment; wound incision, tourniquet, and suction
+devices are harmful and contraindicated.
+Black widow spider envenomation causes severe muscle cramps and spasms; treatment includes opioids,
+benzodiazepines, and antivenom in severe cases.
+Brown recluse spider bite causes progressive necrotic lesion; wound care and surgery may be needed for
+severe necrosis.
+Scorpion envenomation in children can cause sympathomimetic crisis requiring prazosin and IV antivenom
+in severe cases.
+Jellyfish stings are treated by removing tentacles without touching them bare-handed, rinsing with sea
+water (not fresh water), and applying hot water immersion for pain relief.
+Bee and wasp stings causing anaphylaxis require epinephrine; the stinger should be removed by scraping
+rather than squeezing.
+Rabies post-exposure prophylaxis includes wound cleaning, rabies immunoglobulin infiltrated at the wound
+site, and active vaccination on days 0, 3, 7, and 14.
+Tetanus prophylaxis is given based on wound type and immunization history; tetanus immunoglobulin is
+added for high-risk wounds in inadequately vaccinated patients.
+Mammalian bite wounds are copiously irrigated; prophylactic antibiotics with amoxicillin-clavulanate are
+given for high-risk wounds such as hand bites and cat bites.
+Human bite wounds are considered high-risk for infection with Eikenella corrodens and require antibiotic
+prophylaxis and close wound surveillance.
+In traumatic dental avulsion, the tooth is replanted as quickly as possible after rinsing with saline; storage
+in milk or saliva preserves viability during transport.
+Septic arthritis of a native joint requires urgent joint aspiration for Gram stain and culture, followed by IV
+antibiotics and orthopedic consultation for joint washout.
+Crystal arthropathies (gout and pseudogout) are treated with colchicine, NSAIDs, or corticosteroids in
+acute flares; urate-lowering therapy is not started acutely.
+Spontaneous bacterial peritonitis in cirrhosis is diagnosed by ascitic fluid PMN count above 250 cells/mm3
+and treated with IV cefotaxime for 5 days.
+Hepatic encephalopathy is treated with lactulose to reduce gut ammonia production and rifaximin for
+prevention of recurrence.
+Acute liver failure with encephalopathy and coagulopathy requires early contact with a liver transplant
+center and N-acetylcysteine IV regardless of etiology.
+In upper airway obstruction, back blows and abdominal thrusts (Heimlich maneuver) are performed for a
+conscious choking victim.
+For an unconscious choking victim or failed Heimlich maneuver, direct laryngoscopy and Magill forceps
+removal of the foreign body is attempted.
+Wheezing in a child with sudden onset and no fever may indicate foreign body aspiration; rigid
+bronchoscopy under general anesthesia is the treatment.
+In severe head injury with decerebrate posturing, hyperventilation to PaCO2 35-40 mmHg can temporarily
+reduce ICP as a bridge to neurosurgery.
+Lumbar puncture in suspected LP in elderly patients must account for normal CSF pressure changes with
+aging; cell counts and protein are more diagnostically relevant.
+Cerebellar stroke presents with sudden ataxia, nausea, vomiting, and inability to walk; the absence of
+hemiparesis can lead to diagnostic delay.
+The HINTS exam (Head Impulse, Nystagmus, Test of Skew) distinguishes central from peripheral vertigo
+in the emergency setting with high sensitivity.
+Benign paroxysmal positional vertigo is treated with canalith repositioning maneuvers such as the Epley
+maneuver.
+Ménière's disease presents with episodic vertigo, tinnitus, and low-frequency hearing loss; acute attacks
+are treated with vestibular suppressants.
+Bell's palsy is a peripheral facial nerve palsy treated with oral corticosteroids started within 72 hours of
+onset; antivirals may be added for moderate-to-severe cases.
+Temporal arteritis presents with headache, jaw claudication, and visual symptoms in patients over 50;
+ESR and CRP are elevated; high-dose steroids are started immediately to prevent blindness.
+In suspected temporal arteritis with visual symptoms, corticosteroids are started before biopsy results to
+prevent irreversible vision loss.
+Cauda equina syndrome presents with saddle anesthesia, urinary retention, and lower limb weakness;
+emergency MRI and neurosurgical consultation are required.
+Guillain-Barré syndrome presents with ascending weakness and areflexia; respiratory function must be
+closely monitored for neuromuscular respiratory failure.
+In Guillain-Barré syndrome, plasmapheresis or IV immunoglobulin hastens recovery; respiratory failure
+requires mechanical ventilation.
+Myasthenic crisis presents with respiratory failure requiring ventilatory support; plasmapheresis or IVIg is
+used to manage the crisis.
+In rhabdomyolysis, urine dipstick tests positive for blood in the absence of red blood cells on microscopy
+due to myoglobinuria.
+Sickle cell vaso-occlusive crisis is treated with IV opioids for pain, IV fluids, oxygen supplementation, and
+assessment for precipitating infection.
+Acute chest syndrome in sickle cell disease is treated with oxygen, IV fluids, bronchodilators, antibiotics,
+and exchange transfusion in severe cases.
+Priapism in sickle cell disease is managed with aspiration, intracavernosal phenylephrine, IV hydration,
+and hematology consultation.
+Hemolytic uremic syndrome in children presents with microangiopathic hemolytic anemia,
+thrombocytopenia, and acute renal failure following E. coli O157:H7 infection.
+Thrombotic thrombocytopenic purpura is a hematological emergency presenting with thrombocytopenia,
+microangiopathic hemolytic anemia, fever, renal dysfunction, and neurological changes.
+Plasma exchange is the treatment of choice for TTP and should be started emergently upon diagnosis.
+Disseminated intravascular coagulation is treated by addressing the underlying cause; supportive care
+includes FFP, cryoprecipitate, and platelet transfusion.
+In hemophilia with major bleeding, factor replacement therapy is given immediately; factor VIII for
+hemophilia A and factor IX for hemophilia B.
+Warfarin-associated bleeding is reversed with 4-factor prothrombin complex concentrate (PCC) for
+life-threatening hemorrhage, plus vitamin K IV.
+Direct oral anticoagulant reversal in life-threatening bleeding uses andexanet alfa for factor Xa inhibitors
+and idarucizumab for dabigatran.
+Heparin overdose is reversed with protamine sulfate: 1 mg per 100 units of UFH administered in the last 2
+hours.
+In acute hemolytic transfusion reaction, the transfusion is stopped immediately, IV saline is infused to
+maintain urine output, and samples are sent for re-crossmatching.
+Anaphylactic transfusion reaction is treated with epinephrine, antihistamines, and corticosteroids; the
+transfusion is stopped.
+Transfusion-related acute lung injury presents with non-cardiogenic pulmonary edema within 6 hours of
+transfusion; treatment is supportive with mechanical ventilation if needed.
+In patients with COVID-19 and hypoxemia, prone positioning in awake non-intubated patients (awake
+proning) can improve oxygenation.
+High-flow nasal oxygen therapy delivers up to 60 L/min of humidified oxygen and reduces the need for
+intubation in moderate hypoxic respiratory failure.
+Low tidal volume ventilation 6 mL/kg ideal body weight reduces ventilator-induced lung injury in ARDS.
+Permissive hypercapnia is accepted in ARDS lung-protective ventilation strategies to minimize volutrauma.
+In ARDS, prone positioning for at least 16 hours per day reduces mortality in severe cases (PaO2/FiO2
+below 150).
+Driving pressure (plateau pressure minus PEEP) below 15 cmH2O is associated with improved outcomes
+in mechanically ventilated ARDS patients.
+Ventilator-associated pneumonia prevention includes head-of-bed elevation to 30-45 degrees, oral care
+with chlorhexidine, and daily sedation vacations.
+In acute severe hypertension (hypertensive emergency), end-organ damage defines the emergency; blood
+pressure is reduced by no more than 25% in the first hour.
+Labetalol, nicardipine, and clevidipine are preferred IV agents for hypertensive emergency in most clinical
+settings.
+Hypertensive encephalopathy presents with headache, confusion, and visual disturbances; MRI may show
+posterior reversible encephalopathy syndrome (PRES).
+In aortic dissection, both systolic BP and heart rate must be controlled; heart rate target is below 60 bpm
+and BP below 120 mmHg systolic.
+Atrial fibrillation with rapid ventricular rate is rate-controlled with IV metoprolol, diltiazem, or digoxin;
+anticoagulation is started based on stroke risk.
+Unstable atrial fibrillation causing hemodynamic compromise is managed with synchronized DC
+cardioversion starting at 120-200 J biphasic.
+SVT is terminated with vagal maneuvers first; if ineffective, adenosine 6 mg rapid IV push is given followed
+by 12 mg if no response.
+Wolff-Parkinson-White syndrome with AF is a dangerous arrhythmia; AV nodal blocking agents
+(adenosine, verapamil, digoxin) are contraindicated as they may accelerate conduction via the accessory
+pathway.
+Complete heart block with hemodynamic compromise is treated with transcutaneous pacing as a bridge to
+transvenous pacing.
+Atropine 1 mg IV is given for symptomatic bradycardia; it is ineffective in complete heart block and
+infranodal bradycardias.
+Long QT syndrome predisposes to torsades de pointes; magnesium sulfate 2 g IV is the treatment, and
+QT-prolonging medications are discontinued.
+Polymorphic VT (torsades de pointes) is treated with IV magnesium, overdrive pacing, and correction of
+electrolyte abnormalities.
+In acute pericarditis, NSAIDs plus colchicine is the standard first-line treatment; corticosteroids are
+reserved for refractory cases.
+Constrictive pericarditis presents with features of right heart failure and is distinguished from tamponade
+by pulsus paradoxus and equalization of filling pressures.
+Massive pulmonary embolism with obstructive shock may require extracorporeal membrane oxygenation
+(ECMO) as a bridge to surgical embolectomy.
+The Pulmonary Embolism Severity Index (PESI) stratifies PE severity and guides outpatient vs inpatient
+management decisions.
+Low-risk PE with low PESI score can be managed as an outpatient with rivaroxaban or apixaban without
+hospitalization.
+DVT of the lower extremity is treated with anticoagulation; below-knee isolated DVT may be managed with
+repeat ultrasound surveillance in low-risk patients.
+Phlegmasia cerulea dolens is a severe form of DVT with massive clot burden causing venous gangrene;
+systemic thrombolysis or catheter-directed thrombolysis is considered.
+In acute mesenteric ischemia due to arterial occlusion, systemic heparinization is started and urgent
+angiography with potential thrombolysis or embolectomy is performed.
+Femoral neck fractures in elderly patients require urgent orthopedic consultation; early surgical fixation or
+arthroplasty reduces morbidity and mortality.
+Fat embolism syndrome presents with respiratory failure, petechiae over the chest and axilla, and
+neurological symptoms days after a long bone fracture.
+Open fractures require antibiotics (usually cefazolin) within 3 hours and urgent orthopedic washout and
+debridement in the operating room.
+Scaphoid fractures with clinical tenderness require immobilization even if initial X-ray is normal; MRI or CT
+is performed to confirm occult fractures.
+Posterior shoulder dislocation is frequently missed; axillary or Y-view X-ray reveals the lightbulb sign;
+reduction requires adequate analgesia and sedation.
+Hip dislocation causes avascular necrosis risk that increases with time; reduction should occur within 6
+hours of dislocation.
+Procedural sedation in the emergency department uses propofol, ketamine, or fentanyl-midazolam
+depending on the procedure and patient's hemodynamic status.
+Ketamine-induced emergence reactions are reduced by administering low-dose midazolam 1-2 mg IV
+before or with ketamine.
+Laryngospasm during procedural sedation is managed with jaw thrust, positive pressure ventilation, and
+succinylcholine 0.1-0.5 mg/kg IV if complete.
+Point-of-care ultrasound in the emergency department guides procedures, confirms diagnoses, and
+improves safety of thoracentesis, paracentesis, and vascular access.
+Intraosseous access is established in any patient when IV access cannot be obtained; common sites
+include the proximal tibia, distal femur, and humeral head.
+Central venous access provides large bore access, allows pressure monitoring, and is required for
+vasopressor infusion; internal jugular and subclavian routes are common.
+Arterial line insertion provides continuous blood pressure monitoring and facilitates frequent blood
+sampling in critically ill patients.
+Lumbar puncture is performed at the L3-L4 or L4-L5 interspace with the patient in the lateral decubitus or
+sitting position.
+Post-lumbar puncture headache is treated conservatively with analgesia and hydration; epidural blood
+patch is used for refractory cases.
+Paracentesis in tense ascites provides symptomatic relief and diagnostic information; large-volume
+paracentesis requires albumin replacement at 8 g per liter removed.
+Thoracentesis relieves symptomatic pleural effusion; post-procedure chest X-ray checks for
+pneumothorax.
+Pericardiocentesis is ideally performed under continuous echocardiographic guidance to confirm needle
+position in the pericardial space.
+In the emergency management of agitation, verbal de-escalation is attempted first; pharmacological
+management uses haloperidol, benzodiazepines, or droperidol.
+Droperidol 10 mg IM is highly effective for acute agitation and has a rapid onset; it requires ECG
+monitoring for QT prolongation.
+Excited delirium is a life-threatening emergency presenting with hyperthermia, extreme agitation, and
+superhuman strength; rapid sedation and cooling are priorities.
+In suspected drug-facilitated assault, urine and serum toxicology screens should be collected promptly as
+many substances have short detection windows.
+Non-accidental injury in children is suspected when the history is inconsistent with injuries, there are
+bruises in unusual locations, or there are multiple injuries at various stages of healing.
+Intimate partner violence requires a private, non-judgmental assessment; safety planning and referral to
+social services are essential parts of emergency care.
+Acute psychiatric emergencies require risk assessment for suicide and homicide; voluntary or involuntary
+admission is arranged based on level of risk.
+Serotonin syndrome presents with the triad of mental status changes, neuromuscular abnormalities, and
+autonomic instability; cyproheptadine and benzodiazepines are used in treatment.
+Neuroleptic malignant syndrome is characterized by fever, rigidity, altered consciousness, and autonomic
+instability in patients on antipsychotics; dantrolene and bromocriptine are used.
+In alcohol withdrawal, benzodiazepines are titrated to symptom severity using the CIWA-Ar scale;
+phenobarbital and propofol are used in refractory cases.
+Delirium tremens occurs 48-96 hours after alcohol cessation and carries a mortality rate of up to 5%;
+intensive care with IV benzodiazepines is required.
+Wernicke's encephalopathy presents with confusion, ataxia, and ophthalmoplegia; IV thiamine 500 mg
+three times daily is the treatment.
+In acute pain management, a stepwise approach based on the WHO analgesic ladder is used, starting
+with non-opioids and escalating to strong opioids.
+Regional nerve blocks such as femoral nerve block for hip fractures, fascia iliaca block, and intercostal
+nerve blocks provide effective opioid-sparing analgesia.
+Procedural pain in children is managed with intranasal fentanyl 1.5 mcg/kg, oral sucrose for infants, and
+topical anesthetics for venipuncture.
+In acute corneal abrasion, topical NSAIDs provide analgesia; topical anesthetics are used diagnostically
+but not for ongoing pain management due to toxicity.
+Wound closure in the emergency department uses primary closure for clean wounds within 6-12 hours;
+contaminated or delayed wounds are managed with delayed primary closure.
+Scalp lacerations bleed profusely due to high vascularity; firm pressure and rapid closure with staples or
+sutures controls hemorrhage effectively.
+Facial lacerations are closed with fine monofilament sutures for cosmetic reasons; sutures in the face are
+removed at 3-5 days.
+Hand lacerations involving tendons, nerves, or vessels require surgical consultation; flexor tendon injuries
+require specialist repair.
+Wound irrigation with normal saline under pressure is the single most important step in preventing infection
+in traumatic lacerations.
+Antibiotic prophylaxis is not routinely required for simple clean lacerations but is given for bite wounds,
+contaminated wounds, and wounds in immunocompromised patients.
+Retained foreign bodies in soft tissue are detected with plain X-ray (radiopaque), ultrasound (most soft
+tissue material), or MRI (non-metallic objects).
+Subungual hematoma occupying more than 50% of the nail bed is drained by nail trephination using a
+heated paperclip or electrocautery device.
+Fingertip amputations are managed with moist dressing and healing by secondary intention for minor
+amputations; replantation is considered for larger injuries.
+Dislocated fingers are reduced using digital nerve block or procedural sedation followed by longitudinal
+traction and reduction maneuver.
+Tibial plateau fractures with hemarthrosis may require aspiration for pain relief; CT defines the fracture
+pattern and guides surgical planning.
+In ankle fractures, the Ottawa Ankle Rules guide X-ray decision-making to reduce unnecessary imaging
+while maintaining sensitivity for fractures.
+Calcaneal fractures from fall from height are associated with lumbar spine fractures; spinal imaging is
+performed in all patients with calcaneal fractures.
+Achilles tendon rupture is diagnosed clinically with the Thompson test; ultrasound or MRI confirms the
+diagnosis.
+Plantar fasciitis is managed conservatively with stretching, NSAIDs, and orthotics; corticosteroid injection
+is offered for refractory cases.
+In septic shock, early goal-directed therapy principles guide resuscitation targeting MAP above 65 mmHg,
+urine output above 0.5 mL/kg/hour, and normalization of lactate.
+Procalcitonin is used as a biomarker to guide antibiotic initiation and de-escalation in sepsis and
+respiratory infections.
+In neutropenic fever, broad-spectrum antibiotics covering gram-negative organisms including
+Pseudomonas are started within 1 hour of presentation.
+Cefepime or piperacillin-tazobactam is first-line antibiotic therapy in febrile neutropenia; vancomycin is
+added for suspected gram-positive infection.
+Malaria should be considered in any febrile patient returning from an endemic area; thick and thin blood
+films plus rapid antigen testing confirm diagnosis.
+Severe malaria with cerebral involvement or hemodynamic compromise is treated with IV artesunate as
+the drug of choice.
+Dengue fever with warning signs (abdominal pain, persistent vomiting, mucosal bleeding, lethargy, rapid
+respiratory rate, progressive thrombocytopenia) requires hospitalization.
+In Ebola virus disease, strict contact and droplet precautions with full PPE are essential; supportive care
+including IV fluids and electrolyte management is the mainstay.
+In suspected cholera with severe dehydration, oral rehydration solution is used for mild cases and IV
+Ringer's lactate for severe cases; doxycycline reduces stool output.
+Clostridium difficile colitis is treated with oral vancomycin or fidaxomicin; metronidazole is reserved for mild
+cases where these are unavailable.
+Toxic megacolon complicating Clostridium difficile requires IV fluids, IV vancomycin plus metronidazole,
+surgical consultation, and consideration of fecal microbiota transplant.
+In acute liver failure, management includes treatment of precipitating cause, N-acetylcysteine, lactulose for
+hepatic encephalopathy, and early transplant evaluation.
+Emergency ultrasound can identify pneumothorax by absence of lung sliding on B-mode and absence of
+seashore sign on M-mode.
+Free fluid in the abdomen on FAST ultrasound in a trauma patient indicates intraperitoneal hemorrhage
+until proven otherwise.
+Pericardial effusion on ultrasound is identified as an anechoic space around the heart; right ventricular
+diastolic collapse indicates tamponade physiology.
+Inferior vena cava diameter and collapsibility index on ultrasound estimate volume status and fluid
+responsiveness in critically ill patients.
+Bedside echocardiography in cardiac arrest identifies potentially reversible causes such as pericardial
+tamponade, massive PE, and severe hypovolemia.
+In smoke inhalation injury, carboxyhemoglobin above 25% or CNS symptoms are indications for
+hyperbaric oxygen therapy.
+Chemical burns from alkali substances cause liquefactive necrosis that penetrates deeply; copious
+irrigation for at least 60 minutes is required.
+Acid burns cause coagulative necrosis that creates a barrier limiting deep penetration; irrigation is still
+required for 30-60 minutes.
+Hydrofluoric acid burns can cause life-threatening hypocalcemia; calcium gluconate gel is applied topically
+and IV calcium is given for systemic toxicity.
+In lightning strike victims, multiple patients may be involved; uniquely, those in cardiac arrest are prioritized
+first as they have the highest chance of survival with CPR.
+Drowning in cold water offers a neuroprotective effect; resuscitation should be continued aggressively
+even after prolonged submersion if the water was cold.
+In altitude sickness, descent by 300-1000 m is the most effective treatment; acetazolamide 250 mg twice
+daily aids acclimatization and treatment.
+High-altitude pulmonary edema is treated with immediate descent, supplemental oxygen, and nifedipine
+30 mg extended release for pulmonary vasodilation.
+Barotrauma during mechanical ventilation manifests as pneumothorax, pneumomediastinum, or
+subcutaneous emphysema and requires immediate recognition.
+In procedural sedation, capnography monitoring of end-tidal CO2 provides early warning of apnea before
+clinical desaturation occurs.
+Pre-oxygenation before RSI uses high-flow oxygen for at least 3 minutes or 8 vital capacity breaths to
+extend safe apnea time.
+Apneic oxygenation with nasal cannula at 15 L/min during laryngoscopy maintains oxygenation and
+extends safe apnea duration.
+Cricoid pressure (Sellick's maneuver) during RSI is controversial; it may worsen laryngoscopic view and its
+benefit in preventing aspiration is disputed.
+Video laryngoscopy improves first-pass intubation success rates compared to direct laryngoscopy and is
+recommended as first-line in difficult airway algorithms.
+The bougie (tracheal introducer) improves intubation success in difficult airway scenarios and should be
+readily available during all intubation attempts.
+Confirmation of endotracheal tube placement requires waveform capnography; equal bilateral breath
+sounds and symmetric chest rise are secondary confirmation methods.
+In-line stabilization of the cervical spine is maintained during airway management in trauma patients;
+manual in-line stabilization (MILS) reduces movement during intubation.
+Nasotracheal intubation is an option in spontaneously breathing patients with difficult oral access; it is
+contraindicated in apneic patients and suspected basilar skull fractures.
+Needle cricothyrotomy provides emergency oxygenation for 30-45 minutes and is a temporary measure;
+surgical cricothyrotomy provides definitive airway access.
+The DOPE mnemonic helps identify causes of acute deterioration in intubated patients: displacement,
+obstruction, pneumothorax, and equipment failure.
+Auto-PEEP (intrinsic PEEP) in ventilated asthmatic patients is managed by reducing respiratory rate,
+increasing expiratory time, and briefly disconnecting the ventilator.
+In abdominal compartment syndrome, bladder pressure measurement above 20 mmHg with new organ
+dysfunction confirms the diagnosis; decompressive laparotomy is required.
+Rectal bleeding with hemodynamic instability requires urgent endoscopy, interventional radiology, or
+surgical consultation based on the likely bleeding source.
+In lower GI bleeding, CT angiography identifies the bleeding source and guides treatment by embolization
+or surgery.
+Angiodysplasia is the most common cause of lower GI bleeding in elderly patients and is managed
+endoscopically or by angioembolization.
+Diverticular bleeding is the most common cause of massive lower GI hemorrhage overall; most episodes
+stop spontaneously but recurrence is common.
+Mesenteric adenitis in children mimics acute appendicitis; ultrasound or CT differentiates the two
+conditions.
+Incarcerated inguinal hernia requires immediate surgical consultation; manual reduction is attempted if
+there is no evidence of strangulation.
+Strangulated hernia with bowel compromise requires emergency surgery; delay results in bowel necrosis
+and increased mortality.
+Acute urinary retention in older men is most commonly due to benign prostatic hyperplasia; urethral
+catheterization provides immediate relief.
+Paraphimosis (foreskin trapped behind the glans) is a urological emergency requiring manual reduction
+after applying ice to reduce edema; dorsal slit or circumcision may be needed.
+Balanitis with systemic features or failure to respond to topical antifungals requires systemic azole therapy
+and evaluation for diabetes or immunosuppression.
+Priapism lasting more than 4 hours is a urological emergency; intracavernosal phenylephrine injection is
+first-line treatment for ischemic priapism.
+In acute scrotum, color Doppler ultrasound differentiates testicular torsion (absent flow) from
+epididymo-orchitis (increased flow); negative predictive value is very high.
+Epididymo-orchitis is treated with antibiotics targeting the likely causative organism: ceftriaxone plus
+doxycycline for STI, or fluoroquinolone for older patients.
+Urethral injuries in pelvic fracture are suspected if blood is present at the urethral meatus, scrotal
+hematoma, or perineal bruising; urethral catheterization is deferred until imaging.
+Urinary tract infection in men should prompt investigation for an underlying abnormality such as
+urolithiasis, obstruction, or prostatitis.
+Phimosis causing urinary obstruction requires dorsal slit or circumcision; urethral catheterization may be
+necessary as a temporizing measure.
+In acute pancreatitis, early oral or enteral feeding within 24-48 hours is preferred over bowel rest as it
+reduces infectious complications and length of stay.
+Abdominal aortic aneurysm rupture presents with sudden severe abdominal or back pain, hypotension,
+and a pulsatile abdominal mass; emergency vascular surgery is required.
+Symptomatic abdominal aortic aneurysm with diameter above 5.5 cm in men and 5.0 cm in women
+requires urgent surgical repair before rupture.
+Inferior mesenteric artery occlusion causes ischemic colitis presenting with left lower quadrant pain and
+bloody diarrhea; colonoscopy confirms diagnosis.
+Shock index (heart rate divided by systolic BP) above 1.0 indicates significant hemodynamic compromise
+and predicts the need for massive transfusion in trauma.
+In pediatric trauma, the Pediatric Trauma Score and Revised Trauma Score stratify injury severity and
+guide triage decisions.
+Traumatic aortic injury is most common at the aortic isthmus just distal to the left subclavian artery; CT
+angiography is diagnostic.
+Cardiac contusion is suspected in blunt chest trauma with sternal fracture; troponin and ECG monitoring
+are performed for 24 hours.
+Rib fractures in elderly patients cause significant morbidity due to respiratory splinting; regional analgesia
+such as thoracic epidural or paravertebral block reduces pneumonia risk.
+Flail chest is caused by three or more consecutive rib fractures in two or more places, creating a
+paradoxically moving segment that impairs ventilation.
+Pulmonary contusion on CT appears as parenchymal consolidation and ground-glass opacification; it
+peaks at 24-72 hours after injury.
+Tracheobronchial injury presents with massive air leak, persistent pneumothorax despite chest tube, and
+subcutaneous emphysema; bronchoscopy confirms and localizes the injury.
+Diaphragmatic rupture from blunt trauma is more common on the left side; chest X-ray may show bowel
+loops in the thorax or nasogastric tube above the diaphragm.
+Esophageal perforation presents with chest pain, subcutaneous emphysema, and Hamman's sign
+(crunching sound with heartbeat); early surgical repair is essential.
+Renal trauma is graded I-V; grades I-III are managed conservatively, while grade IV-V injuries may require
+angioembolization or surgical repair.
+Bladder rupture is classified as intraperitoneal (requires surgery) or extraperitoneal (managed with
+catheter drainage); CT cystography is diagnostic.
+Penile fracture from blunt trauma during intercourse causes immediate pain, swelling, and deviation;
+surgical repair is required within 24 hours for best outcomes.
+Auricular hematoma (cauliflower ear) must be drained promptly and a compression dressing applied to
+prevent fibrosis and cartilage necrosis.
+Nasal fracture with septal hematoma requires urgent drainage to prevent avascular necrosis of the nasal
+septum and saddle nose deformity.
+Orbital blow-out fracture may trap the inferior rectus muscle causing diplopia on upward gaze; urgent
+ophthalmology and maxillofacial surgery consultation is required.
+Mandibular fractures are assessed clinically by step deformity, trismus, and malocclusion; panoramic
+X-ray (OPG) or CT confirms the fracture.
+Penetrating neck injuries are classified by zone; zone II injuries with hard signs of vascular or
+aerodigestive injury require immediate surgical exploration.
+Laryngeal fracture presents with hoarse voice, stridor, subcutaneous emphysema, and tenderness; urgent
+airway management and ENT consultation are required.
+In acute spinal cord injury, methylprednisolone is not routinely recommended but early surgical
+decompression within 24 hours improves neurological outcomes.
+Autonomic dysreflexia in spinal cord injury above T6 causes life-threatening hypertension triggered by a
+noxious stimulus below the injury level; the stimulus must be identified and removed.
+In maxillofacial trauma with midface fractures, look for CSF rhinorrhea indicating anterior skull base
+fracture; prophylactic antibiotics are controversial.
+Traumatic optic neuropathy presents with visual loss after periorbital trauma without obvious external
+injury; high-dose steroids or optic nerve decompression may be considered.
+Inhalation of toxic industrial gases such as ammonia, chlorine, and phosgene causes delayed pulmonary
+edema; observation for 12-24 hours is required even if initially asymptomatic.
+In acute poisoning with unknown substance, the toxidrome approach guides empirical antidote
+administration while awaiting laboratory confirmation.
+Activated charcoal is ineffective for alcohols, metals, caustics, hydrocarbons, and some pesticides; these
+require alternative decontamination strategies.
+Whole bowel irrigation with polyethylene glycol is used for body-packers (cocaine or heroin ingestion for
+smuggling), iron overdose, and lithium poisoning.
+Hemodialysis effectively eliminates lithium, methanol, ethylene glycol, salicylates, and theophylline; it is
+indicated for severe toxicity or renal failure preventing elimination.
+In pediatric fever without a source, risk stratification using age, WBC, CRP, and procalcitonin guides
+lumbar puncture and empirical antibiotic decisions.
+Kawasaki disease in children presents with fever for more than 5 days plus four of five criteria: rash,
+conjunctival injection, lip changes, cervical lymphadenopathy, and extremity changes; IVIG plus aspirin is
+treatment.
+Acute rheumatic fever following group A streptococcal pharyngitis is prevented by complete 10-day
+penicillin therapy; diagnosis uses Jones criteria including carditis, polyarthritis, chorea, erythema
+marginatum, and subcutaneous nodules.

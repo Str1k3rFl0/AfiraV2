@@ -1,0 +1,230 @@
+Enzymes do not just lower activation energy; they stabilize the transition state of a reaction.
+Acid-base catalysis involves a molecule other than water acting as a proton donor or acceptor.
+Covalent catalysis involves the formation of a transient covalent bond between the enzyme and substrate.
+Metal ion catalysis uses tightly bound metals to orient substrates or facilitate redox reactions.
+The catalytic triad in serine proteases consists of Aspartate, Histidine, and Serine.
+Cooperativity in enzymes like hemoglobin is often described by the MWC (concerted) or KNF (sequential) models.
+The Hill coefficient (n) measures the degree of cooperativity; n > 1 indicates positive cooperativity.
+Homotropic effectors are substrates that also act as regulatory molecules.
+Heterotropic effectors are molecules different from the substrate that regulate enzyme activity.
+Zymogens (proenzymes) are inactive precursors that require proteolytic cleavage to become active.
+The Gibbs-Donnan effect describes the behavior of charged particles near a semi-permeable membrane.
+Living systems are 'islands of low entropy' maintained by a constant flux of energy from the environment.
+Metabolic flux analysis (MFA) is used to quantify the rates of turnover of molecules in a pathway.
+Metabolic channeling occurs when enzymes of a pathway are physically grouped to increase efficiency.
+The 'Enzyme-Substrate-Product' (ESP) complex lifetime can be measured using femtosecond spectroscopy.
+Ribozymes, like the ribosome and spliceosome, prove that RNA was likely the first biological catalyst.
+The RNA World hypothesis suggests life began with self-replicating RNA molecules.
+The 'Iron-Sulfur World' theory proposes life started at hydrothermal vents using mineral catalysts.
+Membraneless organelles form through liquid-liquid phase separation (LLPS).
+Intrinsically disordered regions (IDRs) in proteins often drive the formation of biomolecular condensates.
+The proteasome uses ATP to unfold proteins before threading them into the catalytic core for degradation.
+Ubiquitin chains linked through Lysine-48 target proteins for degradation; Lysine-63 links are for signaling.
+SUMOylation is the covalent attachment of Small Ubiquitin-like Modifiers to regulate protein function.
+The N-end rule relates the half-life of a protein to its N-terminal amino acid residue.
+P-bodies are cytoplasmic granules where mRNA is stored or degraded.
+Stress granules form in response to cellular stress to protect translation-ready mRNAs.
+Molecular crowding can increase the effective concentration of molecules by orders of magnitude.
+The 'excluded volume effect' favors the assembly of large macromolecular complexes.
+Chaperonins like GroEL/GroES provide a 'safe cage' for proteins to fold away from the crowded cytosol.
+The Twin-Arginine Translocation (TAT) system moves fully folded proteins across bacterial membranes.
+Type III secretion systems (T3SS) act like 'molecular syringes' used by bacteria to inject toxins into host cells.
+Quorum quenching is the process by which organisms interfere with bacterial quorum sensing.
+Biofilms are communities of bacteria embedded in a self-produced matrix of extracellular polymeric substances (EPS).
+The 'persistence' of bacteria in biofilms is a major cause of chronic infection and antibiotic resistance.
+Bacteriophages can carry antibiotic resistance genes between bacteria via specialized transduction.
+CRISPR-Cas9 was originally a bacterial defense mechanism against bacteriophage DNA.
+PAM (Protospacer Adjacent Motif) sequences are required for Cas9 to distinguish 'self' from 'non-self' DNA.
+Base editing allows for the conversion of one DNA base pair to another without double-strand breaks.
+Prime editing uses a 'search-and-replace' mechanism to perform precise genome insertions and deletions.
+Gene drives can bypass traditional Mendelian inheritance to spread a trait through 100% of offspring.
+The 'Gene Drive' controversy centers on the potential for permanent, irreversible ecological changes.
+Synthetic genomes, like Syn3.0, represent the minimum set of genes required for life.
+Xenobiology explores life based on non-canonical genetic codes or alternative chemistries.
+The Expanded Genetic Alphabet (e.g., d5SICS and dNaM) allows for the storage of more information in DNA.
+Cell-free protein synthesis systems allow for the production of proteins without living cells.
+Metabolic engineering aims to optimize genetic and regulatory processes within cells to produce chemicals.
+Directed evolution uses iterative rounds of mutation and selection to create enzymes with new functions.
+The Nobel Prize-winning Phage Display technique allows for the rapid screening of protein-ligand interactions.
+Bio-orthogonal chemistry occurs inside living systems without interfering with native biochemical processes.
+Click chemistry (like the azide-alkyne cycloaddition) is used to label biomolecules in vivo.
+Molecular motors like kinesin and dynein use ATP to walk along microtubules.
+The 'duty ratio' of a molecular motor is the fraction of time it spends attached to its track.
+Myosin V is a processive motor, meaning it takes many steps before dissociating from actin.
+The 'power stroke' in muscle contraction is triggered by the release of inorganic phosphate (Pi) from myosin.
+Rigor mortis occurs because the absence of ATP prevents myosin from releasing the actin filament.
+The sarcomere Z-discs anchor the plus ends of actin filaments.
+Titin is the largest known protein and acts as a molecular spring in muscle cells.
+The length-tension relationship in muscle is determined by the overlap between actin and myosin.
+Calcium-induced calcium release (CICR) is the primary mechanism for muscle contraction in the heart.
+Phospholamban regulates the activity of the SERCA pump in cardiac muscle.
+Troponin I inhibits the interaction between actin and myosin; Troponin T binds to tropomyosin.
+The Frank-Starling law states that the stroke volume of the heart increases in response to an increase in end-diastolic volume.
+The baroreceptor reflex provides rapid, short-term regulation of blood pressure.
+Chemoreceptors in the carotid bodies respond to changes in arterial pO2, pCO2, and pH.
+The ventilation-perfusion (V/Q) ratio describes the efficiency of gas exchange in the lungs.
+Surfactant reduces surface tension in the alveoli, preventing collapse during exhalation.
+Compliance is the ease with which the lungs and chest wall can be expanded.
+Shunt refers to blood that bypasses the gas exchange surfaces of the lung.
+Dead space is the volume of air that is inhaled but does not take part in gas exchange.
+The chloride shift (Hamberguer shift) maintains electrical neutrality as bicarbonate leaves red blood cells.
+Carbonic anhydrase is one of the fastest enzymes known, essential for CO2 transport.
+Methemoglobin is a form of hemoglobin where the iron is in the ferric (Fe3+) state and cannot bind O2.
+2,3-Bisphosphoglycerate (2,3-BPG) stabilizes the 'T' (low affinity) state of hemoglobin.
+Fetal hemoglobin (HbF) has a higher affinity for O2 than adult hemoglobin (HbA) because it binds 2,3-BPG less strongly.
+The 'Oxygen-Hemoglobin Dissociation Curve' is sigmoidal due to cooperative binding.
+A 'Right Shift' in the curve (high CO2, low pH, high temp) facilitates oxygen unloading at the tissues.
+Hyperbaric oxygen therapy increases the amount of dissolved oxygen in the plasma.
+Hypoxic pulmonary vasoconstriction (HPV) redirects blood flow away from poorly ventilated alveoli.
+The respiratory center in the medulla oblongata is primarily sensitive to pCO2 and H+ levels.
+Juxtaglomerular (JG) cells are modified smooth muscle cells that act as baroreceptors in the kidney.
+The macula densa senses sodium chloride concentration in the distal tubule.
+Tubuloglomerular feedback (TGF) allows the kidney to regulate its own filtration rate.
+The ' myogenic mechanism' causes afferent arterioles to constrict when blood pressure rises.
+Parathyroid hormone (PTH) stimulates the activation of Vitamin D in the kidney.
+The kidney is the primary site of gluconeogenesis during prolonged fasting.
+Clearance is the volume of plasma from which a substance is completely removed per unit time.
+Inulin clearance is the gold standard for measuring glomerular filtration rate (GFR).
+Creatinine clearance is a clinical estimate of GFR.
+The renal threshold for glucose is approximately 180 mg/dL.
+Secondary active transport in the kidney often uses the sodium gradient established by the Na/K-ATPase.
+The SGLT2 transporter reabsorbs the majority of glucose in the proximal tubule.
+Loop diuretics (like furosemide) inhibit the Na-K-2Cl cotransporter in the thick ascending limb.
+Thiazide diuretics inhibit the Na-Cl symporter in the distal convoluted tubule.
+Spironolactone is a potassium-sparing diuretic that antagonizes aldosterone receptors.
+Countercurrent exchange in the vasa recta prevents the 'washout' of the medullary osmotic gradient.
+Vasopressin (ADH) inserts AQP2 water channels into the apical membrane of collecting duct cells.
+Diabetes insipidus is characterized by the inability to concentrate urine due to ADH deficiency or resistance.
+The ANP/BNP system acts as a natural antagonist to the RAAS system.
+Respiratory acidosis is caused by hypoventilation and CO2 retention.
+Metabolic acidosis is often compensated for by respiratory hyperventilation (Kussmaul breathing).
+The anion gap helps differentiate causes of metabolic acidosis.
+The 'Henderson-Hasselbalch Equation' is used to calculate the pH of a buffer system.
+The major extracellular buffer is the bicarbonate system; the major intracellular buffer is phosphate.
+Proteins can act as buffers due to the ionizable side chains of amino acids (especially Histidine).
+Sensory transduction converts a physical stimulus into a graded receptor potential.
+Phasic receptors adapt rapidly to a constant stimulus (e.g., touch); tonic receptors adapt slowly (e.g., pain).
+The 'Two-Point Discrimination' threshold depends on the density of mechanoreceptors and receptive field size.
+Lateral inhibition enhances the contrast between a stimulus and its surroundings.
+The 'Gate Control Theory' of pain suggests that non-painful input can close the 'gates' to painful input in the spinal cord.
+Endogenous opioids (endorphins, enkephalins) inhibit the transmission of pain signals.
+The olfactory system is unique because it bypasses the thalamus on its way to the cortex.
+Odorant receptors are GPCRs that activate adenylyl cyclase to open cAMP-gated ion channels.
+The 'Labeled Line' principle states that each nerve fiber to the brain transmits only one modality of sensation.
+Gustatory receptors for sweet, bitter, and umami are GPCRs; salty and sour use ion channels.
+The organ of Corti is the site of auditory transduction in the cochlea.
+Hair cells are depolarized by the entry of K+ ions through mechanically gated channels in the stereocilia.
+The basilar membrane acts as a frequency analyzer (high frequencies at the base, low at the apex).
+The semicircular canals detect angular acceleration; the otolith organs detect linear acceleration.
+The lens of the eye becomes more spherical for near vision (accommodation) through ciliary muscle contraction.
+Phototransduction in the dark: high levels of cGMP keep ion channels open, depolarizing the photoreceptor.
+Phototransduction in the light: light-activated rhodopsin activates transducin, which activates PDE, lowering cGMP and hyperpolarizing the cell.
+This 'dark current' means photoreceptors release more neurotransmitter (glutamate) in the dark.
+Horizontal cells in the retina provide lateral inhibition, creating center-surround receptive fields.
+Color blindness is most commonly due to the absence of one or more types of cone photopigments.
+The optic chiasm is where fibers from the nasal retinas cross to the opposite side of the brain.
+The primary visual cortex (V1) is organized into ocular dominance columns and orientation columns.
+The 'Dorsal Stream' of visual processing is for 'Where/How'; the 'Ventral Stream' is for 'What'.
+Synaptic pruning is the elimination of extra synapses to increase the efficiency of neural circuits.
+The 'Sensitive Period' is a window in development where the brain is particularly plastic.
+Hebbian learning: 'Cells that fire together, wire together.' Episodic memory stores specific events; semantic memory stores general knowledge.
+The Papez circuit is a fundamental component of the limbic system involved in emotion and memory.
+Working memory is primarily mediated by the prefrontal cortex.
+Mirror neurons fire both when an individual performs an action and when they observe another doing it.
+The 'Default Mode Network' is active when the brain is at rest and not focused on the external world.
+Brainwaves: Delta (deep sleep), Theta (drowsy), Alpha (relaxed), Beta (alert), Gamma (high-level processing).
+REM sleep is characterized by high brain activity, rapid eye movements, and muscle atonia.
+The 'Monoamine Hypothesis' suggests that depression is caused by a deficiency of serotonin and/or norepinephrine.
+The 'Dopamine Hypothesis' suggests that schizophrenia is linked to overactivity of dopamine pathways.
+Parkinson's disease is caused by the death of dopaminergic neurons in the substantia nigra.
+Alzheimer's disease is characterized by extracellular amyloid-beta plaques and intracellular tau tangles.
+Prion diseases (like CJD) involve the template-directed misfolding of the PrP protein.
+Excitotoxicity involves the overactivation of NMDA receptors, leading to calcium overload and cell death.
+The blood-brain barrier (BBB) is permeable to lipid-soluble substances and uses transporters for glucose and amino acids.
+Cerebrospinal fluid (CSF) is produced by the choroid plexus and absorbed by the arachnoid villi.
+The 'Hydrostatic Pressure' of blood vs.
+the 'Oncotic Pressure' of plasma proteins determines fluid movement in capillaries.
+Edema occurs when fluid filtration exceeds lymphatic drainage.
+Hypoproteinemia (low blood protein) leads to edema due to decreased oncotic pressure.
+Cytokines can act as autocrine, paracrine, or endocrine signals.
+The 'Cytokine Storm' is a life-threatening systemic inflammatory response.
+Complement system pathways: Classical (antibody-bound), Lectin (sugar-bound), and Alternative (direct pathogen binding).
+C3b acts as an opsonin; C5a acts as a potent chemoattractant for leukocytes.
+Diapedesis (extravasation) is the process of leukocytes crawling through blood vessel walls to reach an infection.
+Selectins mediate the initial 'rolling' of leukocytes; integrins mediate firm adhesion.
+Granulocytes include neutrophils (phagocytosis), eosinophils (parasites/allergy), and basophils (histamine).
+Agranulocytes include monocytes (become macrophages) and lymphocytes (B and T cells).
+Dendritic cells are the most potent professional antigen-presenting cells (APCs).
+The 'Double Signal' for T cell activation: 1) TCR binds MHC/antigen, 2) CD28 binds B7 on the APC.
+Without the second signal (co-stimulation), the T cell becomes anergic (unresponsive).
+Clonal deletion is the process of removing self-reactive lymphocytes during development (Central Tolerance).
+Peripheral tolerance is maintained by Regulatory T cells (Tregs).
+Immune privilege occurs in sites like the brain and eyes where immune responses are suppressed to prevent damage.
+Vaccination induces 'Herd Immunity' when a large enough proportion of the population is immune.
+Antigenic drift is the gradual accumulation of mutations in viral surface proteins.
+Antigenic shift is the sudden exchange of genetic material between different viral strains (causes pandemics).
+The 'Original Antigenic Sin' describes the tendency of the immune system to prefer its first memory of a pathogen.
+Antibody-dependent enhancement (ADE) occurs when non-neutralizing antibodies actually help a virus enter cells.
+Somatic cell nuclear transfer (SCNT) is the technique used for reproductive and therapeutic cloning.
+Parthenogenesis is the development of an embryo from an unfertilized egg.
+The 'Redox Potential' (Eh) of a cell reflects its overall oxidative or reductive state.
+Glutathione is the major antioxidant buffer in the cytosol.
+NADPH is the primary source of reducing power for anabolic reactions and antioxidant defense.
+The pentose phosphate pathway (PPP) produces NADPH and ribose-5-phosphate.
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency can lead to hemolytic anemia under oxidative stress.
+The 'Crabtree Effect' is the inhibition of respiration by high concentrations of glucose (similar to Warburg).
+Substrate cycles (futile cycles) occur when two opposing metabolic pathways are active simultaneously, generating heat.
+Brown adipose tissue (BAT) uses UCP1 (thermogenin) to uncouple respiration from ATP synthesis to generate heat.
+Leptin resistance is a key factor in the development of obesity.
+Adiponectin is a hormone from fat tissue that increases insulin sensitivity.
+The 'Thrifty Gene' hypothesis suggests that genes favoring fat storage were adaptive in our evolutionary past.
+Epigenetic 'memory' of famine can be passed down through generations.
+Metabolic syndrome is a cluster of conditions (obesity, high BP, high sugar) that increase heart disease risk.
+Non-alcoholic fatty liver disease (NAFLD) is strongly linked to insulin resistance.
+Glycation is the non-enzymatic attachment of sugars to proteins (e.g., HbA1c in diabetes).
+Advanced glycation end-products (AGEs) contribute to tissue aging and complications of diabetes.
+The 'Polyol Pathway' converts glucose to sorbitol, contributing to osmotic damage in diabetic tissues.
+Vitamin B12 (cobalamin) requires 'Intrinsic Factor' from the stomach for absorption in the ileum.
+Pernicious anemia is an autoimmune disease that destroys gastric parietal cells, leading to B12 deficiency.
+Folic acid is essential for DNA synthesis; deficiency during pregnancy causes neural tube defects.
+Vitamin D acts more like a hormone than a vitamin, regulating hundreds of genes.
+The 'Hygiene Hypothesis' has been expanded into the 'Old Friends' hypothesis.
+Bacteriocins are antimicrobial peptides produced by bacteria to kill competing strains.
+Phage therapy uses viruses to treat bacterial infections as an alternative to antibiotics.
+The 'Viremia' is the presence of viruses in the blood.
+The 'Window Period' is the time between infection and when a test can detect the pathogen or antibodies.
+R0 (Basic Reproduction Number) is the average number of people one infected person will infect.
+Zoonosis is a disease that can be transmitted from animals to humans.
+Reverse genetics starts with a gene and looks for the resulting phenotype (e.g., gene knockout).
+Forward genetics starts with a phenotype and looks for the underlying gene.
+Synthetically engineered 'Logic Gates' can be built inside living cells using genetic circuits.
+Biological 'Flash Memory' can be created by recording cellular events into DNA sequences.
+DNA data storage uses the four bases to store digital information with incredible density.
+The 'Human Protein Atlas' aims to map all human proteins in all major tissues and organs.
+The 'Human Cell Atlas' aims to create a comprehensive reference map of every cell type in the human body.
+Biomimetics (biomimicry) is the design of materials and systems modeled on biological entities.
+Bioluminescence is the production of light by a living organism (e.g., luciferase reaction).
+Bio-fluorescence is the absorption of light and its re-emission at a different wavelength.
+The 'Great Filter' hypothesis in astrobiology suggests there is a barrier to the development of advanced civilizations.
+The 'Goldilocks Zone' is the habitable zone around a star where liquid water can exist.
+Extremophiles like Deinococcus radiodurans can survive extreme doses of radiation.
+Synthetic biology 'parts' are standardized DNA sequences called BioBricks.
+The 'Double-Blind' study is the gold standard for clinical trials to eliminate bias.
+The 'Placebo Effect' demonstrates the powerful connection between the mind and physical health.
+The 'Nocebo Effect' is the experience of negative side effects due to negative expectations.
+Bioethics must evolve alongside technology (e.g., CRISPR babies, AI in healthcare).
+The 'Principles of Biomedical Ethics': Autonomy, Beneficence, Non-maleficence, and Justice.
+Precision Medicine is the goal of providing the right treatment to the right patient at the right time.
+Biology is the most complex system known to man, yet it follows the fundamental laws of physics and chemistry.
+Information in biology is not just in DNA, but in the spatial organization and timing of events.
+The 'Self-Assembly' of complex structures is a hallmark of biological systems.
+Life is a 'far-from-equilibrium' state maintained by energy dissipation.
+Biology is inherently multiscale, from atoms to ecosystems.
+The study of biology is the study of ourselves and our place in the universe.
+We are just beginning to understand the true complexity of life.
+Every biological discovery opens the door to ten new questions.
+The 21st century is widely considered the 'Century of Biology'.
+Biology is not just a science, it's the foundation of our existence.
+To understand life is to respect its fragility and its resilience.
+The complexity of life is matched only by its beauty.
+Biology is the ultimate frontier of human knowledge.

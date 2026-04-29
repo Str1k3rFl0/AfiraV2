@@ -1,0 +1,101 @@
+Cardiovascular and Hematology Comprehensive Dataset
+The heart is a muscular organ located in the mediastinum of the thoracic cavity.
+The pericardium is a double-walled sac that encloses and protects the heart.
+The heart consists of four chambers: two atria and two ventricles.
+The right atrium receives deoxygenated blood from the superior and inferior vena cava.
+The tricuspid valve separates the right atrium from the right ventricle.
+The right ventricle pumps deoxygenated blood into the pulmonary artery toward the lungs.
+The pulmonary valve prevents blood from flowing back into the right ventricle.
+The left atrium receives oxygenated blood from the lungs via the four pulmonary veins.
+The mitral valve, also known as the bicuspid valve, separates the left atrium from the left ventricle.
+The left ventricle is the thickest chamber because it must pump blood to the entire body.
+The aortic valve prevents blood from flowing back into the left ventricle from the aorta.
+The sinoatrial node is the natural pacemaker of the heart located in the right atrium.
+The atrioventricular node delays the electrical impulse to allow the ventricles to fill with blood.
+The Bundle of His and Purkinje fibers distribute electrical signals throughout the ventricles.
+Systole represents the phase of heart contraction and blood ejection.
+Diastole represents the phase of heart relaxation and ventricular filling.
+Cardiac output is the volume of blood pumped by the heart per minute.
+Stroke volume is the amount of blood ejected by the left ventricle in one contraction.
+Blood pressure is measured as the force of blood against the walls of the arteries.
+Normal adult resting heart rate typically ranges from 60 to 100 beats per minute.
+Arteries carry blood away from the heart and have thick elastic walls.
+Arterioles are small branches of arteries that lead to capillaries.
+Capillaries are the microscopic vessels where the exchange of gases and nutrients occurs.
+Venules collect blood from capillaries and lead into veins.
+Veins carry blood toward the heart and contain valves to prevent backflow.
+Plasma makes up about 55 percent of total blood volume.
+Red blood cells, or erythrocytes, are biconcave discs responsible for oxygen transport.
+Hemoglobin is the iron-containing protein in red blood cells that binds to oxygen.
+White blood cells, or leukocytes, are the primary cells of the immune system.
+Platelets, or thrombocytes, are cell fragments essential for blood clotting.
+Hematopoiesis is the process of blood cell formation occurring in the red bone marrow.
+Erythropoietin is a hormone produced by the kidneys that stimulates red blood cell production.
+The universal blood donor type is O negative.
+The universal blood recipient type is AB positive.
+Antigens on the surface of red blood cells determine a person's blood type.
+The Rh factor is an inherited protein found on the surface of red blood cells.
+Agglutination occurs when antibodies react with incompatible blood antigens.
+Coronary arteries supply oxygen-rich blood to the heart muscle itself.
+Angina pectoris is chest pain caused by reduced blood flow to the heart muscle.
+A myocardial infarction occurs when a coronary artery is completely blocked, causing tissue death.
+Atherosclerosis is the hardening of arteries due to the buildup of plaque.
+Hypertension is defined as chronically elevated blood pressure above normal ranges.
+Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs.
+Atrial fibrillation is an irregular and often rapid heart rate that increases stroke risk.
+Ventricular fibrillation is a life-threatening heart rhythm that requires immediate defibrillation.
+An aneurysm is a localized bulge or ballooning in the wall of a blood vessel.
+Deep vein thrombosis is the formation of a blood clot in a deep vein, usually in the legs.
+A pulmonary embolism occurs when a blood clot travels to the lungs and blocks an artery.
+Anemia is a condition characterized by a deficiency of red blood cells or hemoglobin.
+Iron deficiency anemia is the most common form of anemia worldwide.
+Sickle cell anemia is a genetic disorder where red blood cells take on a crescent shape.
+Hemophilia is a genetic disorder where the blood does not clot properly.
+Leukemia is a type of cancer that starts in blood-forming tissue like the bone marrow.
+Lymphoma is a cancer of the lymphatic system, which is part of the immune system.
+The lymphatic system returns excess interstitial fluid to the bloodstream.
+Lymph nodes filter lymph and house white blood cells to fight infection.
+The spleen acts as a blood filter and stores a reserve of blood cells.
+The thymus gland is where T-lymphocytes mature and develop.
+Systemic circulation carries blood between the heart and the rest of the body.
+Pulmonary circulation carries blood between the heart and the lungs.
+The carotid arteries supply oxygenated blood to the brain.
+The jugular veins drain deoxygenated blood from the brain.
+The femoral artery is a major blood vessel supplying the lower limbs.
+Vasoconstriction is the narrowing of blood vessels to increase blood pressure or conserve heat.
+Vasodilation is the widening of blood vessels to decrease blood pressure or release heat.
+Baroreceptors in the aortic arch and carotid sinus monitor blood pressure changes.
+Chemoreceptors detect changes in blood oxygen, carbon dioxide, and pH levels.
+Serum is blood plasma without the clotting factors.
+Fibrinogen is a plasma protein that is converted to fibrin during blood coagulation.
+Vitamin K is a necessary cofactor for the synthesis of several clotting factors.
+Prothrombin time measures how long it takes for blood to clot along the extrinsic pathway.
+Hematocrit is the percentage of total blood volume made up of red blood cells.
+Reticulocytes are immature red blood cells that indicate the rate of red cell production.
+Bilirubin is a byproduct of the breakdown of old red blood cells by the spleen.
+A murmur is an abnormal heart sound often caused by turbulent blood flow or valve issues.
+Stenosis is the abnormal narrowing of a heart valve that restricts blood flow.
+Regurgitation occurs when a heart valve does not close properly, allowing backflow.
+Pericarditis is the inflammation of the sac surrounding the heart.
+Endocarditis is an infection of the inner lining of the heart chambers and valves.
+The P wave on an EKG represents atrial depolarization.
+The QRS complex on an EKG represents ventricular depolarization.
+The T wave on an EKG represents ventricular repolarization.
+Bradycardia is a resting heart rate slower than 60 beats per minute.
+Tachycardia is a resting heart rate faster than 100 beats per minute.
+An Electrocardiogram is a test that records the electrical activity of the heart.
+An Echocardiogram uses ultrasound waves to produce images of the heart's structure.
+Cardiac catheterization is a procedure used to diagnose and treat certain cardiovascular conditions.
+A bypass surgery creates a new path for blood to flow around a blocked coronary artery.
+An angioplasty is a procedure to open narrowed or blocked blood vessels.
+A stent is a small mesh tube used to keep an artery open after angioplasty.
+The hepatic portal system carries nutrient-rich blood from the gut to the liver.
+Albumin is the most abundant plasma protein and maintains osmotic pressure.
+Globulins are plasma proteins that include antibodies and transport proteins.
+The ductus arteriosus is a blood vessel in the fetus connecting the pulmonary artery to the aorta.
+The foramen ovale is an opening in the fetal heart between the right and left atria.
+Blood velocity is slowest in the capillaries to allow for the exchange of substances.
+Shock is a life-threatening condition where organs do not receive enough blood flow.
+Anaphylactic shock is a severe allergic reaction causing massive vasodilation.
+Hypovolemic shock is caused by severe blood or fluid loss.
+Septic shock is caused by a systemic infection leading to dangerously low blood pressure.

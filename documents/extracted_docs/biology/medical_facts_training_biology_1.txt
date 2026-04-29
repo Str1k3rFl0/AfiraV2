@@ -1,0 +1,351 @@
+The cell is the basic structural and functional unit of all living things.
+The cell theory states that all living organisms are composed of cells.
+Cells arise only from pre-existing cells through cell division.
+Prokaryotic cells lack a membrane-bound nucleus and organelles.
+Eukaryotic cells have a defined nucleus and membrane-bound organelles.
+The plasma membrane is a phospholipid bilayer that regulates what enters and exits the cell.
+Cytoplasm is the jelly-like substance that fills the cell and surrounds the organelles.
+The nucleus contains the cell's genetic material (DNA).
+Nuclear pores allow the transport of molecules between the nucleus and cytoplasm.
+The nucleolus is the site of ribosome synthesis inside the nucleus.
+Mitochondria are the 'powerhouses' of the cell, generating ATP through cellular respiration.
+Mitochondria have their own DNA, suggesting an endosymbiotic origin.
+Ribosomes are the sites of protein synthesis.
+The Rough Endoplasmic Reticulum (RER) is studded with ribosomes and modifies proteins.
+The Smooth Endoplasmic Reticulum (SER) is involved in lipid synthesis and detoxification.
+The Golgi apparatus sorts, modifies, and packages proteins for secretion.
+Lysosomes contain digestive enzymes to break down waste materials.
+Peroxisomes break down fatty acids and detoxify harmful substances like hydrogen peroxide.
+The cytoskeleton provides structural support and aids in cell movement.
+Microtubules are composed of tubulin and form the spindle fibers during cell division.
+Microfilaments are composed of actin and are involved in muscle contraction.
+Intermediate filaments help maintain cell shape and anchor organelles.
+Chloroplasts are found in plant cells and are the site of photosynthesis.
+The central vacuole in plants stores water and maintains turgor pressure.
+Cell walls in plants are made of cellulose, providing rigid support.
+Passive transport moves substances across the membrane without energy expenditure.
+Diffusion is the movement of particles from high to low concentration.
+Osmosis is the diffusion of water across a semi-permeable membrane.
+Facilitated diffusion uses carrier proteins to move large or polar molecules.
+Active transport requires energy (ATP) to move substances against a concentration gradient.
+The sodium-potassium pump is a vital active transport mechanism in nerve cells.
+Endocytosis is the process of taking material into the cell by folding the membrane.
+Exocytosis is the process of releasing materials from the cell via vesicles.
+Enzymes are biological catalysts that speed up chemical reactions.
+Substrates bind to the active site of an enzyme to form an enzyme-substrate complex.
+Enzymes follow the 'lock and key' or 'induced fit' models.
+Metabolism is the sum of all chemical reactions in a living organism.
+Anabolism is the set of metabolic pathways that construct molecules from smaller units.
+Catabolism is the set of metabolic pathways that break down molecules into smaller units.
+Adenosine Triphosphate (ATP) is the primary energy currency of the cell.
+Cellular respiration converts biochemical energy from nutrients into ATP.
+Glycolysis occurs in the cytoplasm and breaks glucose into pyruvate.
+The Krebs cycle (Citric Acid Cycle) occurs in the mitochondrial matrix.
+The electron transport chain produces the majority of ATP in aerobic respiration.
+Anaerobic respiration occurs in the absence of oxygen.
+Fermentation produces lactic acid or ethanol as a byproduct of anaerobic respiration.
+Photosynthesis converts light energy into chemical energy stored in glucose.
+The light-dependent reactions of photosynthesis occur in the thylakoid membranes.
+The Calvin cycle (light-independent reactions) occurs in the stroma of chloroplasts.
+DNA (Deoxyribonucleic acid) stores the genetic instructions for life.
+DNA is composed of two strands forming a double helix.
+Nucleotides are the building blocks of DNA: adenine, thymine, cytosine, and guanine.
+Adenine pairs with thymine, and cytosine pairs with guanine in DNA.
+RNA (Ribonucleic acid) is typically single-stranded and contains uracil instead of thymine.
+The central dogma of molecular biology is: DNA -> RNA -> Protein.
+Transcription is the process of copying DNA into messenger RNA (mRNA).
+Translation is the process where ribosomes synthesize proteins using mRNA templates.
+Transfer RNA (tRNA) brings amino acids to the ribosome during translation.
+Codons are triplets of nucleotides on mRNA that code for specific amino acids.
+The genetic code is universal and redundant.
+Mutations are permanent changes in the DNA sequence.
+Point mutations involve the change of a single nucleotide.
+Frameshift mutations result from insertions or deletions of nucleotides.
+Mitosis is the division of the nucleus resulting in two genetically identical daughter cells.
+Prophase is the first stage of mitosis where chromosomes condense.
+Metaphase is when chromosomes align at the cell's equator.
+Anaphase is when sister chromatids are pulled apart to opposite poles.
+Telophase is when new nuclear envelopes form around the separated chromosomes.
+Cytokinesis is the division of the cytoplasm following mitosis.
+Meiosis is a specialized cell division that produces gametes (sperm and eggs).
+Meiosis reduces the chromosome number by half (diploid to haploid).
+Crossing over during prophase I of meiosis increases genetic diversity.
+Genotype refers to the genetic makeup of an organism.
+Phenotype refers to the observable physical characteristics of an organism.
+Alleles are different versions of a gene.
+Homozygous means having two identical alleles for a gene.
+Heterozygous means having two different alleles for a gene.
+Dominant alleles mask the expression of recessive alleles.
+Mendel’s Law of Segregation states that alleles separate during gamete formation.
+Mendel’s Law of Independent Assortment states that genes for different traits segregate independently.
+Incomplete dominance results in a phenotype that is a blend of the two parents.
+Codominance occurs when both alleles are expressed equally (e.g., AB blood type).
+Polygenic traits are controlled by multiple genes (e.g., skin color, height).
+Sex-linked traits are located on the X or Y chromosomes.
+The Human Genome Project mapped all the genes in human DNA.
+Evolution is the change in the heritable characteristics of biological populations over generations.
+Natural selection is the process where organisms better adapted to their environment tend to survive.
+Charles Darwin is credited with the theory of evolution by natural selection.
+Adaptation is a trait that enhances an organism's fitness in its environment.
+Speciation is the formation of new and distinct species in the course of evolution.
+Homologous structures share a common evolutionary origin (e.g., whale flipper and human arm).
+Analogous structures have similar functions but different origins (e.g., bird wing and insect wing).
+Vestigial structures are remnants of ancestral organs that no longer serve a function.
+The fossil record provides evidence of past life forms and evolutionary transitions.
+Binomial nomenclature is the two-part naming system for species (e.g., Homo sapiens).
+Taxonomy is the science of naming and classifying organisms.
+The three domains of life are Bacteria, Archaea, and Eukarya.
+The six kingdoms of life are Archaebacteria, Eubacteria, Protista, Fungi, Plantae, and Animalia.
+Bacteria are unicellular prokaryotes with cell walls containing peptidoglycan.
+Archaea are unicellular prokaryotes often found in extreme environments.
+Protists are a diverse group of mostly unicellular eukaryotes.
+Fungi are heterotrophic eukaryotes that absorb nutrients from decomposing organic matter.
+Plants are autotrophic multicellular eukaryotes that perform photosynthesis.
+Animals are heterotrophic multicellular eukaryotes that usually move and respond to stimuli.
+Homeostasis is the maintenance of a stable internal environment despite external changes.
+Negative feedback loops counteract changes to maintain equilibrium (e.g., temperature regulation).
+Positive feedback loops amplify a response (e.g., blood clotting or childbirth).
+Tissues are groups of similar cells working together to perform a function.
+The four types of animal tissues are epithelial, connective, muscle, and nervous.
+Epithelial tissue covers body surfaces and lines cavities.
+Connective tissue supports and binds other tissues (e.g., bone, blood, fat).
+Muscle tissue is specialized for contraction and movement.
+Nervous tissue transmits electrical signals throughout the body.
+Organs are structures composed of multiple tissue types working together.
+Organ systems are groups of organs that coordinate to perform major functions.
+The circulatory system transports oxygen, nutrients, and waste products.
+The respiratory system facilitates gas exchange (O2 in, CO2 out).
+The digestive system breaks down food into absorbable nutrients.
+The excretory system removes metabolic wastes from the body.
+The nervous system controls body activities through electrical impulses.
+The endocrine system regulates body functions through hormones.
+The skeletal system provides support, protection, and a site for blood cell production.
+The muscular system enables movement and maintains posture.
+The immune system protects the body against pathogens.
+The lymphatic system drains excess fluid and aids in immune response.
+The reproductive system produces offspring.
+Viruses are non-living infectious agents consisting of genetic material inside a protein coat.
+Bacteriophages are viruses that infect bacteria.
+The lytic cycle of a virus results in the destruction of the host cell.
+The lysogenic cycle involves the viral genome integrating into the host DNA.
+Vaccines stimulate the immune system to recognize and fight specific pathogens.
+Antibiotics are drugs used to treat bacterial infections; they do not work on viruses.
+Antigens are foreign substances that trigger an immune response.
+Antibodies are proteins produced by B cells to neutralize antigens.
+Pathogens are biological agents that cause disease.
+Zoonotic diseases are those that jump from animals to humans.
+Ecology is the study of interactions between organisms and their environment.
+An ecosystem includes all living organisms and non-living factors in an area.
+A population is a group of individuals of the same species in a specific area.
+A community consists of all the different populations in an ecosystem.
+The biosphere is the global sum of all ecosystems.
+Abiotic factors are non-living components (e.g., sunlight, temperature, soil).
+Biotic factors are living components (e.g., plants, animals, bacteria).
+A niche is the role and position a species has in its environment.
+Symbiosis is a close relationship between two different species.
+Mutualism is a relationship where both species benefit.
+Commensalism is where one species benefits and the other is unaffected.
+Parasitism is where one species benefits at the expense of the other.
+Producers (autotrophs) form the base of the food chain.
+Consumers (heterotrophs) obtain energy by eating other organisms.
+Decomposers break down dead organic matter, recycling nutrients.
+Trophic levels represent the feeding positions in a food chain.
+Only about 10% of energy is transferred from one trophic level to the next.
+Biomagnification is the increasing concentration of toxic substances in higher trophic levels.
+The nitrogen cycle involves nitrogen fixation, nitrification, and denitrification.
+The carbon cycle moves carbon through the atmosphere, biosphere, and geosphere.
+The water cycle includes evaporation, condensation, precipitation, and transpiration.
+Biodiversity refers to the variety of life in an area.
+Invasive species are non-native organisms that disrupt local ecosystems.
+Carrying capacity is the maximum population size an environment can support.
+Succession is the gradual process of change in an ecosystem over time.
+Primary succession occurs in an area with no soil (e.g., after a volcanic eruption).
+Secondary succession occurs after a disturbance that leaves soil intact (e.g., after a fire).
+Stem cells are undifferentiated cells that can develop into specialized cell types.
+Pluripotent stem cells can give rise to almost any cell type in the body.
+Apoptosis is essential for normal development, such as the removal of webbing between fingers.
+Pheromones are chemical signals used for communication within a species.
+The Hardy-Weinberg equilibrium describes a non-evolving population.
+Gene flow is the transfer of alleles between populations.
+Genetic drift is a change in allele frequency due to chance events.
+The bottleneck effect occurs when a population size is drastically reduced.
+The founder effect occurs when a small group starts a new population.
+Polyploidy is the condition of having more than two complete sets of chromosomes.
+Telomeres are protective caps at the ends of chromosomes.
+Histones are proteins that help package DNA into structural units called nucleosomes.
+Plasmids are small, circular DNA molecules found in bacteria.
+Gel electrophoresis is a technique used to separate DNA fragments by size.
+PCR (Polymerase Chain Reaction) is used to amplify small segments of DNA.
+Cloning produces genetically identical copies of a biological entity.
+CRISPR-Cas9 is a revolutionary gene-editing technology.
+Transgenic organisms contain DNA from a different species.
+Metamorphosis is a biological process involving a conspicuous change in body structure (e.g., tadpole to frog).
+Ectotherms rely on external heat sources to regulate body temperature.
+Endotherms generate internal heat to maintain a constant body temperature.
+Xylem transports water and minerals from roots to leaves in plants.
+Phloem transports sugars from leaves to the rest of the plant.
+Stomata are small openings on leaves that allow for gas exchange.
+Transpiration is the loss of water vapor from plant leaves.
+Phototropism is the growth of a plant toward a light source.
+Geotropism (gravitropism) is a plant's growth response to gravity.
+Germination is the process by which a seed develops into a new plant.
+Pollination is the transfer of pollen from the male to female reproductive organs in plants.
+Double fertilization is a complex fertilization process unique to flowering plants.
+Hermaphrodites are organisms that possess both male and female reproductive organs.
+Parthenogenesis is a form of asexual reproduction where embryos develop without fertilization.
+Gastrulation is a phase in early embryonic development where the blastula reorganizes into three layers.
+The ectoderm, mesoderm, and endoderm are the three primary germ layers.
+Organogenesis is the process of organ formation during embryonic development.
+The placenta allows for nutrient and waste exchange between mother and fetus.
+Amphibians are vertebrates that typically spend part of their life in water and part on land.
+Reptiles are vertebrates with scaly skin that usually lay leathery eggs.
+Mammals are characterized by the presence of mammary glands and hair or fur.
+Primate characteristics include opposable thumbs and large brains.
+Homo sapiens evolved in Africa approximately 300,000 years ago.
+Altruism in biology is behavior that increases the fitness of another at a cost to oneself.
+Circadian rhythms are physical, mental, and behavioral changes that follow a 24-hour cycle.
+Bioluminescence is the production of light by a living organism.
+Hemoglobin is a protein in red blood cells that carries oxygen.
+Chlorophyll is the primary pigment used in photosynthesis.
+The myelin sheath insulates nerve fibers and increases the speed of electrical impulses.
+Synapses are the junctions between nerve cells where communication occurs.
+The blood-brain barrier protects the brain from harmful substances in the blood.
+Prions are misfolded proteins that can cause infectious diseases.
+Viroids are infectious agents composed solely of short strands of circular RNA.
+Antigenic drift is a small genetic change in a virus over time.
+Antigenic shift is a major, abrupt change in a virus, often leading to pandemics.
+The lymphatic system includes the spleen, thymus, and lymph nodes.
+B cells produce antibodies as part of the humoral immune response.
+T cells are involved in the cell-mediated immune response.
+Phagocytosis is the process by which certain cells engulf and digest large particles.
+Interferons are proteins produced by cells in response to viral infections.
+Complement system is a group of proteins that enhance the ability of antibodies to clear pathogens.
+Active immunity results from exposure to a pathogen or vaccine.
+Passive immunity is the short-term immunity resulting from the introduction of antibodies from another person.
+Autoimmune diseases occur when the immune system mistakenly attacks body tissues.
+Allergies are hypersensitive responses to harmless environmental substances.
+Histamine is a chemical released during allergic reactions that causes inflammation.
+Anaphylactic shock is a severe, life-threatening allergic reaction.
+Blood types are determined by the presence or absence of specific antigens on red blood cells.
+Type O negative blood is known as the universal donor.
+Type AB positive blood is known as the universal recipient.
+The Rh factor is another antigen found on red blood cells.
+Hematopoiesis is the process of blood cell formation in the bone marrow.
+Plasma makes up about 55% of total blood volume.
+Platelets (thrombocytes) are essential for blood clotting.
+Fibrinogen is a plasma protein that is converted to fibrin during clotting.
+Leukocytes (white blood cells) are the primary cells of the immune system.
+Neutrophils are the most abundant type of white blood cell.
+Monocytes can differentiate into macrophages in tissues.
+Eosinophils are involved in fighting parasitic infections.
+Basophils release histamine and heparin.
+The aorta is the largest artery in the human body.
+Capillaries are the smallest blood vessels where gas exchange occurs.
+Veins contain valves to prevent the backflow of blood.
+The sinoatrial (SA) node is the natural pacemaker of the heart.
+Systole is the phase of the heartbeat when the heart muscle contracts.
+Diastole is the phase when the heart muscle relaxes and fills with blood.
+Blood pressure is measured as systolic over diastolic pressure.
+The pulmonary artery carries deoxygenated blood to the lungs.
+The pulmonary vein carries oxygenated blood back to the heart.
+Alveoli are tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged.
+The diaphragm contracts to expand the chest cavity, pulling air into the lungs.
+Vital capacity is the maximum amount of air a person can expel from the lungs.
+Tidal volume is the amount of air inhaled or exhaled during a normal breath.
+The epiglottis prevents food from entering the trachea during swallowing.
+Peristalsis is the wave-like muscle contractions that move food through the digestive tract.
+The stomach secretes hydrochloric acid and pepsin to digest proteins.
+Villi and microvilli in the small intestine increase surface area for absorption.
+The liver produces bile, which emulsifies fats.
+The gallbladder stores and concentrates bile.
+The pancreas secretes digestive enzymes and insulin.
+The large intestine absorbs water and forms feces.
+The kidneys filter blood to remove waste and regulate water balance.
+Nephrons are the functional units of the kidney.
+Glomerular filtration is the first step in urine formation.
+Antidiuretic hormone (ADH) regulates the amount of water reabsorbed by the kidneys.
+The ureters carry urine from the kidneys to the bladder.
+The urethra is the tube through which urine exits the body.
+Pituitary gland is the 'master gland' that controls other endocrine glands.
+The hypothalamus links the nervous system to the endocrine system.
+Thyroid hormones regulate the body's metabolic rate.
+Insulin lowers blood glucose, while glucagon raises it.
+Adrenaline (epinephrine) triggers the fight-or-flight response.
+Cortisol is a stress hormone that helps regulate metabolism and inflammation.
+Estrogen and testosterone are primary sex hormones.
+Melatonin regulates sleep-wake cycles.
+Dopamine is a neurotransmitter involved in reward and motivation.
+Serotonin helps regulate mood and social behavior.
+The central nervous system consists of the brain and spinal cord.
+The peripheral nervous system includes all nerves outside the CNS.
+Sensory neurons carry signals from receptors to the CNS.
+Motor neurons carry signals from the CNS to muscles or glands.
+The cerebrum is the largest part of the brain, responsible for higher functions.
+The cerebellum coordinates movement and balance.
+The brainstem controls basic life functions like breathing and heart rate.
+The corpus callosum connects the left and right hemispheres of the brain.
+Action potentials are the electrical signals that travel along axons.
+The refractory period is the time after a nerve impulse when another cannot be triggered.
+Reflexes are rapid, involuntary responses to stimuli.
+The somatic nervous system controls voluntary movements.
+The autonomic nervous system regulates involuntary functions.
+The sympathetic nervous system prepares the body for stress.
+The parasympathetic nervous system promotes 'rest and digest' activities.
+Photoreceptors in the eye include rods (light sensitivity) and cones (color vision).
+The cochlea in the inner ear converts sound waves into nerve impulses.
+Olfactory receptors detect smell, and gustatory receptors detect taste.
+Proprioception is the sense of the relative position of one's own body parts.
+Nociceptors are sensory receptors that respond to painful stimuli.
+Cartilage is a flexible connective tissue found in joints and ears.
+Ligaments connect bone to bone.
+Tendons connect muscle to bone.
+Red bone marrow produces blood cells, while yellow marrow stores fat.
+Osteoblasts build new bone tissue.
+Osteoclasts break down bone tissue for remodeling.
+The axial skeleton includes the skull, vertebral column, and rib cage.
+The appendicular skeleton includes the limbs and girdles.
+Antagonistic muscle pairs work in opposition (e.g., biceps and triceps).
+The sliding filament theory explains how muscles contract.
+Creatine phosphate provides a quick source of energy for muscle contraction.
+Lactic acid buildup can lead to muscle fatigue during intense exercise.
+The dermis is the thick layer of skin below the epidermis.
+Melanocytes produce melanin, which protects the skin from UV radiation.
+Sebaceous glands produce oil (sebum) to lubricate the skin.
+Sweat glands help regulate body temperature through evaporation.
+Keratin is a tough protein found in skin, hair, and nails.
+Meiosis occurs in the gonads (testes and ovaries).
+Fertilization usually occurs in the fallopian tubes.
+A zygote is a single cell formed by the fusion of sperm and egg.
+The blastocyst is an early-stage embryo that implants in the uterus.
+Differentiation is the process by which cells become specialized.
+Hox genes control the body plan and organ development in embryos.
+Aging is a complex process involving cellular damage and telomere shortening.
+Telomerase is an enzyme that can lengthen telomeres, often active in cancer cells.
+Cancer is characterized by uncontrolled cell growth and division.
+Oncogenes are genes that have the potential to cause cancer when mutated.
+Tumor suppressor genes normally inhibit cell division.
+P53 is a crucial protein that monitors DNA damage and can trigger apoptosis.
+Genomics is the study of the entire genome of an organism.
+Proteomics is the study of the entire set of proteins produced by an organism.
+Bioinformatics uses computer science to analyze biological data.
+Synthetic biology involves redesigning organisms for useful purposes.
+Ecosystem services are benefits humans receive from nature (e.g., pollination).
+Sustainable development aims to meet current needs without compromising future generations.
+Global warming is primarily caused by an increase in greenhouse gases like CO2.
+Ocean acidification is caused by excess CO2 dissolving in seawater.
+Eutrophication is an overgrowth of algae due to excess nutrients in water.
+Conservation biology focuses on protecting endangered species and habitats.
+Endemic species are found only in one specific geographic area.
+The Gaia hypothesis suggests that Earth and its biological systems behave as a single entity.
+Microevolution refers to small-scale changes in allele frequencies within a population.
+Macroevolution refers to large-scale evolutionary patterns and processes.
+Adaptive radiation is the rapid evolution of many species from a common ancestor.
+Coevolution occurs when two species influence each other's evolution.
+Sexual selection is a mode of natural selection where individuals choose mates.
+Punctuated equilibrium suggests evolution occurs in rapid bursts followed by stability.
+Phylogenetic trees represent the evolutionary relationships between organisms.
+Cladistics is a method of classification based on shared derived characteristics.
+The RNA world hypothesis suggests that RNA preceded DNA as the genetic material.
+The Miller-Urey experiment demonstrated that organic molecules could form from inorganic precursors.
+Biological molecules follow the laws of physics and chemistry.
+Structure and function are fundamentally linked at every level of biological organization.

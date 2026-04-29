@@ -21,10 +21,12 @@ def teach_AI(self, user_text):
         batch = all_sentences[i : i + batch_size]
         
         new_sentences = []
+        seen_in_batch = set()
         for s in batch:
             fact_id = hashlib.sha1(s.encode()).hexdigest()
-            if not self.memory.get(ids=[fact_id])["ids"]:
+            if not self.memory.get(ids=[fact_id])["ids"] and fact_id not in seen_in_batch:
                 new_sentences.append(s)
+                seen_in_batch.add(fact_id)
             else:
                 already_known_count += 1
         
@@ -153,7 +155,7 @@ def forget_facts(self, user_text):
     self.facts_learned = max(0, self.facts_learned - 1)
     
     try:
-        json_output = self.extract_entities_and_relationships(text)
+        json_output = self.extract_entities_and_relationships([text])
         data = json.loads(json_output)
         
         entities = data.get("entities", [])

@@ -1,0 +1,311 @@
+There are 20 standard amino acids used by cells to synthesize proteins.
+Essential amino acids cannot be synthesized by the body and must be obtained from the diet.
+Peptide bonds link amino acids together through a dehydration synthesis reaction.
+The primary structure of a protein is its unique sequence of amino acids.
+Secondary structure refers to local folding patterns like alpha helices and beta-pleated sheets.
+Tertiary structure is the overall three-dimensional shape of a single polypeptide chain.
+Quaternary structure results from the aggregation of two or more polypeptide subunits (e.g., hemoglobin).
+Denaturation is the loss of a protein's native structure due to heat, pH changes, or chemicals.
+Chaperonin proteins assist in the proper folding of other proteins.
+Enzymes lower the activation energy required for a chemical reaction to proceed.
+Competitive inhibitors bind to the active site of an enzyme, blocking the substrate.
+Non-competitive inhibitors bind to an allosteric site, changing the enzyme's shape.
+Coenzymes are organic molecules, often derived from vitamins, that assist enzyme function.
+Cofactors are inorganic ions like magnesium or iron that are required for enzyme activity.
+The induced fit model describes how an enzyme changes shape slightly to bind its substrate more firmly.
+Saturated fatty acids have no double bonds between carbon atoms and are typically solid at room temperature.
+Unsaturated fatty acids have one or more double bonds, creating kinks in the chain.
+Phospholipids are amphipathic, meaning they have a hydrophilic head and hydrophobic tails.
+Steroids are lipids characterized by a carbon skeleton with four fused rings (e.g., cholesterol).
+Glycogen is the primary storage polysaccharide in animals, found in liver and muscle cells.
+Starch is the primary storage polysaccharide in plants.
+Chitin is a structural polysaccharide found in fungal cell walls and arthropod exoskeletons.
+Nucleosides consist of a nitrogenous base and a five-carbon sugar, lacking a phosphate group.
+DNA replication is semi-conservative, meaning each new helix contains one old and one new strand.
+Helicase is the enzyme that unwinds the DNA double helix at the replication fork.
+DNA polymerase adds nucleotides to the growing DNA strand in the 5' to 3' direction.
+The leading strand is synthesized continuously toward the replication fork.
+The lagging strand is synthesized discontinuously in short segments called Okazaki fragments.
+DNA ligase joins Okazaki fragments together on the lagging strand.
+Primase synthesizes a short RNA primer to start DNA replication.
+Topoisomerase relieves the over-winding strain ahead of the replication fork.
+Telomerase adds repetitive sequences to the ends of chromosomes to prevent shortening.
+RNA polymerase binds to a promoter sequence to initiate transcription.
+Introns are non-coding regions of a gene that are spliced out of the primary mRNA transcript.
+Exons are the coding regions of a gene that are joined together to form mature mRNA.
+The 5' cap and poly-A tail protect mRNA from degradation and aid in ribosome binding.
+Alternative splicing allows one gene to code for multiple different proteins.
+The A, P, and E sites on a ribosome facilitate the binding of tRNA during translation.
+Polysomes are groups of ribosomes translating the same mRNA molecule simultaneously.
+Operons are clusters of genes with related functions controlled by a single promoter in prokaryotes.
+The lac operon is an inducible system regulated by the presence of lactose.
+The trp operon is a repressible system regulated by the levels of tryptophan.
+Transcription factors are proteins that help switch genes 'on' or 'off'.
+Epigenetics involves changes in gene expression that do not alter the DNA sequence itself.
+DNA methylation generally suppresses gene transcription.
+Histone acetylation usually promotes a more open chromatin structure and active transcription.
+MicroRNAs (miRNAs) are small RNA molecules that can silence gene expression by binding to mRNA.
+The proteome is the entire set of proteins expressed by a cell or organism at a given time.
+Signal transduction pathways convert extracellular signals into specific cellular responses.
+G protein-coupled receptors (GPCRs) are the largest family of cell-surface receptors.
+Second messengers like cAMP and calcium ions relay signals inside the cell.
+Protein kinases add phosphate groups to proteins (phosphorylation) to activate or inhibit them.
+Protein phosphatases remove phosphate groups from proteins (dephosphorylation).
+Apoptosis can be triggered by internal signals (DNA damage) or external death ligands.
+Cyclins and cyclin-dependent kinases (CDKs) regulate the progression of the cell cycle.
+The G1 checkpoint ensures the cell is ready for DNA synthesis.
+The G2 checkpoint ensures DNA replication is complete and accurate before mitosis.
+The M checkpoint ensures all chromosomes are properly attached to the spindle.
+Cancer cells often ignore cell cycle checkpoints and lack density-dependent inhibition.
+Mendel's 'factors' are now known as genes located on chromosomes.
+A testcross involves crossing an individual with a dominant phenotype with a homozygous recessive individual.
+The recombination frequency between two genes depends on their distance from each other on a chromosome.
+Genes located very close together on the same chromosome are called linked genes.
+A linkage map shows the relative positions of genes based on recombination frequencies.
+Nondisjunction is the failure of chromosomes to separate properly during meiosis.
+Aneuploidy is the condition of having an abnormal number of a particular chromosome.
+Trisomy 21 (Down syndrome) is the most common autosomal aneuploidy in humans.
+Klinefelter syndrome (XXY) results in a male with an extra X chromosome.
+Turner syndrome (X0) results in a sterile female with only one X chromosome.
+Polyploidy is common in plants and often results in larger, more robust organisms.
+Cytoplasmic inheritance involves genes found in mitochondria or chloroplasts, usually inherited from the mother.
+The endosymbiotic theory explains the origin of eukaryotes from prokaryotic ancestors.
+Molecular clocks use the rate of mutations in DNA to estimate the time of evolutionary divergence.
+Horizontal gene transfer is the movement of genetic material between different species (common in bacteria).
+Transformation is the uptake of foreign DNA from the environment by a bacterial cell.
+Transduction is the transfer of bacterial DNA from one cell to another via a virus.
+Conjugation is the direct transfer of DNA between two bacterial cells through a pilus.
+Reverse transcriptase is an enzyme used by retroviruses to turn RNA into DNA.
+Restriction enzymes cut DNA at specific recognition sequences (palindromes).
+Sticky ends are single-stranded overhangs produced by some restriction enzymes.
+Plasmids used in biotechnology often contain an antibiotic resistance gene as a selectable marker.
+The polymerase chain reaction (PCR) involves cycles of denaturation, annealing, and extension.
+Taq polymerase is a heat-stable DNA polymerase used in PCR.
+DNA sequencing determines the exact order of nucleotides in a DNA molecule.
+Genomics focuses on the structure, function, and evolution of whole genomes.
+Proteomics analyzes the patterns of protein expression and interaction.
+Bioinformatics applies computational tools to biological data analysis.
+Metagenomics is the study of genetic material recovered directly from environmental samples.
+The microbiome is the collection of all microorganisms living in a particular environment (like the human gut).
+Photosynthesis consists of the light reactions and the Calvin cycle.
+Chlorophyll a is the main photosynthetic pigment, absorbing blue-violet and red light.
+Accessory pigments like chlorophyll b and carotenoids expand the spectrum of light used.
+Photosystem II splits water molecules to release electrons, protons, and oxygen.
+The proton gradient generated during the light reactions drives ATP synthesis (chemiosmosis).
+NADPH is the electron carrier produced during the light reactions.
+The Calvin cycle uses ATP and NADPH to convert CO2 into G3P (a sugar precursor).
+Rubisco is the enzyme that catalyzes the first step of carbon fixation in the Calvin cycle.
+C3 plants fix CO2 directly into a three-carbon compound.
+C4 plants minimize photorespiration by fixing CO2 into a four-carbon compound in separate cells.
+CAM plants open their stomata at night to take up CO2, storing it as an organic acid for daytime use.
+Xylem consists of tracheids and vessel elements which are dead at maturity.
+Phloem consists of sieve-tube elements and companion cells which are living at maturity.
+The cohesion-tension hypothesis explains how water is pulled up through the xylem.
+Translocation is the transport of organic nutrients through the phloem from source to sink.
+The pressure-flow hypothesis explains the movement of sap in the phloem.
+Nitrogen-fixing bacteria in root nodules convert atmospheric N2 into ammonia for plants.
+Mycorrhizae are symbiotic associations between fungi and plant roots that enhance nutrient uptake.
+Plant hormones (phytohormones) include auxins, gibberellins, cytokinins, abscisic acid, and ethylene.
+Auxins promote cell elongation and are responsible for phototropism.
+Ethylene is a gaseous hormone that triggers fruit ripening and leaf abscission.
+Abscisic acid (ABA) promotes seed dormancy and stomatal closure during drought.
+Gibberellins stimulate stem elongation and seed germination.
+Cytokinins promote cell division and delay leaf senescence.
+Photoperiodism is a plant's response to the relative lengths of day and night.
+Short-day plants flower when the night length exceeds a critical threshold.
+Long-day plants flower when the night length is shorter than a critical threshold.
+Phytochromes are light-sensitive pigments that regulate a plant's circadian rhythms.
+Invertebrates are animals that lack a backbone, making up 95% of animal species.
+Sponges (Porifera) are basal animals that lack true tissues.
+Cnidarians (jellyfish, corals) exhibit radial symmetry and have stinging cells called cnidocytes.
+Flatworms (Platyhelminthes) are acoelomate and have bilateral symmetry.
+Nematodes (roundworms) are pseudocoelomate and have a complete digestive tract.
+Mollusks have a muscular foot, a visceral mass, and a mantle.
+Annelids are segmented worms, including earthworms and leeches.
+Arthropods have segmented bodies, hard exoskeletons, and jointed appendages.
+Echinoderms (starfish, sea urchins) have a water vascular system and radial symmetry as adults.
+Chordates are defined by a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail.
+Craniates are chordates that have a head.
+Vertebrates are craniates that have a backbone.
+Gnathostomes are vertebrates that have jaws.
+Tetrapods are gnathostomes that have four limbs.
+Amniotes are tetrapods that have a terrestrially adapted egg (reptiles, birds, mammals).
+Ectotherms regulate body temperature through behavioral means.
+Endotherms use metabolic heat to maintain a stable internal temperature.
+Monotremes are egg-laying mammals (e.g., platypus).
+Marsupials are mammals whose young complete development in a pouch.
+Eutherians are placental mammals.
+Tissues are organized into organs, which are organized into organ systems.
+Interstitial fluid surrounds cells and facilitates exchange with the blood.
+Homeostasis often relies on negative feedback to return a system to its set point.
+Thermoregulation is the process by which animals maintain an internal temperature within a tolerable range.
+Basal metabolic rate (BMR) is the metabolic rate of a resting, fasting, non-stressed endotherm.
+Standard metabolic rate (SMR) is the metabolic rate of a resting, fasting, non-stressed ectotherm at a specific temperature.
+Torpor is a state of low activity and decreased metabolism that allows animals to save energy.
+Hibernation is long-term torpor that is an adaptation to winter cold and food scarcity.
+Estivation is summer torpor, an adaptation to high temperatures and scarce water.
+Essential nutrients include essential amino acids, essential fatty acids, vitamins, and minerals.
+Vitamins are organic molecules required in small amounts (water-soluble vs.
+fat-soluble).
+Minerals are simple inorganic nutrients, such as calcium and phosphorus.
+Intracellular digestion occurs inside food vacuoles after endocytosis.
+Extracellular digestion occurs in compartments continuous with the outside of the body.
+The alimentary canal is a complete digestive tract with a mouth and an anus.
+Salivary amylase begins the chemical digestion of carbohydrates in the mouth.
+The stomach converts food into a liquid mixture called chyme.
+Pepsin is an enzyme in the stomach that begins protein digestion.
+Bile, produced by the liver, emulsifies fats in the small intestine.
+The small intestine is the major site of both chemical digestion and nutrient absorption.
+The large intestine (colon) primarily functions in water reabsorption and waste elimination.
+Ruminants have specialized stomachs with multiple chambers to digest cellulose using symbiotic bacteria.
+Open circulatory systems allow hemolymph to bathe organs directly.
+Closed circulatory systems confine blood to vessels, distinct from interstitial fluid.
+Arteries carry blood away from the heart; veins carry blood toward the heart.
+Capillaries are the sites of exchange between blood and tissues.
+Double circulation in mammals involves pulmonary and systemic circuits.
+The right atrium receives deoxygenated blood from the body.
+The left ventricle pumps oxygenated blood into the systemic circuit via the aorta.
+Cardiac output is the volume of blood pumped per minute by each ventricle.
+Heart valves prevent the backflow of blood.
+The lymphatic system returns leaked fluid and proteins to the circulatory system.
+Erythrocytes (red blood cells) lack nuclei in mammals to maximize space for hemoglobin.
+Leukocytes (white blood cells) function in defense and immunity.
+Platelets are fragments of cells involved in blood clotting.
+Gas exchange occurs by diffusion across moist respiratory surfaces.
+Gills use countercurrent exchange to maximize oxygen uptake from water.
+The tracheal system in insects delivers oxygen directly to body cells.
+Lungs are localized respiratory organs in most terrestrial vertebrates.
+Negative pressure breathing in mammals pulls air into the lungs.
+Hemoglobin binds oxygen cooperatively; the binding of one O2 increases the affinity for others.
+The Bohr shift is a decrease in hemoglobin's affinity for O2 in response to low pH (high CO2).
+Carbon dioxide is mostly transported in the blood as bicarbonate ions.
+Innate immunity provides broad, non-specific protection against pathogens.
+Acquired (adaptive) immunity is highly specific and involves memory cells.
+Phagocytic cells like macrophages and neutrophils ingest and destroy pathogens.
+Natural killer (NK) cells identify and kill infected or cancerous body cells.
+The inflammatory response involves the release of histamine and increased blood flow to an injury site.
+B cells mature in the bone marrow and are central to the humoral immune response.
+T cells mature in the thymus and are central to the cell-mediated immune response.
+An antigen is any substance that elicits a response from a B or T cell.
+MHC (Major Histocompatibility Complex) molecules present antigen fragments on the cell surface.
+Clonal selection produces effector cells (plasma cells) and memory cells.
+Primary immune response occurs on the first exposure to an antigen.
+Secondary immune response is faster and more robust due to memory cells.
+Passive immunity is the transfer of antibodies (e.g., from mother to fetus).
+Allergies are exaggerated (hypersensitive) responses to antigens called allergens.
+Autoimmune diseases occur when the immune system loses self-tolerance.
+Osmoregulation is the control of solute concentrations and water balance.
+Excretion is the removal of nitrogenous metabolites and other waste products.
+Ammonia is a highly toxic nitrogenous waste excreted mostly by aquatic animals.
+Urea is a less toxic nitrogenous waste produced by mammals and adult amphibians.
+Uric acid is an insoluble, non-toxic waste excreted by birds, insects, and reptiles.
+The nephron is the functional unit of the vertebrate kidney.
+Filtration occurs in the glomerulus and Bowman's capsule.
+Reabsorption and secretion occur in the proximal tubule, loop of Henle, and distal tubule.
+The loop of Henle is essential for creating a concentration gradient in the renal medulla.
+Antidiuretic hormone (ADH) increases water reabsorption in the collecting ducts.
+Hormones are chemical signals that travel through the bloodstream to target cells.
+Water-soluble hormones bind to cell-surface receptors.
+Lipid-soluble hormones (like steroids) pass through the cell membrane and bind to intracellular receptors.
+The hypothalamus regulates the anterior pituitary through releasing and inhibiting hormones.
+The posterior pituitary stores and releases oxytocin and ADH produced by the hypothalamus.
+Thyroid hormones (T3 and T4) regulate metabolism and development.
+Parathyroid hormone (PTH) increases blood calcium levels.
+Calcitonin (from the thyroid) decreases blood calcium levels.
+Insulin (from the pancreas) lowers blood glucose levels.
+Glucagon (from the pancreas) raises blood glucose levels.
+The adrenal medulla secretes epinephrine and norepinephrine in response to short-term stress.
+The adrenal cortex secretes corticosteroids in response to long-term stress.
+Asexual reproduction produces genetically identical offspring (fission, budding, fragmentation).
+Sexual reproduction involves the fusion of haploid gametes to form a diploid zygote.
+Hermaphroditism is a condition where an individual has both male and female reproductive systems.
+External fertilization occurs when eggs are shed by the female and fertilized by the male in the environment.
+Internal fertilization occurs when sperm are deposited in or near the female reproductive tract.
+Spermatogenesis is the continuous production of sperm in the testes.
+Oogenesis is the development of a mature egg, a prolonged and interrupted process.
+The ovarian cycle includes the follicular phase, ovulation, and the luteal phase.
+The uterine (menstrual) cycle involves the thickening and shedding of the endometrium.
+GnRH from the hypothalamus triggers the release of FSH and LH from the anterior pituitary.
+FSH and LH stimulate the gonads to produce sex hormones and gametes.
+The placenta facilitates the exchange of nutrients and wastes between mother and fetus.
+Neurons are the structural and functional units of the nervous system.
+Dendrites receive signals; axons transmit signals to other cells.
+The resting potential of a neuron is typically around -70 mV.
+Action potentials are all-or-none electrical signals that travel down the axon.
+Depolarization is an increase in membrane potential (less negative).
+Hyperpolarization is a decrease in membrane potential (more negative).
+The myelin sheath, made by Schwann cells or oligodendrocytes, speeds up nerve impulses.
+Saltatory conduction is the 'jumping' of an action potential between nodes of Ranvier.
+Neurotransmitters are chemical messengers that cross the synaptic cleft.
+Excitatory postsynaptic potentials (EPSPs) depolarize the postsynaptic membrane.
+Inhibitory postsynaptic potentials (IPSPs) hyperpolarize the postsynaptic membrane.
+The central nervous system (CNS) consists of the brain and spinal cord.
+The peripheral nervous system (PNS) consists of cranial and spinal nerves.
+The autonomic nervous system regulates the internal environment involuntarily.
+The sympathetic division prepares the body for 'fight or flight'.
+The parasympathetic division promotes 'rest and digest' functions.
+The cerebral cortex is the outer layer of the cerebrum, responsible for higher processing.
+The limbic system is involved in emotion, motivation, and memory.
+The hippocampus is critical for the formation of new memories.
+Neural plasticity is the ability of the nervous system to change in response to experience.
+Sensory receptors convert stimuli into changes in membrane potential (transduction).
+Mechanoreceptors respond to physical deformation (touch, pressure, sound).
+Chemoreceptors respond to specific chemical concentrations (smell, taste).
+Electromagnetic receptors detect light, electricity, or magnetism.
+Thermoreceptors respond to heat or cold.
+Nociceptors are pain receptors that detect harmful stimuli.
+The human eye focuses by changing the shape of the lens (accommodation).
+Rods are highly sensitive to light; cones provide color vision.
+The gustatory system (taste) detects sweet, sour, salty, bitter, and umami.
+Skeletal muscle consists of bundles of muscle fibers containing myofibrils.
+Sarcomeres are the basic contractile units of skeletal muscle.
+The sliding-filament model describes muscle contraction involving actin and myosin.
+Calcium ions and the troponin-tropomyosin complex regulate muscle contraction.
+Motor units consist of a single motor neuron and all the muscle fibers it controls.
+Oxidative muscle fibers rely on aerobic respiration; glycolytic fibers rely on glycolysis.
+Fixed action patterns are innate, unchangeable behaviors triggered by a sign stimulus.
+Imprinting is a type of learning with a sensitive period, often involving a parent-offspring bond.
+Spatial learning is the establishment of a memory that reflects the environment's spatial structure.
+Associative learning is the ability to associate one environmental feature with another.
+Social learning is learning through the observation of others.
+Altruism can be explained by kin selection, which enhances the reproductive success of relatives.
+Inclusive fitness is the total effect an individual has on proliferating its genes.
+Ecology study levels: organismal, population, community, ecosystem, landscape, and global.
+Climate is the long-term prevailing weather conditions in a given area.
+Biomes are major life zones characterized by vegetation type or physical environment.
+Density-dependent factors (like disease) limit population growth more as density increases.
+Density-independent factors (like weather) limit population regardless of density.
+Exponential growth (J-shaped curve) occurs under ideal conditions with unlimited resources.
+Logistic growth (S-shaped curve) occurs as population growth levels off at the carrying capacity (K).
+R-selection (opportunistic) favors high reproductive rates in unstable environments.
+K-selection (equilibrial) favors competitive ability in stable environments near carrying capacity.
+Interspecific interactions include competition, predation, herbivory, and symbiosis.
+The competitive exclusion principle states that two species with the same niche cannot coexist.
+Resource partitioning allows similar species to coexist by using different parts of the niche.
+Cryptic coloration (camouflage) makes prey difficult to see.
+Aposematic coloration (warning) warns predators that prey is toxic or dangerous.
+Batesian mimicry is when a harmless species mimics a harmful one.
+Mullerian mimicry is when two harmful species mimic each other.
+Species richness is the number of different species in a community.
+Relative abundance is the proportion each species represents of all individuals.
+Keystone species have a disproportionately large effect on their community relative to their abundance.
+Bottom-up control suggests nutrient supply limits higher trophic levels.
+Top-down control (trophic cascade) suggests predators limit lower trophic levels.
+Primary production is the amount of light energy converted to chemical energy by autotrophs.
+Net primary production (NPP) is GPP minus energy used by primary producers for respiration.
+Secondary production is the amount of chemical energy in consumers' food converted to their own new biomass.
+Production efficiency is the percentage of energy stored in assimilated food not used for respiration.
+Trophic efficiency is the percentage of production transferred from one trophic level to the next (usually 10%).
+Biogeochemical cycles involve both biotic and abiotic components.
+Decomposition is faster in warm, moist environments.
+The greenhouse effect is necessary for life but intensified by human activity (global warming).
+The ozone layer protects Earth from harmful UV radiation; it was damaged by CFCs.
+Conservation biology aims to conserve biodiversity at the genetic, species, and ecosystem levels.
+The extinction vortex describes the downward spiral of small populations toward extinction.
+Minimum viable population (MVP) is the smallest size at which a population can sustain itself.
+Biological magnification concentrates toxins at higher trophic levels.
+Restoration ecology uses ecological principles to return degraded ecosystems to a natural state.
+Bioremediation uses organisms (bacteria, plants) to detoxify polluted ecosystems.
+Biological augmentation uses organisms to add essential materials to a degraded ecosystem.
+Sustainable development meets human needs while preserving the environment for the future.
+The tree of life is constantly revised as new molecular data becomes available.

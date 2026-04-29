@@ -1,0 +1,241 @@
+The potassium channel selectivity filter uses carbonyl oxygen atoms to mimic the hydration shell of K+ ions.
+The 'ball-and-chain' model explains the rapid inactivation of voltage-gated sodium channels.
+V(D)J recombination uses RAG1 and RAG2 proteins to create diversity in antibodies and T-cell receptors.
+The 12/23 rule in immunology ensures that gene segments are joined in the correct order during recombination.
+Junctional diversity is added during V(D)J recombination by the enzyme Terminal Deoxynucleotidyl Transferase (TdT).
+Co-translational translocation involves the Signal Recognition Particle (SRP) stalling the ribosome until it reaches the ER.
+The Sec61 complex is the protein-conducting channel (translocon) in the ER membrane.
+N-linked glycosylation starts in the ER with the transfer of a pre-formed 14-sugar oligosaccharide.
+Dolichol phosphate is the lipid carrier used to assemble the precursor oligosaccharide for N-glycosylation.
+The calnexin/calreticulin cycle is a quality control mechanism for protein folding in the ER.
+Retrotranslocation (ERAD) moves misfolded proteins from the ER back to the cytosol for degradation by proteasomes.
+The Unfolded Protein Response (UPR) can trigger apoptosis if ER stress is prolonged.
+COPII-coated vesicles transport cargo from the ER to the Golgi (anterograde).
+COPI-coated vesicles mediate retrograde transport from the Golgi back to the ER.
+Clathrin-coated vesicles are used for endocytosis and transport from the trans-Golgi network.
+Adaptor proteins (APs) select cargo molecules for inclusion in clathrin-coated vesicles.
+Rab proteins are small GTPases that ensure vesicles fuse with the correct target membrane.
+SNARE proteins (v-SNARE and t-SNARE) provide the mechanical force for membrane fusion.
+NSF and alpha-SNAP act to disassemble SNARE complexes after fusion is complete.
+The mannose-6-phosphate (M6P) tag targets proteins specifically to the lysosome.
+Zellweger syndrome is caused by a failure to import proteins into peroxisomes.
+The mitochondrial transit peptide forms an amphipathic alpha-helix for recognition by TOM/TIM complexes.
+TOM (Translocase of the Outer Membrane) and TIM (Inner Membrane) complexes facilitate mitochondrial protein import.
+HSP70 chaperones keep mitochondrial precursor proteins in an unfolded state during transport.
+The electrochemical proton gradient across the inner mitochondrial membrane provides the energy for protein import.
+Nuclear Localization Signals (NLS) are typically rich in basic amino acids like lysine and arginine.
+Importin receptors bind NLS-containing proteins and transport them through the nuclear pore complex.
+The Ran-GTPase cycle provides the directionality for nuclear import and export.
+RCC1 is the Ran-GEF (Guanine nucleotide Exchange Factor) located inside the nucleus.
+Ran-GAP (GTPase Activating Protein) is located in the cytosol, promoting Ran-GTP hydrolysis.
+The nuclear lamina is composed of lamin proteins that provide structural support to the nuclear envelope.
+Progeria is caused by mutations in the Lamin A gene, leading to nuclear instability.
+The TATA-binding protein (TBP) distorts the DNA double helix to facilitate transcription initiation.
+TFIIH possesses both helicase activity for DNA melting and kinase activity to phosphorylate RNA polymerase II.
+The C-terminal domain (CTD) of RNA polymerase II acts as a scaffold for mRNA processing factors.
+7-methylguanosine capping occurs almost immediately after the mRNA emerges from the polymerase.
+The spliceosome's catalytic activity is mediated by snRNAs (U2 and U6), making it a ribozyme.
+Exon junction complexes (EJCs) remain on the mRNA to signal that splicing is complete.
+Nonsense-mediated decay (NMD) degrades mRNAs that contain premature stop codons detected by EJCs.
+The polyadenylation signal (AAUAAA) triggers cleavage of the nascent mRNA and addition of the poly-A tail.
+Poly-A polymerase adds approximately 200 adenine nucleotides to the 3' end without a template.
+Aminoacyl-tRNA synthetases possess a 'proofreading' or editing site to remove incorrectly paired amino acids.
+The ribosome's peptidyl transferase activity is located in the 23S/28S rRNA (large subunit).
+Translation initiation factor eIF4E binds the mRNA cap and is a major target for regulation.
+IRES (Internal Ribosome Entry Sites) allow for cap-independent translation in some viral and cellular mRNAs.
+Circularization of mRNA via PABP and eIF4G interactions enhances translation efficiency.
+The 'wobble' position (3rd base of codon) allows G to pair with U and Inosine to pair with A, C, or U.
+Cyclin D/CDK4/6 phosphorylates the Retinoblastoma (Rb) protein to release the E2F transcription factor.
+The p21 and p27 proteins are CDK inhibitors (CKIs) that halt the cell cycle.
+ATM and ATR kinases detect DNA damage and activate the p53 pathway.
+MDM2 is an E3 ubiquitin ligase that keeps p53 levels low in healthy cells.
+Bax and Bak are pro-apoptotic proteins that form pores in the mitochondrial outer membrane.
+Bcl-2 and Bcl-XL are anti-apoptotic proteins that inhibit Bax and Bak.
+Cytochrome c release from mitochondria activates Apaf-1 to form the apoptosome.
+Caspase-9 is the initiator caspase for the intrinsic pathway.
+Caspase-8 is the initiator caspase for the extrinsic pathway (Death Receptor pathway).
+Executioner caspases (Caspase-3, 6, 7) cleave cellular substrates like lamin and ICAD.
+The Warburg effect refers to cancer cells' preference for glycolysis even in the presence of oxygen.
+Telomerase is a reverse transcriptase that carries its own RNA template.
+The Hayflick limit is the number of times a normal cell population will divide before stopping.
+G-protein coupled receptors (GPCRs) undergo a conformational change in the 5th and 6th transmembrane helices upon activation.
+G-alpha-s activates adenylyl cyclase, whereas G-alpha-i inhibits it.
+G-alpha-q activates phospholipase C-beta, leading to IP3 and DAG production.
+Cholera toxin locks G-alpha-s in the 'on' state, leading to massive cAMP production.
+Pertussis toxin locks G-alpha-i in the 'off' state.
+Desensitization of GPCRs involves phosphorylation by GRKs and binding of arrestin.
+Arrestin binding prevents G-protein interaction and promotes receptor endocytosis.
+Ras-GTP activates the Raf kinase (MAPKKK), starting the MAPK cascade.
+Scaffold proteins like KSR organize the Raf-MEK-ERK signaling module.
+The PH domain of Akt (PKB) binds to PIP3, produced by PI3-kinase.
+PTEN is a phosphatase that antagonizes PI3-kinase by dephosphorylating PIP3.
+mTOR is a central regulator of cell growth and metabolism, sensitive to nutrient levels.
+JAK-STAT signaling is the primary pathway used by cytokines and growth hormone.
+Suppressor of Cytokine Signaling (SOCS) proteins provide negative feedback to the JAK-STAT pathway.
+The Notch signaling pathway involves proteolytic cleavage of the receptor, moving the intracellular tail to the nucleus.
+Lateral inhibition mediated by Notch ensures that neighboring cells adopt different fates.
+Wnt signaling stabilizes beta-catenin by inhibiting the destruction complex (APC/Axin/GSK3).
+Hedgehog signaling involves the inhibition of Patched, allowing Smoothened to signal.
+Autocrine signaling involves a cell responding to its own secreted molecules.
+Paracrine signaling acts on nearby cells through local diffusion.
+Nitric oxide (NO) signals by activating soluble guanylyl cyclase to produce cGMP.
+Nitroglycerin treats angina by acting as a source of NO, causing vasodilation.
+Sildenafil (Viagra) inhibits phosphodiesterase-5 (PDE5), maintaining cGMP levels.
+Nuclear receptors for thyroid hormone are always bound to DNA, even without ligand.
+Co-repressors are displaced by co-activators when a ligand binds to a nuclear receptor.
+The glucocorticoid receptor is held in the cytosol by HSP90 until cortisol binds.
+Epigenetic marks are maintained through cell division by maintenance methyltransferases (DNMT1).
+The 'Histone Code' hypothesis suggests that combinations of modifications dictate gene activity.
+H3K4 methylation is generally associated with active promoters.
+H3K9 and H3K27 methylation are marks of repressed heterochromatin.
+X-inactivation is mediated by the non-coding RNA Xist, which coats the inactive X chromosome.
+Genomic imprinting often involves the IGF2 gene (paternal expression) and H19 gene (maternal expression).
+Beckwith-Wiedemann syndrome is a disorder of genomic imprinting.
+RNA interference (RNAi) can be used to 'knock down' mRNA levels in laboratory research.
+The RISC complex (RNA-Induced Silencing Complex) uses siRNA to find and cleave matching mRNA.
+Dicer is the ribonuclease that processes long dsRNA into siRNAs.
+Long non-coding RNAs (lncRNAs) can act as 'decoys' for miRNAs or scaffolds for chromatin modifiers.
+Circular RNAs (circRNAs) are highly stable and can act as 'sponges' for miRNAs.
+DNA transposons move via a 'cut-and-paste' mechanism.
+Retrotransposons (LINEs and SINEs) move via a 'copy-and-paste' mechanism using an RNA intermediate.
+Alu elements are SINEs that make up about 10% of the human genome.
+The ENCODE project revealed that much of the 'junk DNA' is actually transcribed and functional.
+Single Nucleotide Polymorphisms (SNPs) are the most common source of genetic variation between humans.
+Copy Number Variations (CNVs) involve deletions or duplications of large DNA segments.
+Haplotypes are blocks of SNPs that tend to be inherited together.
+The Major Histocompatibility Complex (MHC) is the most polymorphic region of the human genome.
+Hardy-Weinberg equilibrium assumes no mutation, no migration, no selection, random mating, and infinite population size.
+The 'Red Queen' hypothesis suggests that organisms must constantly evolve to survive against ever-evolving parasites.
+Muller's Ratchet explains why asexual populations accumulate deleterious mutations over time.
+Horizontal gene transfer in eukaryotes is more common than previously thought (e.g., from parasites).
+Synteny is the conservation of gene order on chromosomes between different species.
+The Pax6 gene is a master regulator of eye development across diverse phyla.
+Homeobox (Hox) genes exhibit collinearity: their order on the chromosome matches their expression along the body axis.
+The 'Hourglass Model' of development suggests embryos of different species are most similar at the mid-embryonic stage.
+Evo-devo (Evolutionary Developmental Biology) explores how changes in development drive evolution.
+Neural crest cells are a multipotent population that gives rise to the peripheral nervous system and facial skeleton.
+The epithelial-to-mesenchymal transition (EMT) is crucial for development and cancer metastasis.
+Cadherins are calcium-dependent adhesion molecules that mediate homophilic cell-cell binding.
+The 'sorting out' of cells in an aggregate is driven by differences in the type and level of cadherin expression.
+Integrins link the extracellular matrix to the actin cytoskeleton through focal adhesions.
+The basement membrane (basal lamina) is a specialized ECM composed of Type IV collagen and laminin.
+Matrix metalloproteinases (MMPs) degrade ECM components, allowing for tissue remodeling and cell migration.
+Gap junction permeability is regulated by pH, calcium concentration, and membrane potential.
+A connexon is a hexamer of connexin proteins that forms half of a gap junction channel.
+Connexin-26 mutations are a common cause of hereditary deafness.
+Synaptic vesicles are 'primed' for release by the docking of VAMP (synaptobrevin) with syntaxin and SNAP-25.
+Synaptotagmin is the calcium sensor that triggers final vesicle fusion.
+Botulinum toxin cleaves SNARE proteins, preventing acetylcholine release and causing paralysis.
+Tetanus toxin also cleaves SNAREs but primarily in inhibitory interneurons, causing spastic paralysis.
+The nicotinic acetylcholine receptor is a non-selective cation channel.
+GABA-A receptors are chloride channels that mediate fast inhibition.
+Strychnine is a poison that blocks glycine receptors in the spinal cord.
+Excitotoxicity is neuronal death caused by over-activation of glutamate receptors and massive calcium influx.
+The magnesium block of the NMDA receptor is removed by depolarization of the postsynaptic membrane.
+This magnesium block makes the NMDA receptor a 'coincidence detector' for pre- and postsynaptic activity.
+Dendritic spines are dynamic structures that increase the surface area for synaptic input.
+F-actin is the primary cytoskeletal component of dendritic spines.
+The 'Tripartite Synapse' includes the presynaptic terminal, postsynaptic spine, and astrocyte process.
+Astrocytes regulate glutamate levels in the synapse through the EAAT transporters.
+Microglia prune weak or unnecessary synapses during brain development.
+Maternal immune activation during pregnancy is linked to altered neurodevelopment in offspring.
+The 'Gut-Brain Axis' involves communication via the vagus nerve and microbial metabolites like short-chain fatty acids.
+Microbial diversity in the gut is influenced by diet, antibiotics, and geography.
+Fecal microbiota transplants (FMT) are a highly effective treatment for recurrent C.
+difficile infection.
+Quorum sensing allows bacteria to coordinate behavior (like biofilm formation) based on population density.
+Bacterial 'Persister' cells are dormant variants that survive antibiotic treatment without being resistant.
+CRISPR-Cas systems in bacteria provide adaptive immunity against phages by 'remembering' viral DNA.
+The 'Seed and Soil' hypothesis explains why certain cancers metastasize to specific organs.
+Liquid biopsies detect circulating tumor DNA (ctDNA) or tumor cells in the blood.
+Immunotherapy using Checkpoint Inhibitors (like anti-PD-1) releases the 'brakes' on T cells.
+CAR-T cell therapy involves engineering a patient's T cells to recognize specific cancer antigens.
+The 'Bystander Effect' in gene therapy is when killing one cancer cell leads to the death of nearby tumor cells.
+Synthetic lethality is when the loss of two genes together is lethal, but losing one is not (e.g., PARP inhibitors in BRCA mutants).
+Pharmacogenomics studies how an individual's genetic makeup affects their response to drugs.
+Warfarin dosage is highly influenced by polymorphisms in the CYP2C9 and VKORC1 genes.
+The 'Personalized Medicine' approach uses molecular profiling to tailor treatments.
+Metabolomics provides a snapshot of the metabolic state of a cell or organism.
+Fluxomics measures the rate of metabolic reactions in a system.
+Optogenetics uses light-sensitive proteins (like Channelrhodopsin) to control neuronal activity with millisecond precision.
+Chemogenetics (DREADDs) uses engineered GPCRs that only respond to a specific synthetic ligand.
+Single-cell RNA sequencing reveals the heterogeneity of gene expression within a tissue.
+Spatial transcriptomics maps gene expression to specific locations in a tissue section.
+Cryo-electron microscopy (Cryo-EM) allows for the structural determination of large protein complexes at near-atomic resolution.
+AlphaFold is an AI system that has accurately predicted the 3D structures of nearly all known proteins.
+Direct reprogramming (transdifferentiation) converts one adult cell type directly into another without a pluripotent state.
+Organoids are 3D 'mini-organs' grown from stem cells that mimic the structure and function of human organs.
+Xenotransplantation involves transplanting organs from other species (like pigs) into humans.
+Bio-printing uses 3D printing technology to create living tissues and organs.
+The 'One Health' concept recognizes that the health of people is connected to the health of animals and the environment.
+Zoonotic spillovers are more likely in areas with high biodiversity loss and human encroachment.
+RNA vaccines work by delivering mRNA that codes for a viral protein, triggering an immune response.
+Lipid nanoparticles (LNPs) protect mRNA from degradation and facilitate its entry into cells.
+The 'Central Dogma' has exceptions, such as reverse transcription and prion-mediated protein folding.
+Biomolecular condensates are membraneless organelles (like the nucleolus) formed by liquid-liquid phase separation.
+Intrinsically disordered proteins (IDPs) lack a fixed 3D structure and are often involved in signaling and regulation.
+Molecular crowding in the cytosol significantly affects the rates and equilibria of biochemical reactions.
+The 'Small World' network architecture of metabolic pathways allows for rapid communication between distant metabolites.
+Biological systems exhibit 'Robustness', the ability to maintain function despite internal or external perturbations.
+Modularity in biological networks allows individual components to be evolved or regulated independently.
+Negative feedback loops provide stability, while positive feedback loops provide 'switch-like' behavior.
+Feed-forward loops can act as 'persistence detectors' or 'pulse generators' in gene circuits.
+Stochasticity (noise) in gene expression leads to phenotypic variation even in genetically identical populations.
+Bet-hedging is a strategy where a population produces diverse phenotypes to survive unpredictable environments.
+Anticipatory regulation is when an organism responds to a cue that predicts an upcoming environmental change.
+The metabolic cost of information processing is a significant constraint on the evolution of biological systems.
+Endosymbiosis is a major driver of evolutionary innovation (e.g., mitochondria, chloroplasts).
+The 'Missing Heritability' problem refers to the gap between heritability estimated from family studies and GWAS.
+Polygenic risk scores (PRS) use thousands of SNPs to predict an individual's susceptibility to complex diseases.
+The 'Omnigenic Model' suggests that almost any gene expressed in a relevant tissue can affect a complex trait.
+Gene-environment interactions (GxE) mean that the effect of a gene depends on the environmental context.
+Precision public health uses big data to target interventions to the right populations at the right time.
+The 'Exposome' is the measure of all the exposures of an individual in a lifetime and how those relate to health.
+Biological age (measured by epigenetic clocks) can differ from chronological age.
+Senolytic drugs aim to selectively kill senescent cells to delay age-related diseases.
+The 'Free Radical Theory of Aging' has been largely replaced by models focusing on damage to repair and signaling pathways.
+Proteostasis (protein homeostasis) decline is a hallmark of aging and neurodegenerative diseases.
+Caloric restriction is one of the most robust interventions to extend lifespan in diverse species.
+The 'Gompertz-Makeham Law' describes the exponential increase in mortality rate with age.
+Biological complexity does not always lead to increased stability; sometimes it leads to 'Criticality'.
+Self-organized criticality in biological systems may explain the power-law distribution of extinction events.
+The 'Gaia Hypothesis' proposes that living organisms and their inorganic surroundings evolve as a single self-regulating system.
+The Anthropocene is a proposed geological epoch characterized by significant human impact on Earth's ecosystems.
+Synthetic biology aims to apply engineering principles to the design and construction of new biological parts and systems.
+Biofoundries use automation and high-throughput screening to accelerate biological engineering.
+Gene drives can rapidly spread a specific trait through a wild population (e.g., to eliminate malaria mosquitoes).
+The ethical implications of gene editing in the human germline remain a subject of intense global debate.
+The Nagoya Protocol governs the fair and equitable sharing of benefits arising from the utilization of genetic resources.
+Bioprospecting is the search for biological resources with commercial value (e.g., new antibiotics).
+De-extinction efforts aim to bring back extinct species like the woolly mammoth using cloning and gene editing.
+The 'Great Oxidation Event' fundamentally changed the chemistry of the Earth and the evolution of life.
+Stromatolites are the oldest known fossils, created by ancient cyanobacteria.
+The 'Snowball Earth' hypothesis suggests that the planet was once completely covered in ice.
+The 'RNA World' hypothesis is supported by the existence of ribozymes and the central role of RNA in protein synthesis.
+Hydrothermal vents are a leading candidate for the site of the origin of life on Earth.
+The 'LUCA' (Last Universal Common Ancestor) likely lived around 3.5 to 3.8 billion years ago.
+Viruses may have played a major role in the early evolution of cellular life.
+The 'Tree of Life' is better represented as a 'Web of Life' due to extensive horizontal gene transfer.
+Extremophiles (like tardigrades) push the known limits of where life can survive.
+Astrobiology is the study of the origin, evolution, and distribution of life in the universe.
+The 'Drake Equation' is used to estimate the number of active, communicative extraterrestrial civilizations.
+The 'Fermi Paradox' asks why we haven't found evidence of extraterrestrial life if it's statistically likely.
+Biological signals (biosignatures) like atmospheric oxygen and methane are used to search for life on exoplanets.
+The 'Technosignature' search looks for evidence of advanced technology in the universe.
+Biological evolution is much slower than cultural evolution in humans.
+The 'Dual Inheritance Theory' explores how genetic and cultural evolution interact.
+Niche construction is when an organism alters its own environment, affecting its own and others' evolution.
+The 'Extended Phenotype' includes all effects a gene has on its environment (e.g., a beaver's dam).
+Biology is the bridge between the physical laws of the universe and the complexity of human experience.
+The more we learn about biology, the more we realize how interconnected all life on Earth truly is.
+Biological research is essential for solving global challenges like food security, climate change, and disease.
+The future of biology lies in the integration of experiments, computation, and engineering.
+Understanding the 'rules of life' will allow us to sustainably manage the biosphere and improve human health.
+Biological discovery often comes from curiosity-driven research on 'obscure' organisms.
+Public trust in science is crucial for the responsible application of biological technologies.
+The study of biology is a lifelong journey of wonder and discovery.
+Life is a self-sustaining chemical system capable of Darwinian evolution.
+Every cell is a marvel of engineering, refined by billions of years of evolution.
+The human brain is the most complex structure in the known universe.
+Genetics provides the blueprint, but life is written in the language of biochemistry.
+The ultimate goal of biology is to understand the nature of life itself.

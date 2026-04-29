@@ -1,0 +1,448 @@
+Chest X-ray is performed in posteroanterior (PA) projection as the standard view, with the patient standing and the film cassette against the anterior chest.
+An anteroposterior (AP) chest X-ray magnifies the cardiac silhouette due to beam divergence and is used for portable or bedside examinations.
+On a well-positioned PA chest X-ray, the medial ends of the clavicles should be equidistant from the spinous process of the vertebra at that level.
+A correctly exposed chest X-ray allows visualization of the vertebral bodies through the cardiac shadow without overexposing the lung fields.
+The cardiothoracic ratio is measured as the widest cardiac diameter divided by the widest thoracic diameter; a ratio above 0.5 on a PA film suggests cardiomegaly.
+On the lateral chest X-ray, the retrosternal and retrocardiac spaces should be clear; opacification of these spaces indicates pathology in the anterior or posterior mediastinum.
+The right hemidiaphragm is normally higher than the left by up to 2.5 cm due to the underlying liver.
+Loss of the right hemidiaphragm contour on chest X-ray indicates right lower lobe pathology due to the silhouette sign.
+Loss of the left hemidiaphragm contour indicates left lower lobe or lingular pathology.
+The silhouette sign states that two structures of the same radiodensity in contact with each other will obliterate the border between them.
+Right middle lobe collapse or consolidation obliterates the right heart border due to the silhouette sign.
+Lingular consolidation obliterates the left heart border.
+Right lower lobe consolidation obliterates the right hemidiaphragm but preserves the right heart border.
+Left lower lobe collapse on chest X-ray appears as a triangular opacity behind the heart with loss of the medial left hemidiaphragm.
+Right upper lobe collapse causes elevation of the minor fissure and a triangular opacity in the right upper zone.
+Left upper lobe collapse produces a veil-like opacity over the left hemithorax with no sharp borders; the Luftsichel sign (crescent of air) may be seen.
+The Luftsichel sign represents hyperlucency between the aortic knuckle and the collapsed left upper lobe due to overinflated superior segment of the left lower lobe.
+Right middle lobe collapse appears as a wedge-shaped opacity in the right lower zone on the PA film and loss of definition of the right heart border.
+The Golden S sign is seen in right upper lobe collapse caused by a central mass; the reversed S shape is formed by the concave elevated minor fissure and the convex mass.
+Complete lobar collapse causes ipsilateral mediastinal shift, elevation of the hemidiaphragm, and compensatory hyperinflation of adjacent lobes.
+Atelectasis refers to collapse of alveoli; discoid or plate atelectasis appears as a thin linear horizontal opacity, commonly at the lung bases.
+Air bronchograms within an opacity indicate that the bronchi remain patent and the surrounding alveoli are filled with fluid or cells, suggesting consolidation rather than collapse.
+Pulmonary edema on chest X-ray shows bilateral perihilar ('bat-wing') opacities, Kerley B lines at the periphery, cardiomegaly, and upper lobe vascular diversion.
+Kerley B lines are short horizontal lines at the lung periphery representing interlobular septal thickening due to fluid or lymphatic obstruction.
+Upper lobe vascular diversion on chest X-ray indicates elevated pulmonary venous pressure and is an early sign of pulmonary edema.
+Unilateral pulmonary edema occurs in patients who sleep on one side, in re-expansion pulmonary edema, or following aspiration.
+Pleural effusion on erect chest X-ray produces a homogeneous opacity that blunts the costophrenic angle when more than 200-300 mL of fluid is present.
+Subpulmonic pleural effusion accumulates between the lung base and the diaphragm; the apparent diaphragm peak is displaced laterally.
+On supine chest X-ray, pleural effusion produces a homogeneous increased density over the lower lung zone without an air-fluid level.
+A meniscus sign on erect chest X-ray confirms the presence of pleural fluid; the fluid curves up at the chest wall due to surface tension.
+Pleural effusion exceeding half the hemithorax with contralateral mediastinal shift suggests a large effusion or malignant cause.
+Ipsilateral mediastinal shift toward an opaque hemithorax suggests lung collapse rather than effusion.
+Pneumothorax on erect chest X-ray is identified by a visible pleural line with absent lung markings peripheral to it.
+A small pneumothorax may be visible only on expiratory chest X-ray; the lung becomes relatively smaller and the pneumothorax more apparent.
+Tension pneumothorax is characterized by complete ipsilateral lung collapse, contralateral mediastinal shift, ipsilateral hemidiaphragm depression, and neck vein distension.
+Tension pneumothorax is a clinical diagnosis and should not be delayed for imaging if the patient is hemodynamically compromised.
+Deep sulcus sign on supine chest X-ray is a deep lucency in the lateral costophrenic angle and represents a pneumothorax in a supine patient.
+Pneumomediastinum appears as air outlining the mediastinal structures, most commonly the aortic arch and the left cardiac border.
+Subcutaneous emphysema on chest X-ray shows air tracking in the soft tissues of the chest wall and neck as streaky lucencies.
+Pneumopericardium is rare and presents as air surrounding the cardiac shadow, limited by the pericardial reflections at the great vessels.
+A widened mediastinum on chest X-ray (greater than 8 cm at the level of the aortic knuckle) raises concern for aortic dissection, mediastinal hematoma, or mass.
+In aortic dissection, chest X-ray may show a widened mediastinum, irregular aortic contour, left pleural effusion, and tracheal deviation to the right.
+The aortic knuckle should have a smooth, concave contour; irregularity or convexity may indicate aortic aneurysm or dissection.
+Tracheal deviation to the right on chest X-ray in a patient with mediastinal widening suggests a left-sided aortic arch aneurysm or dissection.
+Rib notching on chest X-ray is caused by enlarged intercostal arteries in aortic coarctation, appearing as irregular erosions on the inferior margins of ribs 3-8.
+Pulmonary arterial hypertension on chest X-ray shows enlarged central pulmonary arteries with peripheral vascular pruning.
+The ratio of the right descending pulmonary artery diameter to the tracheal diameter above 1 suggests pulmonary arterial hypertension.
+Pulmonary embolism is an unreliable diagnosis on chest X-ray; findings include the Hampton's hump, Westermark sign, and Palla's sign.
+Hampton's hump is a peripheral wedge-shaped pleural-based opacity in pulmonary embolism, representing pulmonary infarction.
+Westermark sign is focal oligemia (decreased vascular markings) distal to a pulmonary embolism on chest X-ray.
+Palla's sign is enlargement of the right descending pulmonary artery on chest X-ray, indicating massive pulmonary embolism.
+CT pulmonary angiography (CTPA) is the gold standard imaging for diagnosis of pulmonary embolism, with sensitivity and specificity above 95%.
+On CTPA, pulmonary embolism appears as a filling defect within the contrast-opacified pulmonary arteries.
+A saddle embolus straddles the bifurcation of the main pulmonary artery and is associated with high mortality and right heart strain.
+Right heart strain in massive PE on CT is identified by right ventricular dilatation, interventricular septal bowing to the left (D-sign), and reflux of contrast into the hepatic veins.
+Crazy paving pattern on CT refers to ground-glass opacity with superimposed interlobular septal thickening, resembling irregular stone paving; it has many causes including pulmonary alveolar proteinosis, COVID-19 pneumonia, and ARDS.
+Ground-glass opacity on CT indicates partial filling of alveolar spaces, thickening of the interstitium, or both; it is a nonspecific finding.
+Consolidation on CT represents complete filling of alveolar spaces; air bronchograms are frequently visible within areas of consolidation.
+Tree-in-bud pattern on CT indicates filling of centrilobular bronchioles and alveolar ducts with secretions, pus, or fluid; it is characteristic of endobronchial spread of infection.
+Honeycombing on high-resolution CT is characterized by clustered cystic air spaces with thick walls in the subpleural lung and represents end-stage fibrosis.
+Usual interstitial pneumonia pattern on HRCT shows peripheral, basal, and subpleural honeycombing with traction bronchiectasis, correlating pathologically with IPF.
+Ground-glass opacity predominating over fibrosis on HRCT suggests an active inflammatory process that may be reversible, unlike a predominant honeycombing pattern.
+Non-specific interstitial pneumonia (NSIP) on HRCT shows bilateral, basal, symmetric ground-glass opacity and reticular changes with subpleural sparing.
+Organizing pneumonia on CT shows peripheral, peribronchial, or band-like consolidation with the reverse halo (atoll) sign.
+The atoll sign or reverse halo sign is a central ground-glass opacity surrounded by a ring of denser consolidation; it is characteristic of organizing pneumonia.
+Lymphangitic carcinomatosis on HRCT shows irregular thickening of the interlobular septa and peribronchial thickening, often with pleural effusion and hilar lymphadenopathy.
+Sarcoidosis on chest X-ray is staged from 0 to IV: 0 normal, I bilateral hilar lymphadenopathy, II bilateral hilar lymphadenopathy with pulmonary infiltrates, III pulmonary infiltrates alone, IV pulmonary fibrosis.
+On CT, sarcoidosis shows perilymphatic nodules distributed along the bronchovascular bundles, subpleural regions, and interlobular septa.
+Silicosis on chest X-ray shows upper lobe predominant small rounded nodules; progressive massive fibrosis creates large upper lobe masses with eggshell calcification of hilar nodes.
+Eggshell calcification of hilar lymph nodes is most commonly associated with silicosis and sarcoidosis.
+Asbestosis on chest X-ray and CT shows lower lobe reticulation, pleural plaques, and pleural thickening; pleural plaques are pathognomonic of asbestos exposure.
+Pleural plaques are calcified or non-calcified fibrous lesions on the parietal pleura visible on chest X-ray and CT, indicating prior asbestos exposure.
+Mesothelioma on CT presents as circumferential pleural thickening, pleural effusion, and encasement of the lung; it is associated with asbestos exposure.
+Lung cancer on chest X-ray may appear as a spiculated mass, hilar enlargement, lobar collapse, or pleural effusion.
+A solitary pulmonary nodule is defined as a focal opacity up to 3 cm in diameter completely surrounded by lung parenchyma.
+Nodules larger than 3 cm are termed masses and are more likely to be malignant.
+The Fleischner Society guidelines recommend management of incidental pulmonary nodules based on size, morphology, and patient risk factors.
+Calcification patterns in pulmonary nodules that favor benignity include popcorn (hamartoma), central, laminated, and diffuse calcification.
+Eccentric or stippled calcification in a pulmonary nodule does not exclude malignancy.
+A corona radiata sign—fine spiculations radiating from a nodule—is highly associated with malignancy.
+PET-CT using FDG is used to evaluate pulmonary nodules and stage lung cancer; SUV above 2.5 suggests malignancy but false positives occur in infection and inflammation.
+Cavitation within a pulmonary lesion may indicate necrotizing infection, squamous cell carcinoma, vasculitis, or septic emboli.
+Thick irregular walls of a cavitary lesion are more suggestive of malignancy, whereas thin smooth walls favor benign etiology.
+Septic emboli on CT appear as multiple peripheral nodules, often with cavitation, and may have a feeding vessel sign.
+CT-guided percutaneous lung biopsy is used to sample peripheral pulmonary lesions inaccessible by bronchoscopy; complications include pneumothorax and hemorrhage.
+Endobronchial ultrasound (EBUS) is used to sample central lesions, mediastinal lymph nodes, and perihilar masses under real-time ultrasound guidance.
+V/Q scintigraphy is used to diagnose pulmonary embolism when CTPA is contraindicated due to contrast allergy or renal impairment.
+A normal V/Q scan effectively excludes pulmonary embolism; a high-probability scan with appropriate clinical probability is diagnostic.
+On plain abdominal X-ray, gas in the small bowel appears centrally as featureless loops with complete circumferential mucosal folds (valvulae conniventes).
+Colonic gas on abdominal X-ray is identified peripherally with haustrations that do not extend across the full width of the bowel.
+Small bowel obstruction on plain X-ray shows dilated small bowel loops (above 3 cm) with air-fluid levels on the erect film and a paucity of colonic gas.
+The string-of-beads sign on abdominal X-ray is seen in small bowel obstruction when small pockets of gas are trapped between the valvulae conniventes.
+Large bowel obstruction on plain X-ray shows dilated colon (above 6 cm for the colon, above 9 cm for the cecum) proximal to the point of obstruction.
+Sigmoid volvulus on abdominal X-ray produces the coffee-bean sign: a markedly distended loop of sigmoid colon folded on itself pointing toward the right upper quadrant.
+Cecal volvulus on abdominal X-ray shows a large oval gas-filled structure in the left upper quadrant or mid-abdomen, with small bowel obstruction.
+Pneumoperitoneum (free air under the diaphragm) on erect chest X-ray is best seen as a crescent of air under the right hemidiaphragm.
+On supine X-ray, pneumoperitoneum produces the Rigler sign (both sides of the bowel wall visible due to intraluminal and extraluminal gas) and the football sign (large collection of free air).
+Free intraperitoneal gas is confirmed on CT as extraluminal air adjacent to bowel or beneath the anterior abdominal wall.
+Portal venous gas on plain X-ray or CT appears as gas branching peripherally within the liver and indicates bowel ischemia or infarction.
+Pneumatosis intestinalis (gas within the bowel wall) may be benign (asthma, COPD, steroid use) or a sign of bowel ischemia and necrosis.
+CT of the abdomen and pelvis with IV contrast is the first-line imaging for acute abdominal pain in adults when plain X-ray is inconclusive.
+The transition point in CT of small bowel obstruction identifies the level of obstruction and may reveal the cause such as adhesion, hernia, or mass.
+Closed-loop obstruction on CT shows a C- or U-shaped loop of dilated bowel with a beak sign at the point of torsion; it is a surgical emergency.
+Bowel wall thickening above 3 mm in small bowel and above 5 mm in large bowel on CT indicates pathology such as ischemia, inflammation, or neoplasm.
+Target sign or halo sign on CT bowel represents alternating layers of high and low attenuation within a thickened bowel wall, typical of submucosal edema or hemorrhage.
+Mesenteric stranding on CT indicates inflammation or ischemia of the adjacent bowel and is seen in Crohn's disease, appendicitis, and mesenteric ischemia.
+CT angiography is used to evaluate mesenteric ischemia; superior mesenteric artery occlusion is identified as an abrupt cutoff of contrast within the vessel.
+Pneumobilia (gas in the biliary tree) on CT may be benign (prior ERCP, biliary-enteric anastomosis) or indicate a biliary-enteric fistula from gallstone erosion (Rigler's triad).
+Rigler's triad for gallstone ileus on plain X-ray includes pneumobilia, small bowel obstruction, and an ectopic gallstone.
+Acute appendicitis on CT is identified by a distended appendix with wall thickening (above 6 mm outer diameter), periappendiceal fat stranding, and lack of luminal contrast.
+An appendicolith (calcified fecalith) within the appendix on CT increases the probability of complicated appendicitis.
+Ultrasound diagnosis of appendicitis relies on visualization of a non-compressible, aperistaltic appendix with a diameter above 6 mm.
+Perforated appendicitis on CT shows periappendiceal abscess, free fluid, free air, and loss of the normal appendiceal wall.
+The Alvarado score incorporates migration of pain to right iliac fossa, anorexia, nausea/vomiting, right iliac fossa tenderness, rebound tenderness, elevated temperature, leukocytosis, and left shift.
+Acute cholecystitis on ultrasound shows gallbladder wall thickening above 3 mm, pericholecystic fluid, a positive sonographic Murphy's sign, and gallstones.
+Gangrenous cholecystitis on CT is identified by gallbladder wall irregularity, intraluminal membranes, pericholecystic abscess, and pneumobilia.
+Choledocholithiasis on ultrasound is identified by a dilated common bile duct (above 6 mm) with acoustic shadowing from stones; sensitivity is only 50-75%.
+MRCP is the gold standard non-invasive imaging for biliary tract pathology and provides detailed images of the biliary and pancreatic ducts without radiation.
+CT severity index (Balthazar score) in acute pancreatitis grades pancreatic necrosis and peri-pancreatic fluid collections; higher scores correlate with increased morbidity and mortality.
+Walled-off pancreatic necrosis on CT appears as a well-defined fluid collection with non-enhancing solid debris, developing 4 or more weeks after acute necrotizing pancreatitis.
+Pancreatic pseudocyst on CT is a well-defined homogeneous fluid collection without solid content, arising 4 or more weeks after acute edematous pancreatitis.
+Double duct sign on CT or MRCP shows simultaneous dilatation of the common bile duct and pancreatic duct; it is strongly associated with pancreatic head carcinoma.
+Pancreatic ductal adenocarcinoma on CT typically appears as a hypoattenuating mass in the pancreatic head with vascular encasement and ductal dilatation.
+Vascular encasement by pancreatic cancer on CT is assessed by the degree of contact of tumor with the superior mesenteric artery, celiac axis, and portal vein.
+Hepatocellular carcinoma on CT shows arterial phase enhancement with washout on portal venous phase (arterial enhancement and portal venous washout pattern); this is diagnostic in cirrhotic patients without biopsy.
+The LI-RADS system categorizes liver observations in patients at risk for HCC from LR-1 (definitely benign) to LR-5 (definitely HCC).
+Hepatic hemangioma on CT shows peripheral nodular enhancement in the arterial phase with progressive centripetal fill-in on delayed phase.
+Hepatic hemangioma on MRI appears markedly hyperintense on T2-weighted sequences and shows the same fill-in enhancement pattern as on CT.
+Focal nodular hyperplasia on CT shows a well-defined hypervascular mass with a central scar that enhances on delayed phase; no washout occurs.
+Hepatic adenoma on CT is a hypervascular lesion associated with oral contraceptive use; it may contain fat, hemorrhage, or show washout; larger adenomas are at risk of rupture.
+Liver metastases from hypervascular tumors (renal cell carcinoma, neuroendocrine tumors) enhance avidly in the arterial phase; hypovascular metastases (colorectal) appear as hypoattenuating lesions on portal venous phase.
+MRI with liver-specific contrast agents (gadoxetic acid) improves detection of small liver metastases by providing hepatobiliary phase imaging.
+Simple renal cyst on CT or ultrasound is a well-defined, thin-walled, non-enhancing fluid attenuation structure; it is classified as Bosniak I.
+Bosniak classification stratifies renal cysts from I (simple cyst, benign) to IV (solid enhancing components, high risk of malignancy requiring surgery).
+Renal cell carcinoma on CT typically shows a heterogeneous enhancing renal mass; clear cell RCC is the most common subtype and enhances avidly.
+Von Hippel-Lindau syndrome is associated with bilateral and multifocal clear cell renal cell carcinomas, hemangioblastomas, and pancreatic cysts.
+Adrenal adenoma on CT typically has an attenuation below 10 HU on unenhanced CT due to intracytoplasmic lipid content.
+The absolute washout value (above 60%) and relative washout value (above 40%) at 15 minutes on adrenal CT protocol confirm adenoma.
+Pheochromocytoma on CT appears as a large heterogeneous adrenal mass, often with central necrosis; it shows intense enhancement.
+On MRI, pheochromocytoma characteristically appears very bright on T2-weighted imaging (light bulb sign).
+Adrenal metastases are usually bilateral and seen in patients with known primary malignancy; they do not show lipid on chemical shift MRI.
+Renal calculi are best visualized on non-contrast CT; the majority (90%) are radiopaque on plain X-ray.
+Uric acid stones are radiolucent on plain X-ray but are visible on CT as soft tissue attenuation calculi within the collecting system.
+Hydronephrosis on ultrasound appears as anechoic separation of the central renal sinus echoes; grading from I to IV reflects severity.
+CT urogram with non-contrast, nephrographic, and excretory phases is used to evaluate the entire urinary tract for calculi, tumors, and structural abnormalities.
+Urothelial carcinoma (transitional cell carcinoma) appears on CT urogram as an intraluminal filling defect or wall thickening of the ureter or collecting system.
+Bladder cancer on CT cystography or MRI appears as a sessile or papillary intraluminal mass; MRI is used for local staging (T staging).
+Prostate cancer on MRI is detected on T2-weighted imaging as a hypointense area in the peripheral zone; DWI and DCE sequences improve detection.
+PI-RADS scoring on multiparametric prostate MRI categorizes findings from 1 (very low) to 5 (very high) likelihood of clinically significant cancer.
+Renal artery stenosis on CT or MR angiography is identified as a narrowing of the renal artery; it is most commonly due to atherosclerosis in older patients and fibromuscular dysplasia in younger women.
+Trauma to the kidney on CT is graded I-V by the American Association for the Surgery of Trauma; grade IV-V injuries may require intervention.
+Splenic laceration on CT is graded I-V; grade IV-V injuries involve vascular disruption and are managed with angioembolization or splenectomy.
+Active arterial hemorrhage on CT is identified as extravasation of contrast (blush) adjacent to an injured organ in the arterial phase.
+CT angiography of the abdomen and pelvis is the first-line investigation for suspected abdominal aortic aneurysm rupture in stable patients.
+A normal aortic diameter at the infrarenal level is up to 3 cm; aneurysm is defined as dilatation above 3 cm.
+Endovascular aortic repair (EVAR) follow-up imaging with CT angiography detects endoleaks, which are classified type I-V based on source of blood flow outside the stent graft.
+CT aortography is used to classify aortic dissection (Stanford A and B), identify the intimal flap, and assess the extent of the dissection.
+The intimal flap on CT aortography divides the aorta into a true lumen (usually smaller) and a false lumen (usually larger with slower flow).
+Skull X-ray has largely been replaced by CT; indications are limited to detecting depressed skull fractures and foreign bodies.
+Non-contrast CT of the brain is the first-line investigation for acute stroke, head trauma, and altered consciousness.
+On non-contrast CT, acute intraparenchymal hemorrhage appears as a hyperdense (white) area due to the protein content of fresh blood.
+Subarachnoid hemorrhage on CT appears as hyperdensity filling the basal cisterns, sylvian fissures, and sulci.
+CT angiography of the brain is used to identify the source of subarachnoid hemorrhage and is highly sensitive for aneurysms above 3 mm.
+MRI with TOF (time-of-flight) MR angiography is used to screen for intracranial aneurysms without radiation or contrast.
+Cerebral infarction is initially isodense on CT; the first detectable sign may be the dense MCA sign (hyperdensity of the occluded middle cerebral artery) or loss of grey-white matter differentiation.
+The ASPECTS score grades CT changes in MCA territory ischemic stroke from 0 (diffuse changes) to 10 (normal); scores below 6 are associated with poor outcome after thrombolysis.
+DWI MRI is the most sensitive imaging for acute ischemic stroke, detecting cytotoxic edema within minutes of onset as restricted diffusion.
+Restricted diffusion on DWI appears as hyperintensity, confirmed by corresponding hypointensity on the ADC (apparent diffusion coefficient) map.
+Hemorrhagic transformation of ischemic stroke on CT appears as hyperdensity within a previously hypodense ischemic area.
+MRI is more sensitive than CT for posterior fossa and brainstem pathology due to the absence of beam-hardening artifact from the petrous bones.
+Epidural hematoma on CT appears as a biconvex (lenticular) hyperdense collection between the inner table of the skull and the dura; it does not cross suture lines.
+The lucid interval in epidural hematoma represents a period of normal consciousness between initial loss of consciousness and deterioration due to hematoma expansion.
+Subdural hematoma on CT is a crescent-shaped collection that follows the contour of the brain and crosses suture lines; acute SDH is hyperdense, chronic SDH is hypodense.
+Isodense subdural hematoma on CT (subacute phase, 1-3 weeks old) may be difficult to detect; look for effacement of sulci or midline shift.
+Midline shift on CT is measured at the level of the septum pellucidum; shift above 5 mm is clinically significant.
+Diffuse axonal injury (DAI) is best detected on MRI with gradient echo or SWI sequences as multiple small hypointense foci at the grey-white matter junction.
+Cerebral contusions on CT appear as hyperdense hemorrhagic foci surrounded by hypodense edema, commonly in the frontal and temporal poles.
+Herniation syndromes on CT include uncal herniation (effacement of ipsilateral suprasellar cistern, contralateral P1 compression), subfalcine herniation (cingulate gyrus displacement), and downward transtentorial herniation.
+CT perfusion imaging in acute stroke defines the ischemic core (irreversibly damaged tissue) and the penumbra (salvageable tissue) to guide thrombolysis and thrombectomy decisions.
+Brain metastases on contrast-enhanced CT appear as enhancing nodules at the grey-white matter junction, often with surrounding vasogenic edema.
+Vasogenic edema in brain metastases appears as perilesional hypodensity on CT and T2/FLAIR hyperintensity on MRI, extending along white matter tracts.
+Glioblastoma (WHO grade IV glioma) on MRI shows a central necrotic core with ring enhancement and surrounding vasogenic edema crossing the corpus callosum (butterfly glioma pattern).
+Meningioma on CT appears as an extra-axial isodense or hyperdense mass that homogeneously enhances and may show adjacent bony hyperostosis.
+The dural tail sign of meningioma is enhancement of adjacent dura; it is characteristic but not pathognomonic.
+Acoustic neuroma (vestibular schwannoma) on MRI appears as a well-defined mass in the internal auditory canal and cerebellopontine angle, enhancing with gadolinium.
+Pituitary macroadenoma on MRI shows a sellar and suprasellar mass that may compress the optic chiasm; it does not enhance as brightly as normal pituitary tissue.
+Empty sella on MRI shows cerebrospinal fluid filling a partially or completely empty pituitary fossa with a flattened pituitary gland.
+Spine MRI is the investigation of choice for cord compression, disc herniation, infection, and intrinsic cord pathology.
+Cervical spine CT is performed in all unconscious trauma patients or those with high-risk mechanisms to exclude fracture and instability.
+The NEXUS criteria and Canadian C-Spine Rule stratify patients after blunt trauma to identify who requires cervical spine imaging.
+Jefferson fracture is a burst fracture of C1 (atlas) from axial loading; the odontoid peg view or CT shows lateral masses displaced laterally.
+Hangman's fracture is a bilateral fracture through the pedicles of C2 from hyperextension and axial loading.
+Odontoid fracture classification: type I (above the base), type II (through the base, highest nonunion rate), type III (extending into the body of C2).
+SCIWORA (spinal cord injury without radiological abnormality) occurs mainly in children and is diagnosed on MRI showing cord signal abnormality with normal CT.
+Wedge compression fracture of the thoracic spine on X-ray shows anterior vertebral body height reduction with intact posterior height; MRI identifies acute versus chronic fractures.
+Chance fracture is a flexion-distraction injury through the vertebral body and posterior elements, associated with seat-belt injury and intra-abdominal trauma.
+Burst fracture of the lumbar spine on CT shows comminution of the vertebral body with retropulsion of bone fragments into the spinal canal.
+Spondylolisthesis is graded by the percentage of forward slip of one vertebra on the one below: grade I (0-25%), grade II (25-50%), grade III (50-75%), grade IV (75-100%).
+Spondylolysis is a stress fracture through the pars interarticularis, best seen on oblique X-ray as the Scottie dog collar sign.
+On MRI, disc herniation is classified as protrusion (disc material contained within the annulus), extrusion (disc material extends beyond the disc space), or sequestration (free fragment).
+Cauda equina syndrome on MRI is identified by compression of the nerve roots in the thecal sac below L1-L2; urgent decompression is required.
+Spinal cord compression on MRI requires urgent assessment; intrinsic T2 signal hyperintensity within the cord indicates myelopathic change.
+Vertebral osteomyelitis on MRI shows T2 hyperintensity within the disc and adjacent vertebral endplates; contrast enhancement confirms active infection.
+Epidural abscess on MRI appears as a hyperintense extradural collection compressing the thecal sac; gadolinium enhances the periphery of the abscess.
+Bone metastases on plain X-ray may be lytic (most common: myeloma, renal cell carcinoma, thyroid), sclerotic (prostate, breast), or mixed.
+Bone scan (99mTc-MDP scintigraphy) is sensitive for osteoblastic (sclerotic) metastases but less sensitive for purely lytic lesions such as myeloma.
+PET-CT with FDG is used for staging and restaging of malignancies; it detects metabolically active bone metastases that may not yet be visible on CT.
+MRI is the most sensitive modality for bone marrow infiltration by metastases; low T1 signal and high T2 (STIR) signal replace normal marrow fat.
+Osteoporosis is diagnosed on DXA scan by a T-score at or below -2.5 at the lumbar spine, femoral neck, or total hip.
+A T-score between -1 and -2.5 on DXA indicates osteopenia; fragility fracture risk is used alongside DXA in management decisions.
+Insufficiency fractures occur in osteoporotic bone under normal physiological stress; sacral insufficiency fractures on MRI show bilateral parasagittal fracture lines (Honda sign on bone scan).
+Paget's disease of bone shows enlargement and cortical thickening on X-ray with a coarse trabecular pattern; the blade of grass sign is seen in active long bone involvement.
+Osteoid osteoma on CT shows a small nidus (usually less than 1.5 cm) with surrounding sclerosis; nocturnal pain relieved by aspirin is characteristic.
+Giant cell tumor of bone on X-ray appears as an eccentric lytic lesion at the epiphysis of a long bone, reaching the articular surface without sclerotic margin.
+Aneurysmal bone cyst on X-ray is a well-defined expansile lytic lesion with fluid-fluid levels visible on MRI.
+Osteosarcoma on X-ray shows aggressive bone destruction with periosteal reaction, including the sunburst pattern and Codman's triangle.
+Codman's triangle is periosteal new bone formation lifted by an aggressive lesion, appearing as a triangular shadow at the margin of the tumor.
+Ewing's sarcoma on X-ray shows a permeative lytic lesion with an onion-skin periosteal reaction, most commonly in the diaphysis of long bones.
+Chondrosarcoma on X-ray appears as a lesion with chondroid matrix calcification (rings and arcs pattern) within an aggressive bone lesion.
+Enchondroma on X-ray is a benign cartilaginous lesion within the medullary cavity with chondroid calcification, most commonly in the short tubular bones of the hand.
+Fibrous dysplasia on X-ray shows a ground-glass appearance in the medullary cavity with cortical thinning and bowing deformity.
+Periosteal reaction types on X-ray: solid (benign), interrupted (aggressive), sunburst (aggressive malignancy), laminated (onion-skin, Ewing's sarcoma), and Codman's triangle (aggressive).
+Looser zones (pseudofractures) on X-ray are narrow transverse lucencies through the cortex perpendicular to the long axis of bone, seen in osteomalacia.
+Rickets on X-ray shows widening, splaying, and cupping of the metaphyses of long bones due to unmineralized osteoid.
+Fracture description on X-ray requires: bone involved, location (proximal/mid/distal, diaphysis/metaphysis/epiphysis), pattern (transverse/oblique/spiral/comminuted), displacement, angulation, and shortening.
+Growth plate fractures in children are classified by the Salter-Harris classification: type I (through growth plate only), type II (through growth plate and metaphysis), type III (through growth plate and epiphysis), type IV (through all three), type V (crush of growth plate).
+Salter-Harris type II fractures are the most common (75%) and have a good prognosis; type V are the most serious as they damage the germinal layer.
+Toddler's fracture is an oblique fracture of the distal tibia in children aged 9 months to 3 years from minor twisting injury; it may be invisible initially on X-ray.
+Greenstick fracture is an incomplete fracture where one cortex breaks and the other bends; it is seen in children due to the greater bone plasticity.
+Buckle (torus) fracture of the distal radius is the most common pediatric fracture, caused by axial compression leading to cortical buckling.
+Nursemaid's elbow (radial head subluxation) is diagnosed clinically in children; X-ray is performed only to exclude fracture.
+Posterior fat pad sign on lateral elbow X-ray indicates intra-articular effusion and in the context of trauma strongly suggests an occult fracture, typically radial head fracture.
+The anterior fat pad (sail sign) is visible normally; elevation or displacement of the anterior fat pad indicates joint effusion.
+Colles' fracture is an extra-articular distal radius fracture with dorsal displacement and angulation; it is the most common fracture in adults over 50.
+Smith's fracture (reverse Colles') involves volar displacement and angulation of the distal radius fragment.
+Scaphoid fractures are at risk of avascular necrosis and nonunion due to the retrograde blood supply; the proximal pole is most vulnerable.
+Bennett's fracture is an intra-articular fracture of the base of the first metacarpal with subluxation of the carpometacarpal joint.
+Rolando's fracture is a comminuted intra-articular fracture of the base of the first metacarpal.
+Gamekeeper's (skier's) thumb is a tear of the ulnar collateral ligament of the thumb MCP joint; stress views or MRI confirm the diagnosis.
+Hip fractures are classified as intracapsular (femoral neck) or extracapsular (intertrochanteric, subtrochanteric); intracapsular fractures risk avascular necrosis.
+The Garden classification grades femoral neck fractures: I (incomplete valgus impacted), II (complete undisplaced), III (complete partially displaced), IV (complete fully displaced).
+Stress fractures on plain X-ray may be invisible initially; bone scan or MRI detects them early as periosteal reaction or marrow edema.
+March fracture is a stress fracture of the second or third metatarsal neck from repetitive loading; it is common in military recruits and athletes.
+Lisfranc injury is a fracture-dislocation of the tarsometatarsal joints; a fleck fracture at the base of the second metatarsal on plain X-ray is pathognomonic.
+Calcaneal fracture on lateral X-ray shows reduction in Böhler's angle below 20 degrees; CT is used for surgical planning.
+Böhler's angle is measured between the posterior facet and the anterior process of the calcaneus; normal is 20-40 degrees.
+Ottawa Ankle Rules: X-ray is required if there is tenderness at the posterior aspect of the fibula or medial malleolus or inability to weight-bear.
+Ottawa Foot Rules: X-ray required if there is tenderness at the base of the fifth metatarsal or navicular or inability to weight-bear.
+Maisonneuve fracture is a proximal fibular fracture with disruption of the ankle syndesmosis and deltoid ligament; X-ray of the full fibula is essential.
+Tillaux fracture is an avulsion fracture of the anterolateral distal tibial epiphysis in adolescents from a Salter-Harris III mechanism.
+Triplane fracture is a complex distal tibial physeal fracture in adolescents with components in three planes; CT is required to characterize.
+Knee effusion on lateral X-ray is identified by a suprapatellar soft tissue shadow above the normal prefemoral fat pad; a lipohemarthrosis (fat-fluid level) indicates intra-articular fracture.
+Segond fracture is an avulsion fracture of the lateral tibial plateau (capsular sign) associated with ACL and meniscal tears.
+Tibial plateau fracture on plain X-ray may be subtle; CT is required to assess depression and comminution for surgical planning.
+MRI of the knee is the gold standard for soft tissue injury assessment: ACL, PCL, menisci, and collateral ligaments.
+ACL tear on MRI appears as discontinuity of the ligament, edema, bone bruising of the lateral femoral condyle and posterolateral tibial plateau (pivot shift contusions).
+Medial meniscus tears on MRI appear as linear signal reaching the articular surface on fluid-sensitive sequences.
+Bucket handle meniscal tear on MRI shows the displaced inner fragment within the intercondylar notch (double PCL sign) or displaced medially (double delta sign).
+Patellar dislocation on X-ray may show lateral displacement; bone bruising of the medial patellar facet and lateral femoral condyle on MRI confirms the mechanism.
+Shoulder X-ray in two planes (AP and axillary or Y-view) is required to assess for fracture and to confirm reduction post-dislocation.
+Hill-Sachs lesion is a posterolateral humeral head compression fracture from anterior dislocation of the shoulder; it is best seen on AP X-ray in internal rotation.
+Bankart lesion is an avulsion of the anterior glenoid labrum and capsule from anterior shoulder dislocation; MRI arthrography is the imaging of choice.
+HAGL lesion (humeral avulsion of the glenohumeral ligament) is an avulsion at the humeral insertion of the inferior glenohumeral ligament, detected on MRI arthrography.
+Rotator cuff tears on MRI appear as discontinuity or full-thickness signal abnormality within the tendon; supraspinatus is the most commonly torn.
+Calcific tendinitis of the rotator cuff on plain X-ray shows amorphous calcium deposits in the supraspinatus tendon.
+Acromioclavicular joint dislocation is graded I-VI by the Rockwood classification based on degree of ligamentous disruption on stress views.
+Sternoclavicular joint dislocation is rare; posterior dislocation is life-threatening due to proximity of mediastinal structures and requires CT for assessment.
+Mammography is the gold standard screening modality for breast cancer, recommended annually or biennially from age 40-50 depending on guidelines.
+BI-RADS (Breast Imaging Reporting and Data System) classifies breast findings from 0 (incomplete) to 6 (known malignancy); category 4 and 5 require biopsy.
+Microcalcifications on mammography are suspicious when they are grouped, fine pleomorphic, or linear/branching; these patterns suggest DCIS or malignancy.
+Breast MRI is more sensitive than mammography for lobular carcinoma, multifocal disease, contralateral breast assessment, and screening in high-risk women.
+Breast ultrasound characterizes lesions as cystic or solid; parallel orientation, circumscribed margins, and homogeneous echotexture favor benignity.
+Spiculated margins, non-parallel orientation, posterior acoustic shadowing, and irregular shape on breast ultrasound are features of malignancy.
+Stereotactic biopsy is used for microcalcifications visible on mammography but not on ultrasound; MRI-guided biopsy is used for lesions visible only on MRI.
+Sentinel lymph node biopsy for axillary staging uses radiotracer and blue dye injection; lymphoscintigraphy confirms sentinel node location.
+Ovarian cysts on ultrasound are characterized by the IOTA classification: simple cysts (anechoic, thin wall) are almost always benign; complex cysts require further assessment.
+Complex ovarian cysts with solid components, thick septations, internal vascularity, or ascites on ultrasound raise concern for malignancy.
+CA-125 combined with transvaginal ultrasound is used for ovarian cancer risk stratification using the Risk of Malignancy Index.
+Dermoid cyst (mature teratoma) on ultrasound shows echogenic fat and calcification (Rokitansky nodule) with posterior acoustic shadowing.
+Endometrioma (chocolate cyst) on ultrasound appears as a cyst with uniform low-level internal echoes ('ground glass') and no solid components.
+Ectopic pregnancy on transvaginal ultrasound is confirmed by visualizing an adnexal mass or gestational sac outside the uterine cavity; an empty uterus with beta-hCG above 1500-2000 IU/L suggests ectopic pregnancy.
+Nuchal translucency measurement on ultrasound at 11-14 weeks gestation screens for chromosomal abnormalities; thickness above 3 mm increases risk.
+Placenta previa is diagnosed on transvaginal ultrasound when the placenta covers the internal cervical os; it is confirmed after 28 weeks.
+Placental abruption on ultrasound may show a retroplacental hematoma; a negative ultrasound does not exclude abruption.
+Doppler velocimetry of the umbilical artery assesses fetal circulation; absent or reversed end-diastolic flow indicates placental insufficiency and fetal compromise.
+The biophysical profile combines fetal breathing, movement, tone, amniotic fluid volume, and NST to assess fetal well-being; a score of 8-10 is reassuring.
+Fetal growth restriction is defined as estimated fetal weight below the 10th percentile; serial ultrasound measurements assess interval growth.
+Vasa previa on Doppler ultrasound shows fetal vessels crossing the internal os; it is a critical diagnosis as membrane rupture can cause fatal hemorrhage.
+Fluoroscopy is used for real-time imaging of swallowing, barium studies, joint arthrography, and catheter guidance.
+Barium swallow identifies esophageal motility disorders, hiatus hernia, strictures, and esophageal carcinoma; water-soluble contrast is used if perforation is suspected.
+Achalasia on barium swallow shows smooth tapering of the distal esophagus (bird-beak sign) with proximal esophageal dilatation.
+Zenker's diverticulum on barium swallow appears as a posterior pharyngoesophageal outpouching at Killian's dehiscence.
+Small bowel follow-through or CT enterography assesses Crohn's disease, showing mural thickening, skip lesions, cobblestoning, and fistulae.
+The string sign on barium follow-through in Crohn's disease represents a severely narrowed terminal ileum.
+Barium enema has largely been replaced by CT colonography and colonoscopy; water-soluble contrast enema is used to assess anastomotic integrity.
+CT colonography (virtual colonoscopy) detects polyps above 6 mm with sensitivity comparable to optical colonoscopy.
+Intravenous urogram (IVU) has been largely replaced by CT urogram; CT is more sensitive for calculi and renal masses.
+VCUG (voiding cystourethrogram) is performed in children with UTI to detect vesicoureteral reflux; reflux is graded I-V by the International Reflux Classification.
+Hysterosalpingography uses fluoroscopy with uterine contrast instillation to assess tubal patency in infertility evaluation.
+Fistulogram uses water-soluble contrast injected through a sinus tract to delineate the extent and communication of fistulae.
+Digital subtraction angiography remains the gold standard for cerebral vascular imaging and allows simultaneous treatment of lesions.
+CT angiography of the coronary arteries (CTCA) assesses coronary artery disease non-invasively; calcium scoring identifies subclinical atherosclerosis.
+Coronary artery calcium scoring (Agatston score) above 400 indicates severe coronary artery disease and guides statin therapy and further investigation.
+MR angiography uses the inherent signal of flowing blood to image vessels without ionizing radiation; it is used for peripheral arterial disease and renal artery assessment.
+Carotid Doppler ultrasound measures internal carotid artery stenosis; peak systolic velocity above 125 cm/s corresponds to stenosis above 50%.
+NASCET criteria measure carotid stenosis as percentage reduction in diameter at the maximum stenosis compared to the normal distal ICA.
+Deep vein thrombosis on venous duplex ultrasound is confirmed by non-compressibility of the vein, echogenic thrombus, and absent flow on color Doppler.
+Ankle-brachial pressure index below 0.9 indicates peripheral arterial disease; below 0.5 indicates severe ischemia.
+CT angiography of the lower limb arteries shows the level and extent of arterial occlusion and guides revascularization planning.
+Interventional radiology procedures include percutaneous drainage of abscesses, biliary intervention, nephrostomy insertion, embolization, and TIPSS.
+Transjugular intrahepatic portosystemic shunt (TIPSS) reduces portal hypertension by creating a shunt between the portal and hepatic veins under fluoroscopic guidance.
+Uterine artery embolization treats symptomatic fibroids by occluding blood supply with embolic particles under fluoroscopic guidance.
+Radiofrequency ablation, microwave ablation, and cryoablation are image-guided thermal ablation techniques used for liver, kidney, and lung tumors.
+Vertebroplasty and kyphoplasty are fluoroscopy-guided procedures that inject bone cement into osteoporotic vertebral compression fractures to relieve pain.
+PET-MRI combines the metabolic information of PET with the superior soft tissue resolution of MRI; it is emerging for oncological staging.
+Dual-energy CT can separate different materials based on their attenuation at two energies; it is used to characterize renal calculi composition and detect gout.
+Spectral CT (photon-counting CT) provides energy-resolved imaging, enabling virtual monoenergetic images, material decomposition, and improved lesion characterization.
+Cone beam CT (CBCT) is used in dentistry, orthopedics, and ENT to provide high-resolution 3D imaging with lower radiation than conventional CT.
+Flat-panel detector CT in angiography suites provides high-resolution roadmap images during interventional procedures.
+Radiation dose optimization in CT uses automatic tube current modulation, iterative reconstruction, and low-dose protocols to reduce patient exposure.
+CT radiation dose is measured in CTDIvol (volume CT dose index) and DLP (dose-length product); effective dose in mSv is estimated from DLP.
+The ALARA principle (As Low As Reasonably Achievable) guides radiation protection: justification, optimization, and dose limits.
+Pediatric CT protocols use weight-based and age-based dose reduction to minimize radiation exposure in children who are more radiosensitive.
+MRI is contraindicated in patients with non-MRI-compatible pacemakers, cochlear implants, and certain metallic implants; compatibility must be verified before scanning.
+Gadolinium-based MRI contrast agents are associated with nephrogenic systemic fibrosis in patients with severe renal impairment (eGFR below 30).
+Macrocyclic gadolinium agents (gadobutrol, gadoteridol) have a lower risk of gadolinium deposition than linear agents.
+Iodinated CT contrast agents can cause acute hypersensitivity reactions (mild, moderate, severe) and contrast-induced nephropathy.
+Pre-medication with corticosteroids (methylprednisolone) and antihistamines is used to reduce risk of contrast reaction in patients with prior moderate reactions.
+Contrast-induced nephropathy is minimized by IV hydration with normal saline before and after contrast administration in at-risk patients.
+Metformin is held before and 48 hours after iodinated contrast administration in patients with renal impairment to prevent lactic acidosis.
+Ultrasound uses sound waves at frequencies above 2 MHz; image resolution increases with frequency but depth of penetration decreases.
+B-mode (brightness mode) ultrasound provides real-time 2D grayscale imaging; M-mode (motion mode) tracks movement over time.
+Color Doppler maps the direction and velocity of blood flow; power Doppler is more sensitive to slow flow but does not show direction.
+Spectral Doppler waveforms characterize arterial (pulsatile, systolic peak) and venous (continuous, phasic) flow patterns.
+Acoustic shadowing on ultrasound occurs posterior to highly echogenic structures (calculi, calcification, gas); it confirms calcification.
+Posterior acoustic enhancement (through transmission) occurs behind fluid-filled structures such as cysts and confirms fluid content.
+Reverberation artifact on ultrasound produces repeated parallel echoes posterior to a highly reflective interface such as bowel gas or a metallic foreign body.
+Ring-down artifact on ultrasound consists of a continuous streak of echoes posterior to gas bubbles and is used to identify pneumobilia.
+Elastography measures tissue stiffness using ultrasound or MRI; it is used to assess liver fibrosis and characterize breast and thyroid nodules.
+Contrast-enhanced ultrasound (CEUS) uses microbubble contrast agents to characterize liver lesions and assess perfusion without radiation.
+TIRADS (Thyroid Imaging Reporting and Data System) classifies thyroid nodules on ultrasound from TR1 (benign) to TR5 (highly suspicious); FNA is guided by TIRADS category and nodule size.
+Features of malignancy in thyroid nodules on ultrasound: taller-than-wide shape, hypoechogenicity, irregular margins, microcalcifications, and extrathyroidal extension.
+Parathyroid adenoma on ultrasound appears as an oval hypoechoic structure posterior to the thyroid gland; sestamibi scintigraphy confirms the diagnosis.
+Salivary gland calculi on ultrasound appear as echogenic foci with posterior shadowing within the ductal system; the submandibular gland is most commonly affected.
+Lymph node malignancy on ultrasound is suggested by rounded shape (L:T ratio below 2), loss of fatty hilum, peripheral vascularity, and internal necrosis.
+Reactive lymph nodes are oval with a preserved echogenic hilum and hilar vascularity on Doppler ultrasound.
+Musculoskeletal ultrasound can dynamically assess tendons, muscles, joints, and peripheral nerves; it guides injection procedures.
+Carpal tunnel syndrome on ultrasound shows increased cross-sectional area of the median nerve above 10 mm2 at the level of the pisiform.
+Deep vein thrombosis in the upper limb (subclavian, axillary, brachial vein) is detected by venous duplex ultrasound and may require anticoagulation.
+Ultrasound-guided procedures include central venous access, thoracentesis, paracentesis, abscess drainage, and joint aspiration, reducing complication rates.
+Interventional ultrasound with real-time needle guidance reduces complication rates and improves first-pass success for vascular access.
+Pediatric abdominal ultrasound evaluates appendicitis, pyloric stenosis, intussusception, and renal pathology as first-line imaging due to absence of radiation.
+Intussusception on ultrasound shows a target sign (concentric rings of bowel within bowel) in transverse section and a pseudokidney sign in longitudinal section.
+Pyloric stenosis on ultrasound is confirmed by a pyloric muscle thickness above 3-4 mm, channel length above 17 mm, and non-passage of fluid.
+Neonatal brain ultrasound through the anterior fontanelle is used for screening for intraventricular hemorrhage in premature infants.
+Grade IV intraventricular hemorrhage (periventricular hemorrhagic infarction) in neonates on ultrasound shows asymmetric periventricular hyperechogenicity with ventricular dilatation.
+Congenital hip dysplasia is assessed by the Graf classification on hip ultrasound: alpha angle above 60 degrees is normal; below 43 degrees indicates dysplasia.
+Fetal anomaly scan at 18-20 weeks evaluates fetal anatomy including brain, face, spine, heart, abdominal wall, kidneys, and limbs.
+Skeletal dysplasias in utero are suspected on ultrasound by short long bones, abnormal bone echogenicity, and abnormal head shape or skull ossification.
+Nuclear medicine bone scan uses 99mTc-MDP to detect osteoblastic activity; whole-body scan screens for bone metastases.
+Gallium-67 and 18F-FDG PET are used to detect active infection and inflammation; gallium accumulates in areas of increased metabolic activity.
+SPECT (single photon emission computed tomography) provides 3D functional imaging; SPECT-CT fuses functional and anatomical data.
+Myocardial perfusion scintigraphy (MIBI scan) assesses myocardial viability and perfusion under stress and rest conditions; fixed defects indicate infarction, reversible defects indicate ischemia.
+Thyroid scintigraphy with 99mTc or 123I assesses thyroid function; hot nodules (autonomous) are rarely malignant; cold nodules carry a 10-15% risk of malignancy.
+Whole-body 131I scan after thyroidectomy detects residual thyroid tissue and distant metastases in differentiated thyroid carcinoma.
+Hepatobiliary scintigraphy (HIDA scan) assesses bile duct patency and gallbladder function; failure of isotope to enter the gallbladder suggests acute cholecystitis.
+Meckel's diverticulum scintigraphy uses 99mTc-pertechnetate, which is taken up by ectopic gastric mucosa; it is most sensitive in children with rectal bleeding.
+Renography with MAG3 or DTPA assesses differential renal function and drainage; an obstructed pattern on furosemide renography suggests ureteropelvic junction obstruction.
+Lymphoscintigraphy maps the lymphatic drainage from a tumor site and identifies sentinel lymph nodes for biopsy in breast cancer and melanoma.
+Octreotide scintigraphy and 68Ga-DOTATATE PET-CT detect somatostatin receptor-positive neuroendocrine tumors.
+68Ga-PSMA PET-CT is highly sensitive for prostate cancer staging and detection of biochemical recurrence.
+18F-DOPA PET is used for neurological applications including Parkinson's disease assessment and evaluation of movement disorders.
+Interventional radiology in trauma includes hepatic, splenic, pelvic, and renal angioembolization for solid organ injury and pelvic fracture hemorrhage.
+TIPSS reduces portal pressure and treats variceal hemorrhage and refractory ascites; it is guided by fluoroscopy with real-time venous pressure measurement.
+IVC filter placement prevents pulmonary embolism in patients with DVT who cannot be anticoagulated; retrievable filters are preferred.
+Chest drain insertion under CT or fluoroscopic guidance is used for complex or loculated pleural collections requiring accurate drain positioning.
+Percutaneous nephrostomy is performed under ultrasound or fluoroscopic guidance to relieve ureteral obstruction and allow access for subsequent intervention.
+Biliary drainage is performed percutaneously under fluoroscopic guidance in patients with obstructive jaundice who cannot undergo ERCP.
+CT-guided biopsy of deep lesions provides tissue diagnosis with a complication rate below 5% for pneumothorax and bleeding.
+Radiofrequency ablation of liver tumors achieves local tumor control rates of 85-90% for tumors below 3 cm; MRI or CT at 1 month confirms ablation completeness.
+Prostatic artery embolization reduces prostatic volume and lower urinary tract symptoms in benign prostatic hyperplasia and is an alternative to surgery.
+Fallopian tube recanalization is a fluoroscopy-guided procedure to treat proximal tubal occlusion in infertility; patency is confirmed by contrast passage.
+Percutaneous transhepatic cholangiography (PTC) delineates biliary anatomy before surgery or ERCP, particularly in complex biliary strictures or stones.
+Spinal angiography identifies the artery of Adamkiewicz and the spinal cord vasculature before aortic surgery to prevent cord ischemia.
+ERCP under fluoroscopy allows sphincterotomy, stone extraction, and stent placement in the bile duct and pancreatic duct.
+Gastrostomy insertion under fluoroscopic or ultrasound guidance provides enteral access for patients who cannot swallow.
+Intracranial pressure monitoring and CSF drainage can be performed under CT guidance with stereotactic precision.
+Image-guided stereotactic biopsy of brain lesions is performed using CT or MRI coordinates to sample tissue from inaccessible deep lesions.
+Gamma knife radiosurgery delivers precisely focused radiation to intracranial targets using MRI-based planning; it is used for brain metastases, meningioma, and AVM.
+Stereotactic body radiotherapy (SBRT) delivers high-dose radiation to extracranial targets such as lung, liver, and spine tumors using image guidance.
+4D-CT incorporates respiratory motion information and is used in radiotherapy planning for thoracic and abdominal tumors to account for breathing movement.
+MRI-guided radiotherapy uses real-time MRI to track tumor motion and adapt treatment delivery, improving precision and reducing toxicity.
+Spectral Doppler of the hepatic artery after liver transplantation assesses patency and hepatic artery stenosis or thrombosis.
+Renal transplant ultrasound with Doppler is performed on day 1 post-transplant and at follow-up to detect vascular complications, rejection, and hydronephrosis.
+Resistive index (RI) on renal Doppler above 0.8 in a renal transplant suggests elevated intrarenal resistance from rejection, venous thrombosis, or obstruction.
+Ovarian torsion on ultrasound shows an enlarged ovary, absent or reduced Doppler flow, and peripheral follicles; normal Doppler does not exclude torsion.
+Testicular torsion on scrotal Doppler ultrasound shows absent intratesticular blood flow; surgical exploration must not be delayed for equivocal findings.
+Epididymitis on scrotal Doppler shows increased blood flow in the epididymis with or without orchitis.
+Hydrocele on ultrasound shows anechoic fluid surrounding the testis in the tunica vaginalis.
+Varicocele on Doppler ultrasound is identified by dilated pampiniform plexus veins above 3 mm with reflux on Valsalva maneuver.
+Penile Doppler ultrasound assesses erectile dysfunction by measuring peak systolic velocity and end-diastolic velocity in the cavernosal arteries during pharmacological erection.
+Ultrasound contrast is used for CEUS of the liver, kidneys, and bladder, providing real-time enhancement information similar to CT without radiation.
+Fusion imaging combines ultrasound in real time with pre-acquired CT or MRI data, allowing ultrasound-guided biopsy of lesions seen only on cross-sectional imaging.
+Positron emission tomography relies on annihilation radiation from positron-emitting radioisotopes; coincidence detection produces tomographic images of metabolic activity.
+FDG-PET reflects glucose metabolism; malignant cells with increased glycolysis show high FDG uptake; areas of active inflammation also show FDG uptake.
+Physiological FDG uptake is seen in the brain, heart, kidneys, ureters, bladder, and bowel, which may obscure adjacent lesions on PET-CT.
+FDG-PET is used for initial staging, restaging after treatment, and assessment of treatment response in lymphoma, non-small cell lung cancer, and colorectal cancer.
+Deauville criteria use a 5-point scale comparing FDG uptake in lymphoma to mediastinal blood pool and liver; score 4-5 at interim assessment predicts treatment failure.
+FDG-PET can detect unknown primary tumors in patients presenting with metastatic cancer when conventional imaging is negative.
+Bone marrow involvement in lymphoma is detected by PET-CT without the need for bone marrow biopsy in PET-avid lymphomas.
+PET-CT distinguishes viable tumor from radiation necrosis or scar tissue in treated brain tumors, complementing MRI.
+Cardiac PET with 82Rb or 13N-ammonia assesses myocardial perfusion; 18F-FDG PET identifies viable myocardium in ischemic cardiomyopathy.
+Amyloid PET (18F-florbetapir, florbetaben) detects brain amyloid plaques and supports diagnosis of Alzheimer's disease.
+Tau PET tracers image neurofibrillary tau pathology and help differentiate Alzheimer's from other tauopathies.
+Dopamine transporter (DaTscan) SPECT distinguishes Parkinson's disease from essential tremor; reduced striatal uptake confirms dopaminergic deficit.
+MIBG (131I or 123I metaiodobenzylguanidine) scintigraphy detects pheochromocytoma, paraganglioma, and neuroblastoma with high specificity.
+Sentinel node lymphoscintigraphy with 99mTc-nanocolloidal albumin maps lymphatic drainage in breast cancer and melanoma for sentinel node biopsy.
+Radio-guided surgery uses an intraoperative gamma probe to localize sentinel lymph nodes or previously marked lesions for surgical excision.
+Theranostics pairs a diagnostic radiotracer with a therapeutic radioligand targeting the same receptor; 177Lu-DOTATATE treats neuroendocrine tumors after 68Ga-DOTATATE PET staging.
+177Lu-PSMA therapy targets PSMA-overexpressing prostate cancer cells; response is assessed by 68Ga-PSMA PET and PSA kinetics.
+Selective internal radiation therapy (SIRT) with 90Y-microspheres treats hepatocellular carcinoma and colorectal liver metastases via hepatic artery administration.
+Imaging of the pediatric airway by lateral neck X-ray shows the steeple sign (subglottic narrowing) in croup and the thumb sign (epiglottic swelling) in epiglottitis.
+Hypertrophic pyloric stenosis on upper GI contrast study shows a string sign (thin channel of barium) and shoulder sign; ultrasound is preferred and avoids radiation.
+Abdominal X-ray in a neonate with bilious vomiting and a double bubble sign suggests duodenal atresia or stenosis; the two bubbles represent the stomach and proximal duodenum.
+Triple bubble sign on neonatal X-ray suggests jejunal atresia with three dilated bowel loops.
+Hirschsprung's disease on contrast enema shows a transition zone between dilated proximal colon and narrowed aganglionic segment with a rectosigmoid ratio below 1.
+Necrotizing enterocolitis (NEC) on abdominal X-ray shows distended bowel loops, pneumatosis intestinalis, portal venous gas, and pneumoperitoneum in severe cases.
+Malrotation with midgut volvulus on upper GI contrast study shows the duodenojejunal junction (ligament of Treitz) displaced to the right of the spine.
+Ultrasound of the neonatal spine screens for spinal dysraphism when skin stigmata are present; MRI is the definitive investigation for cord tethering.
+DMSA renal scan is the gold standard for assessing renal cortical scarring in children following pyelonephritis.
+MAG3 diuretic renography in children evaluates obstruction at the ureteropelvic or ureterovesical junction in hydronephrosis detected on antenatal ultrasound.
+MR enterography is preferred over CT enterography in children and young patients with inflammatory bowel disease due to absence of ionizing radiation.
+Abdominal and pelvic MRI in rectal cancer provides accurate T and N staging, assesses circumferential resection margin, and identifies extramural vascular invasion.
+MR rectal cancer staging: T1 (confined to mucosa/submucosa), T2 (into muscularis propria), T3 (beyond muscularis propria), T4 (adjacent organ invasion).
+Circumferential resection margin involvement on rectal MRI predicts local recurrence; a clear margin of 1 mm or more is the surgical goal.
+MRCP is the primary investigation for primary sclerosing cholangitis, showing multifocal biliary strictures with beading and dilatation of intrahepatic and extrahepatic ducts.
+Choledochal cysts are classified by Todani classification types I-V; type I (fusiform dilatation of CBD) is most common and is at risk of cholangiocarcinoma.
+Cholangiocarcinoma on MRCP appears as a biliary stricture; MRI shows periductal enhancement; CA19-9 is elevated; biopsy confirms the diagnosis.
+Autoimmune pancreatitis on CT shows a sausage-shaped pancreas with a halo of fibroinflammatory tissue; IgG4 levels are elevated in type 1.
+Groove pancreatitis on MRI shows a mass-forming lesion in the groove between the head of pancreas, duodenum, and common bile duct; it mimics pancreatic cancer.
+Intraductal papillary mucinous neoplasm (IPMN) on MRCP shows dilatation of the main pancreatic duct or branch ducts with communication; high-risk features include main duct involvement and solid components.
+Mucinous cystic neoplasm of the pancreas on CT shows a multilocular cystic mass with thick septations in the body or tail in middle-aged women; it has malignant potential.
+Serous cystadenoma of the pancreas on CT shows a microcystic lesion (honeycomb pattern) with or without a central scar; it is almost always benign.
+CT colonography preparation requires bowel cleansing and fecal tagging; supine and prone positions are acquired to differentiate feces from polyps.
+Polyps on CT colonography are characterized by size (above 6 mm requires follow-up, above 10 mm requires colonoscopy), morphology, and density.
+Sessile serrated adenoma on CT colonography may appear as a flat lesion that is difficult to detect; prone position and window leveling improve detection.
+CT enteroclysis involves direct intubation of the jejunum with catheter and contrast infusion; it provides superior distension of the small bowel compared to oral CT enterography.
+Wireless capsule endoscopy is used for small bowel evaluation of obscure GI bleeding, Crohn's disease, and small bowel tumors; it provides luminal images without radiation.
